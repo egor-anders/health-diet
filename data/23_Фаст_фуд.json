@@ -1,0 +1,1591 @@
+﻿[
+    {
+        "name": "BURGER KING, ванильный коктейль",
+        "calories": "168",
+        "proteins": "3,19",
+        "fats": "8,74",
+        "carbohydrates": "19,03"
+    },
+    {
+        "name": "BURGER KING, гамбургер",
+        "calories": "261",
+        "proteins": "14,85",
+        "fats": "10,55",
+        "carbohydrates": "25,76"
+    },
+    {
+        "name": "BURGER KING, двойной \"WHOPPER\", без сыра",
+        "calories": "252",
+        "proteins": "13,94",
+        "fats": "15,66",
+        "carbohydrates": "12,34"
+    },
+    {
+        "name": "BURGER KING, двойной \"WHOPPER\", с сыром",
+        "calories": "266",
+        "proteins": "14,47",
+        "fats": "17,06",
+        "carbohydrates": "11,92"
+    },
+    {
+        "name": "BURGER KING, драники",
+        "calories": "302",
+        "proteins": "2,8",
+        "fats": "19,3",
+        "carbohydrates": "27,07"
+    },
+    {
+        "name": "BURGER KING, картошка фри",
+        "calories": "280",
+        "proteins": "3,23",
+        "fats": "12,48",
+        "carbohydrates": "35,8"
+    },
+    {
+        "name": "BURGER KING, круассан \"CROISSAN'WICH\" с сосиской и сыром",
+        "calories": "376",
+        "proteins": "13,73",
+        "fats": "25,45",
+        "carbohydrates": "22,3"
+    },
+    {
+        "name": "BURGER KING, круассан \"CROISSAN'WICH\" с сосиской, яйцом и сыром",
+        "calories": "308",
+        "proteins": "12,09",
+        "fats": "21,78",
+        "carbohydrates": "14,1"
+    },
+    {
+        "name": "BURGER KING, круассан \"CROISSAN'WICH\" с яйцом и сыром",
+        "calories": "283",
+        "proteins": "10,35",
+        "fats": "15,78",
+        "carbohydrates": "24,09"
+    },
+    {
+        "name": "BURGER KING, куриное филе \"CHICKEN TENDERS\"",
+        "calories": "292",
+        "proteins": "18,2",
+        "fats": "15,25",
+        "carbohydrates": "19,19"
+    },
+    {
+        "name": "BURGER KING, куриный сэндвич \"Original Chicken Sandwich\"",
+        "calories": "286",
+        "proteins": "12,14",
+        "fats": "14,69",
+        "carbohydrates": "23,82"
+    },
+    {
+        "name": "BURGER KING, сэндвич \"WHOPPER\", без сыра",
+        "calories": "233",
+        "proteins": "10,74",
+        "fats": "12,84",
+        "carbohydrates": "16,75"
+    },
+    {
+        "name": "BURGER KING, сэндвич \"WHOPPER\", с сыром",
+        "calories": "250",
+        "proteins": "11,19",
+        "fats": "15,33",
+        "carbohydrates": "15,7"
+    },
+    {
+        "name": "BURGER KING, французские гренки",
+        "calories": "349",
+        "proteins": "6",
+        "fats": "17,74",
+        "carbohydrates": "39,81"
+    },
+    {
+        "name": "BURGER KING, чизбургер",
+        "calories": "286",
+        "proteins": "14,57",
+        "fats": "14,81",
+        "carbohydrates": "22,71"
+    },
+    {
+        "name": "DOMINO'S, пицца \"EXTRAVAGANZZA FEAST\", на классическом корже, сформированном вручную, 14 дюймов",
+        "calories": "244",
+        "proteins": "10,33",
+        "fats": "11,1",
+        "carbohydrates": "23,72"
+    },
+    {
+        "name": "DOMINO'S, пицца с паперони \"Pepperoni Pizza\", на замороженном корже, 14 дюймов",
+        "calories": "283",
+        "proteins": "11,52",
+        "fats": "12,1",
+        "carbohydrates": "29,49"
+    },
+    {
+        "name": "DOMINO'S, пицца с паперони \"Pepperoni Pizza\", на классическом корже, сформированном вручную, 14 дюймов",
+        "calories": "273",
+        "proteins": "11,25",
+        "fats": "11,18",
+        "carbohydrates": "29,76"
+    },
+    {
+        "name": "DOMINO'S, сырная пицца \"Cheese Pizza\", на замороженном корже, 14 дюймов",
+        "calories": "265",
+        "proteins": "10,76",
+        "fats": "9,83",
+        "carbohydrates": "31,08"
+    },
+    {
+        "name": "DOMINO'S, сырная пицца \"Cheese Pizza\", на классическом корже, сформированном вручную, 14 дюймов",
+        "calories": "257",
+        "proteins": "10,8",
+        "fats": "8,97",
+        "carbohydrates": "31,04"
+    },
+    {
+        "name": "DOMINO'S, сырная пицца \"Cheese Pizza\", на тонком корже с кусочками арахиса",
+        "calories": "298",
+        "proteins": "12,33",
+        "fats": "15,1",
+        "carbohydrates": "25,68"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, бисквит, информация состоянием на январь 2007",
+        "calories": "358",
+        "proteins": "7,5",
+        "fats": "17,05",
+        "carbohydrates": "41,55"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная в панировке курица \"EXTRA CRISPY\", бедра, мясо и шкурка, информация состоянием на январь 2007",
+        "calories": "309",
+        "proteins": "17,17",
+        "fats": "22,14",
+        "carbohydrates": "10,3"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная в панировке курица \"EXTRA CRISPY\", крылышки, мясо и шкурка, информация состоянием на  январе 2007",
+        "calories": "337",
+        "proteins": "20,8",
+        "fats": "23",
+        "carbohydrates": "11,66"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная в панировке курица \"EXTRA CRISPY\", ножки, мясо и шкурка, информация состоянием на январь 2007",
+        "calories": "274",
+        "proteins": "20,62",
+        "fats": "17,73",
+        "carbohydrates": "7,96"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная в панировке курица \"EXTRA CRISPY\", шкурка, информация состоянием на январь 2007",
+        "calories": "464",
+        "proteins": "10,96",
+        "fats": "36,61",
+        "carbohydrates": "21,04"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная в панировке курица \"ORIGINAL RECIPE\", бедра, мясо и шкурка, информация состоянием на январь 2007",
+        "calories": "269",
+        "proteins": "18,9",
+        "fats": "17,73",
+        "carbohydrates": "8,46"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная в панировке курица \"ORIGINAL RECIPE\", грудка, мясо и шкурка, информация состоянием на январь 2007",
+        "calories": "231",
+        "proteins": "21,94",
+        "fats": "13,11",
+        "carbohydrates": "6,28"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная в панировке курица \"ORIGINAL RECIPE\", крылышки, мясо и шкурка, информация состоянием на  январь 2007",
+        "calories": "297",
+        "proteins": "21,7",
+        "fats": "18,9",
+        "carbohydrates": "9,93"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная в панировке курица \"ORIGINAL RECIPE\", ножки, мясо и шкурка, информация состоянием на  январь 2007",
+        "calories": "239",
+        "proteins": "22,3",
+        "fats": "14,22",
+        "carbohydrates": "5,39"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная в панировке курица \"ORIGINAL RECIPE\", шкурка, информация состоянием на  январь 2007",
+        "calories": "384",
+        "proteins": "14,17",
+        "fats": "28,01",
+        "carbohydrates": "18,79"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная курица \"EXTRA CRISPY\", бедра, только мясо,  информация состоянием на  январь 2007",
+        "calories": "179",
+        "proteins": "22,41",
+        "fats": "9,96",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная курица \"EXTRA CRISPY\", грудка, только мясо, информация состоянием на январь 2007",
+        "calories": "153",
+        "proteins": "27,25",
+        "fats": "4,82",
+        "carbohydrates": "0,25"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная курица \"EXTRA CRISPY\", крылышки, только мясо, информация состоянием на  январь 2007",
+        "calories": "236",
+        "proteins": "28,67",
+        "fats": "12,13",
+        "carbohydrates": "2,97"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная курица \"EXTRA CRISPY\", ножки, только мясо, информация состоянием на  январь 2007",
+        "calories": "170",
+        "proteins": "25,9",
+        "fats": "7,43",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная курица \"ORIGINAL RECIPE\" ножки, только мясо, информация состоянием на  январь 2007",
+        "calories": "175",
+        "proteins": "26,3",
+        "fats": "7,66",
+        "carbohydrates": "0,11"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная курица \"ORIGINAL RECIPE\", бедра, только мясо, информация состоянием на  январь 2007",
+        "calories": "175",
+        "proteins": "22,78",
+        "fats": "9,31",
+        "carbohydrates": "0,01"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная курица \"ORIGINAL RECIPE\", грудка, только мясо, информация состоянием на  январь 2007",
+        "calories": "149",
+        "proteins": "26,89",
+        "fats": "4,56",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жареная курица \"ORIGINAL RECIPE\", крылышки, только мясо, информация состоянием на  январь 2007",
+        "calories": "216",
+        "proteins": "28,65",
+        "fats": "10,49",
+        "carbohydrates": "1,76"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, жаренаяв панировке курица \"EXTRA CRISPY\", грудка, мясо и шкурка, информация состоянием на янваье 2007",
+        "calories": "268",
+        "proteins": "21,24",
+        "fats": "16,55",
+        "carbohydrates": "8,47"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, куринный попкорн, информация состоянием на январь 2007",
+        "calories": "351",
+        "proteins": "17,67",
+        "fats": "21,74",
+        "carbohydrates": "20,18"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, салат из капусты",
+        "calories": "144",
+        "proteins": "0,91",
+        "fats": "8,64",
+        "carbohydrates": "13,65"
+    },
+    {
+        "name": "KENTUCKY FRIED CHICKEN, хрустящие куринные полосочки, информация состоянием на  январь 2007",
+        "calories": "274",
+        "proteins": "20,25",
+        "fats": "15,42",
+        "carbohydrates": "12,26"
+    },
+    {
+        "name": "LITTLE CAESARS, пицца с мясом и овощами, на оригинальном корже, 14 дюймов",
+        "calories": "243",
+        "proteins": "12,12",
+        "fats": "11,35",
+        "carbohydrates": "21"
+    },
+    {
+        "name": "LITTLE CAESARS, пицца с паперони \"Original Round Pepperoni Pizza\", на стандартном корже, 14 дюймов",
+        "calories": "273",
+        "proteins": "13,59",
+        "fats": "10,5",
+        "carbohydrates": "29,31"
+    },
+    {
+        "name": "LITTLE CAESARS, пицца с паперони \"Pepperoni Pizza\", на большом замороженном корже, 14 дюймов",
+        "calories": "265",
+        "proteins": "12,93",
+        "fats": "10,81",
+        "carbohydrates": "27,53"
+    },
+    {
+        "name": "LITTLE CAESARS, сырная пицца \"Cheese Pizza\", на большом замороженном корже, 14 дюймов",
+        "calories": "263",
+        "proteins": "12,63",
+        "fats": "10,22",
+        "carbohydrates": "28,8"
+    },
+    {
+        "name": "LITTLE CAESARS, сырная пицца \"Cheese Pizza\", на тонком корже, 14 дюймов",
+        "calories": "309",
+        "proteins": "16,23",
+        "fats": "16,99",
+        "carbohydrates": "21,25"
+    },
+    {
+        "name": "LITTLE CAESARS, сырная пицца \"Original Round Cheese Pizza\", на стандартном корже, 14 дюймов",
+        "calories": "265",
+        "proteins": "13,39",
+        "fats": "9,54",
+        "carbohydrates": "29,8"
+    },
+    {
+        "name": "McDONALD'S, \"BIG MAC\"",
+        "calories": "257",
+        "proteins": "11,82",
+        "fats": "14,96",
+        "carbohydrates": "18,48"
+    },
+    {
+        "name": "McDONALD'S, \"BIG MAC\" (без соуса Big Mac)",
+        "calories": "234",
+        "proteins": "12,79",
+        "fats": "11,57",
+        "carbohydrates": "19,31"
+    },
+    {
+        "name": "McDONALD'S, \"Chicken McNUGGETS\"",
+        "calories": "302",
+        "proteins": "15,79",
+        "fats": "19,81",
+        "carbohydrates": "15,09"
+    },
+    {
+        "name": "McDONALD'S, бисквит с беконом, яйцом и сыром",
+        "calories": "304",
+        "proteins": "13,45",
+        "fats": "18,77",
+        "carbohydrates": "21,36"
+    },
+    {
+        "name": "McDONALD'S, бисквит с котлетой",
+        "calories": "376",
+        "proteins": "9,62",
+        "fats": "25,4",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "McDONALD'S, бисквит с котлетой и яйцом",
+        "calories": "311",
+        "proteins": "11,27",
+        "fats": "22,26",
+        "carbohydrates": "18,48"
+    },
+    {
+        "name": "McDONALD'S, буррито с котлетой",
+        "calories": "262",
+        "proteins": "11,54",
+        "fats": "15,15",
+        "carbohydrates": "21,39"
+    },
+    {
+        "name": "McDONALD'S, гамбургер",
+        "calories": "264",
+        "proteins": "12,92",
+        "fats": "10,09",
+        "carbohydrates": "28,98"
+    },
+    {
+        "name": "McDONALD'S, готовые завтраки \"BIG BREAKFAST\"",
+        "calories": "285",
+        "proteins": "10,16",
+        "fats": "19,37",
+        "carbohydrates": "16,4"
+    },
+    {
+        "name": "McDONALD'S, двойной сэндвич \"QUARTER POUNDER\" с сыром",
+        "calories": "262",
+        "proteins": "16,96",
+        "fats": "16,22",
+        "carbohydrates": "13,43"
+    },
+    {
+        "name": "McDONALD'S, двойной чизбургер",
+        "calories": "282",
+        "proteins": "15,5",
+        "fats": "16,09",
+        "carbohydrates": "17,99"
+    },
+    {
+        "name": "McDONALD'S, драники",
+        "calories": "262",
+        "proteins": "2,26",
+        "fats": "16,46",
+        "carbohydrates": "26,3"
+    },
+    {
+        "name": "McDONALD'S, завтрак \"Deluxe\", с сиропом и маргарином",
+        "calories": "285",
+        "proteins": "7,56",
+        "fats": "15,23",
+        "carbohydrates": "28,48"
+    },
+    {
+        "name": "McDONALD'S, йогуртово-фруктовое Парфе",
+        "calories": "105",
+        "proteins": "2,73",
+        "fats": "1,3",
+        "carbohydrates": "19,72"
+    },
+    {
+        "name": "McDONALD'S, йогуртово-фруктовое Парфе (без гранолы)",
+        "calories": "90",
+        "proteins": "2,47",
+        "fats": "1,13",
+        "carbohydrates": "16,77"
+    },
+    {
+        "name": "McDONALD'S, картошка фри",
+        "calories": "323",
+        "proteins": "3,41",
+        "fats": "15,47",
+        "carbohydrates": "38,68"
+    },
+    {
+        "name": "McDONALD'S, котлета McGRIDDLES",
+        "calories": "312",
+        "proteins": "8,41",
+        "fats": "17,76",
+        "carbohydrates": "30,25"
+    },
+    {
+        "name": "McDONALD'S, котлета McMuffin",
+        "calories": "333",
+        "proteins": "12,66",
+        "fats": "21,06",
+        "carbohydrates": "23,12"
+    },
+    {
+        "name": "McDONALD'S, котлета McMuffin с яйцом",
+        "calories": "274",
+        "proteins": "12,59",
+        "fats": "17,83",
+        "carbohydrates": "16,38"
+    },
+    {
+        "name": "McDONALD'S, котлета McMuffin с яйцом и сыром",
+        "calories": "283",
+        "proteins": "10,77",
+        "fats": "17,73",
+        "carbohydrates": "21,44"
+    },
+    {
+        "name": "McDONALD'S, мороженное \"McFLURRY\" с конфетами \"M and M'S\"",
+        "calories": "177",
+        "proteins": "4,02",
+        "fats": "6,46",
+        "carbohydrates": "26,62"
+    },
+    {
+        "name": "McDONALD'S, мороженное \"McFLURRY\" с печеньем \"OREO\"",
+        "calories": "165",
+        "proteins": "3,97",
+        "fats": "5,66",
+        "carbohydrates": "25,45"
+    },
+    {
+        "name": "McDONALD'S, обезжиренное ванильное мороженое, рожок",
+        "calories": "162",
+        "proteins": "4,24",
+        "fats": "4,86",
+        "carbohydrates": "26,26"
+    },
+    {
+        "name": "McDONALD'S, оладьи",
+        "calories": "228",
+        "proteins": "6",
+        "fats": "5,84",
+        "carbohydrates": "36,87"
+    },
+    {
+        "name": "McDONALD'S, оладьи (с двумя шариками масла и сиропом)",
+        "calories": "272",
+        "proteins": "4,05",
+        "fats": "8,06",
+        "carbohydrates": "45,18"
+    },
+    {
+        "name": "McDONALD'S, оладьи с сосисками",
+        "calories": "294",
+        "proteins": "7,81",
+        "fats": "12,5",
+        "carbohydrates": "35,95"
+    },
+    {
+        "name": "McDONALD'S, пломбир клубничный",
+        "calories": "158",
+        "proteins": "3,19",
+        "fats": "3,95",
+        "carbohydrates": "28,09"
+    },
+    {
+        "name": "McDONALD'S, пломбир с горячей карамелью",
+        "calories": "188",
+        "proteins": "3,58",
+        "fats": "4,89",
+        "carbohydrates": "33,36"
+    },
+    {
+        "name": "McDONALD'S, пломбир с горячей помадкой",
+        "calories": "186",
+        "proteins": "4,14",
+        "fats": "5,91",
+        "carbohydrates": "29,65"
+    },
+    {
+        "name": "McDONALD'S, рыбный сэндвич \"FILET-O-FISH\"",
+        "calories": "282",
+        "proteins": "11,26",
+        "fats": "14,64",
+        "carbohydrates": "24,99"
+    },
+    {
+        "name": "McDONALD'S, рыбный сэндвич \"FILET-O-FISH\" (без соуса тартар)",
+        "calories": "243",
+        "proteins": "12,47",
+        "fats": "7,62",
+        "carbohydrates": "30,08"
+    },
+    {
+        "name": "McDONALD'S, салат с беконом и хрустящей курятиной \"Bacon Ranch Salad\"",
+        "calories": "122",
+        "proteins": "8,82",
+        "fats": "6,3",
+        "carbohydrates": "5,08"
+    },
+    {
+        "name": "McDONALD'S, сэндвич \"McCHICKEN\" (без майонеза)",
+        "calories": "240",
+        "proteins": "11,08",
+        "fats": "8,46",
+        "carbohydrates": "29,55"
+    },
+    {
+        "name": "McDONALD'S, сэндвич \"McMUFFIN\" с яйцом",
+        "calories": "228",
+        "proteins": "13,64",
+        "fats": "9,66",
+        "carbohydrates": "20,57"
+    },
+    {
+        "name": "McDONALD'S, сэндвич \"QUARTER POUNDER\"",
+        "calories": "244",
+        "proteins": "14,1",
+        "fats": "11,55",
+        "carbohydrates": "20,57"
+    },
+    {
+        "name": "McDONALD'S, сэндвич \"QUARTER POUNDER\" (с сыром)",
+        "calories": "258",
+        "proteins": "14,59",
+        "fats": "14,22",
+        "carbohydrates": "18,55"
+    },
+    {
+        "name": "McDONALD'S, сэндвич с беконом, яйцом и сыром \"McGRIDDLES\"",
+        "calories": "272",
+        "proteins": "12,03",
+        "fats": "13,19",
+        "carbohydrates": "25,39"
+    },
+    {
+        "name": "McDONALD'S, чизбургер",
+        "calories": "263",
+        "proteins": "12,97",
+        "fats": "11,79",
+        "carbohydrates": "26,71"
+    },
+    {
+        "name": "PAPA JOHN'S, пицца \"Works Pizza\", на фирменном корже, 14 дюймов",
+        "calories": "240",
+        "proteins": "10,27",
+        "fats": "10,21",
+        "carbohydrates": "24,19"
+    },
+    {
+        "name": "PAPA JOHN'S, пицца с паперони \"Pepperoni Pizza\", на оригинальном корже, 14 дюймов",
+        "calories": "275",
+        "proteins": "11,97",
+        "fats": "11,86",
+        "carbohydrates": "28,84"
+    },
+    {
+        "name": "PAPA JOHN'S, сырная пицца \"Cheese Pizza\", на оригинальмом корже, 14 дюймов",
+        "calories": "260",
+        "proteins": "11,53",
+        "fats": "9,25",
+        "carbohydrates": "30,84"
+    },
+    {
+        "name": "PAPA JOHN'S, сырная пицца \"Cheese Pizza\", на тонком корже, 14 дюймов",
+        "calories": "295",
+        "proteins": "12,29",
+        "fats": "15,66",
+        "carbohydrates": "23,96"
+    },
+    {
+        "name": "PIZZA HUT, пицца \"Super Supreme Pizza\", на стандартном корже, 12 дюймов",
+        "calories": "243",
+        "proteins": "10,9",
+        "fats": "10,72",
+        "carbohydrates": "23,62"
+    },
+    {
+        "name": "PIZZA HUT, пицца \"Super Supreme Pizza\", на стандартном корже, 14 дюймов",
+        "calories": "248",
+        "proteins": "11,34",
+        "fats": "10,95",
+        "carbohydrates": "23,71"
+    },
+    {
+        "name": "PIZZA HUT, пицца с паперони \"Pepperoni Pizza\", на стандартном корже, 12 дюймов",
+        "calories": "280",
+        "proteins": "12,86",
+        "fats": "11,38",
+        "carbohydrates": "29,85"
+    },
+    {
+        "name": "PIZZA HUT, пицца с паперони \"Pepperoni Pizza\", на стандартном корже, 14 дюймов",
+        "calories": "291",
+        "proteins": "12,23",
+        "fats": "12,63",
+        "carbohydrates": "29,51"
+    },
+    {
+        "name": "PIZZA HUT, пицца с паперони \"Pepperoni Pizza\", на толстом корже, 12 дюймов",
+        "calories": "298",
+        "proteins": "11,97",
+        "fats": "14,21",
+        "carbohydrates": "28,69"
+    },
+    {
+        "name": "PIZZA HUT, пицца с паперони \"Pepperoni Pizza\", на толстом корже, 14 дюймов",
+        "calories": "291",
+        "proteins": "11,47",
+        "fats": "13,07",
+        "carbohydrates": "29,79"
+    },
+    {
+        "name": "PIZZA HUT, сырная пицца \"Cheese Pizza\", на стандартном корже, 12 дюймов",
+        "calories": "271",
+        "proteins": "11,93",
+        "fats": "10,89",
+        "carbohydrates": "29,42"
+    },
+    {
+        "name": "PIZZA HUT, сырная пицца \"Cheese Pizza\", на стандартном корже, 14 дюймов",
+        "calories": "275",
+        "proteins": "11,98",
+        "fats": "10,42",
+        "carbohydrates": "31,02"
+    },
+    {
+        "name": "PIZZA HUT, сырная пицца \"Cheese Pizza\", на толстом корже, 12 дюймов",
+        "calories": "280",
+        "proteins": "11,73",
+        "fats": "12,56",
+        "carbohydrates": "28,23"
+    },
+    {
+        "name": "PIZZA HUT, сырная пицца \"Cheese Pizza\", на толстом корже, 14 дюймов",
+        "calories": "276",
+        "proteins": "10,85",
+        "fats": "11,25",
+        "carbohydrates": "30,75"
+    },
+    {
+        "name": "PIZZA HUT, сырная пицца \"Cheese Pizza\", на тонком хрустящем корже, 12 дюймов",
+        "calories": "303",
+        "proteins": "15,29",
+        "fats": "14,1",
+        "carbohydrates": "27,04"
+    },
+    {
+        "name": "PIZZA HUT, сырная пицца \"Cheese Pizza\", на тонком хрустящем корже, 14 дюймов",
+        "calories": "306",
+        "proteins": "13,37",
+        "fats": "12,8",
+        "carbohydrates": "31,82"
+    },
+    {
+        "name": "POPEYES, бисквит, информация состоянием на ноябрь 2007",
+        "calories": "401",
+        "proteins": "6",
+        "fats": "23,71",
+        "carbohydrates": "37,15"
+    },
+    {
+        "name": "POPEYES, жареная в панировке курица, бедра, мясо и шкурка, информация состоянием на январь 2007",
+        "calories": "310",
+        "proteins": "19,14",
+        "fats": "20,99",
+        "carbohydrates": "10,7"
+    },
+    {
+        "name": "POPEYES, жареная в панировке курица, грудка, мясо и шкурка, информация состоянием на январь 2007",
+        "calories": "274",
+        "proteins": "21,67",
+        "fats": "16,47",
+        "carbohydrates": "9,43"
+    },
+    {
+        "name": "POPEYES, жареная в панировке курица, крылышки, мясо и шкурка, информация состоянием на  январь 2007",
+        "calories": "338",
+        "proteins": "20,4",
+        "fats": "22,48",
+        "carbohydrates": "12,92"
+    },
+    {
+        "name": "POPEYES, жареная в панировке курица, ножки, мясо и шкурка, острые, информация состоянием на  январь 2007",
+        "calories": "293",
+        "proteins": "20,44",
+        "fats": "19,14",
+        "carbohydrates": "9,84"
+    },
+    {
+        "name": "POPEYES, жареная в панировке курица, шкурка, информация состоянием на  январь 2007",
+        "calories": "433",
+        "proteins": "13,96",
+        "fats": "32,32",
+        "carbohydrates": "20,54"
+    },
+    {
+        "name": "POPEYES, жареная курица, бедра, только мясо, информация состоянием на  январь 2007",
+        "calories": "188",
+        "proteins": "24,31",
+        "fats": "9,66",
+        "carbohydrates": "0,85"
+    },
+    {
+        "name": "POPEYES, жареная курица, грудка, только мясо, информация состоянием на  январь 2007",
+        "calories": "157",
+        "proteins": "28,98",
+        "fats": "4,52",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "POPEYES, жареная курица, крылышки, только мясо, информация состоянием на  январь 2007",
+        "calories": "212",
+        "proteins": "28,94",
+        "fats": "9,42",
+        "carbohydrates": "2,9"
+    },
+    {
+        "name": "POPEYES, жареная курица, ножки, только мясо, информация состоянием на  январь 2007",
+        "calories": "170",
+        "proteins": "26,51",
+        "fats": "7,14",
+        "carbohydrates": "0,04"
+    },
+    {
+        "name": "POPEYES, куринные полосочки, информация состоянием на  2006 год",
+        "calories": "271",
+        "proteins": "19,2",
+        "fats": "13,01",
+        "carbohydrates": "18,51"
+    },
+    {
+        "name": "POPEYES, острые куринные полосочки, информация состоянием на  2006 год",
+        "calories": "253",
+        "proteins": "19,61",
+        "fats": "11,2",
+        "carbohydrates": "17,32"
+    },
+    {
+        "name": "POPEYES, салат из капусты",
+        "calories": "161",
+        "proteins": "0,98",
+        "fats": "11,18",
+        "carbohydrates": "12,42"
+    },
+    {
+        "name": "TACO BELL, буррито \"SUPREME\" с говядиной",
+        "calories": "183",
+        "proteins": "7,03",
+        "fats": "6,8",
+        "carbohydrates": "19,67"
+    },
+    {
+        "name": "TACO BELL, буррито \"SUPREME\" с курицей",
+        "calories": "179",
+        "proteins": "9,84",
+        "fats": "6,42",
+        "carbohydrates": "18,11"
+    },
+    {
+        "name": "TACO BELL, буррито \"SUPREME\" со стейком",
+        "calories": "183",
+        "proteins": "9,13",
+        "fats": "7,27",
+        "carbohydrates": "17,92"
+    },
+    {
+        "name": "TACO BELL, буррито с бобами",
+        "calories": "209",
+        "proteins": "7,35",
+        "fats": "6,05",
+        "carbohydrates": "27,03"
+    },
+    {
+        "name": "TACO BELL, мягкое тако (тако с пшеничной лепешкой) с говядиной",
+        "calories": "206",
+        "proteins": "9,25",
+        "fats": "9,75",
+        "carbohydrates": "17,33"
+    },
+    {
+        "name": "TACO BELL, мягкое тако (тако с пшеничной лепешкой) с курицей",
+        "calories": "189",
+        "proteins": "13,3",
+        "fats": "6,35",
+        "carbohydrates": "18,49"
+    },
+    {
+        "name": "TACO BELL, мягкое тако (тако с пшеничной лепешкой) со стейком",
+        "calories": "225",
+        "proteins": "11,81",
+        "fats": "12,1",
+        "carbohydrates": "15,62"
+    },
+    {
+        "name": "TACO BELL, начо (картофельные чипсы)",
+        "calories": "350",
+        "proteins": "4,32",
+        "fats": "21,5",
+        "carbohydrates": "31,71"
+    },
+    {
+        "name": "TACO BELL, начо (картофельные чипсы) с соусом сюприм",
+        "calories": "246",
+        "proteins": "7,59",
+        "fats": "13,65",
+        "carbohydrates": "23,09"
+    },
+    {
+        "name": "TACO BELL, Оригинальное тако с говядиной",
+        "calories": "229",
+        "proteins": "8,86",
+        "fats": "12,7",
+        "carbohydrates": "15,95"
+    },
+    {
+        "name": "TACO BELL, салат тако",
+        "calories": "170",
+        "proteins": "6,69",
+        "fats": "9,17",
+        "carbohydrates": "12,1"
+    },
+    {
+        "name": "WENDY'S, гамбургер \"CLASSIC SINGLE\", без сыра",
+        "calories": "213",
+        "proteins": "12,63",
+        "fats": "10,6",
+        "carbohydrates": "15,52"
+    },
+    {
+        "name": "WENDY'S, гамбургер \"CLASSIC SINGLE\", с сыром",
+        "calories": "221",
+        "proteins": "14,87",
+        "fats": "11,6",
+        "carbohydrates": "12,8"
+    },
+    {
+        "name": "WENDY'S, гамбургер \"Jr. Hamburger\", без сыра",
+        "calories": "243",
+        "proteins": "12,62",
+        "fats": "8,75",
+        "carbohydrates": "26,75"
+    },
+    {
+        "name": "WENDY'S, гамбургер \"Jr. Hamburger\", с сыром",
+        "calories": "256",
+        "proteins": "13,06",
+        "fats": "11,5",
+        "carbohydrates": "23,57"
+    },
+    {
+        "name": "WENDY'S, замороженные десерты на каждый день \"Frosty Dairy Dessert\"",
+        "calories": "132",
+        "proteins": "3,49",
+        "fats": "2,6",
+        "carbohydrates": "20,32"
+    },
+    {
+        "name": "WENDY'S, классический двойной сэндвич \"CLASSIC DOUBLE\", с сыром",
+        "calories": "241",
+        "proteins": "16,52",
+        "fats": "14,2",
+        "carbohydrates": "10,61"
+    },
+    {
+        "name": "WENDY'S, куринные нагетсы",
+        "calories": "326",
+        "proteins": "16,46",
+        "fats": "22,55",
+        "carbohydrates": "14,31"
+    },
+    {
+        "name": "WENDY'S, сэндвич с куриным филе по-домашнему (Homestyle Chicken Fillet Sandwich)",
+        "calories": "214",
+        "proteins": "13,78",
+        "fats": "8,1",
+        "carbohydrates": "20,25"
+    },
+    {
+        "name": "WENDY'S, сэндвич с куриным филе, приготовленным на гриле (Ultimate Chicken Grill Sandwich)",
+        "calories": "179",
+        "proteins": "14,73",
+        "fats": "5",
+        "carbohydrates": "17,78"
+    },
+    {
+        "name": "Легкое мягкое мороженое, смешанное с конфетами из молочного шоколада",
+        "calories": "182",
+        "proteins": "4,02",
+        "fats": "6,46",
+        "carbohydrates": "26,62"
+    },
+    {
+        "name": "Легкое мягкое мороженое, смешанное с кусочками печенья",
+        "calories": "169",
+        "proteins": "3,97",
+        "fats": "5,66",
+        "carbohydrates": "25,45"
+    },
+    {
+        "name": "Макдональдс, Бэкон Ранч, салат без цыпленка",
+        "calories": "61",
+        "proteins": "4,14",
+        "fats": "3,64",
+        "carbohydrates": "2,7"
+    },
+    {
+        "name": "Макдональдс, Бэкон Ранч, салат с цыпленком гриль",
+        "calories": "81",
+        "proteins": "10,28",
+        "fats": "3,14",
+        "carbohydrates": "2,64"
+    },
+    {
+        "name": "Макдональдс, Сайд Салат",
+        "calories": "20",
+        "proteins": "1,03",
+        "fats": "0,19",
+        "carbohydrates": "2,7"
+    },
+    {
+        "name": "Пицца, с мясом и овощами, на растущем корже, замороженная, приготовленная",
+        "calories": "271",
+        "proteins": "12,63",
+        "fats": "11,75",
+        "carbohydrates": "26,48"
+    },
+    {
+        "name": "Пицца, с мясом и овощами, на стандартном корже, замороженная, приготовленная",
+        "calories": "276",
+        "proteins": "11,28",
+        "fats": "14,43",
+        "carbohydrates": "22,94"
+    },
+    {
+        "name": "Пицца, с паперони, на стандартном корже, замороженная, приготовленная",
+        "calories": "274",
+        "proteins": "14,38",
+        "fats": "13,13",
+        "carbohydrates": "22,69"
+    },
+    {
+        "name": "Пицца, с сыром, замороженная, приготовленная",
+        "calories": "268",
+        "proteins": "10,36",
+        "fats": "12,28",
+        "carbohydrates": "26,82"
+    },
+    {
+        "name": "Пицца, с сыром, на растущем корже, замороженная, приготовленная",
+        "calories": "260",
+        "proteins": "12,37",
+        "fats": "8,78",
+        "carbohydrates": "30,41"
+    },
+    {
+        "name": "Сэндвич с сосиской \"Sausage Griddle Cake Sandwich\"",
+        "calories": "318",
+        "proteins": "8,41",
+        "fats": "17,76",
+        "carbohydrates": "30,25"
+    },
+    {
+        "name": "Сэндвич с яйцом, сыром и беконом \"Griddle Cak\"",
+        "calories": "272",
+        "proteins": "12,03",
+        "fats": "13,19",
+        "carbohydrates": "25,39"
+    },
+    {
+        "name": "Сэндвич с яйцом, сыром и сосиской \"Griddle Cak\"",
+        "calories": "291",
+        "proteins": "10,77",
+        "fats": "17,73",
+        "carbohydrates": "21,44"
+    },
+    {
+        "name": "Фаст фуд, жареный цыпленок, бедрышки, мясо с кожицей, в панировке",
+        "calories": "274",
+        "proteins": "19,23",
+        "fats": "18,07",
+        "carbohydrates": "8,58"
+    },
+    {
+        "name": "Фаст фуд, жареный цыпленок, бедрышки, только мясо, без кожицы и без панировки",
+        "calories": "178",
+        "proteins": "23,21",
+        "fats": "9,41",
+        "carbohydrates": "0,24"
+    },
+    {
+        "name": "Фаст фуд, жареный цыпленок, голень, мясо с кожицей, в панировке",
+        "calories": "267",
+        "proteins": "21,13",
+        "fats": "16,92",
+        "carbohydrates": "7,09"
+    },
+    {
+        "name": "Фаст фуд, жареный цыпленок, голень, только мясо, без кожицы и без панировки",
+        "calories": "172",
+        "proteins": "26,24",
+        "fats": "7,41",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Фаст фуд, жареный цыпленок, грудки, только мясо, без кожицы и без панировки",
+        "calories": "153",
+        "proteins": "27,93",
+        "fats": "4,54",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Фаст фуд, жареный цыпленок, кожа в панировке",
+        "calories": "398",
+        "proteins": "14,11",
+        "fats": "29,22",
+        "carbohydrates": "19,26"
+    },
+    {
+        "name": "Фаст фуд, жареный цыпленок, крылышки, мясо с кожицей, в панировке",
+        "calories": "310",
+        "proteins": "21,14",
+        "fats": "20,09",
+        "carbohydrates": "11,09"
+    },
+    {
+        "name": "Фаст фуд, жареный цыпленок, крылышки, только мясо, без кожицы и без панировки",
+        "calories": "215",
+        "proteins": "28,77",
+        "fats": "10,2",
+        "carbohydrates": "2,13"
+    },
+    {
+        "name": "Фаст фуд, клаб сэндвич (трехслойный), с курицей-гриль, беконом, томатами, сыром, салатом и майонезом",
+        "calories": "220",
+        "proteins": "17,19",
+        "fats": "8,05",
+        "carbohydrates": "18,67"
+    },
+    {
+        "name": "Фаст фуд, клаб сэндвич (трехслойный), с хрустящей курицей, беконом, томатами, сыром, салатом и майонезом",
+        "calories": "257",
+        "proteins": "15,38",
+        "fats": "11,76",
+        "carbohydrates": "21,41"
+    },
+    {
+        "name": "Фаст-фуд, английский кекс, с сыром и сосиской",
+        "calories": "338",
+        "proteins": "13,28",
+        "fats": "20,67",
+        "carbohydrates": "24,78"
+    },
+    {
+        "name": "Фаст-фуд, английский кекс, с яйцом, сыром и канадским беконом",
+        "calories": "228",
+        "proteins": "13,64",
+        "fats": "9,66",
+        "carbohydrates": "21,27"
+    },
+    {
+        "name": "Фаст-фуд, английский кекс, с яйцом, сыром и сосиской",
+        "calories": "286",
+        "proteins": "13,38",
+        "fats": "18,1",
+        "carbohydrates": "17,24"
+    },
+    {
+        "name": "Фаст-фуд, бисквит с ветчиной",
+        "calories": "342",
+        "proteins": "11,85",
+        "fats": "16,3",
+        "carbohydrates": "38,05"
+    },
+    {
+        "name": "Фаст-фуд, бисквит с сосиской",
+        "calories": "371",
+        "proteins": "9,67",
+        "fats": "24,42",
+        "carbohydrates": "29,59"
+    },
+    {
+        "name": "Фаст-фуд, бисквит с яйцом и беконом",
+        "calories": "305",
+        "proteins": "11,33",
+        "fats": "20,73",
+        "carbohydrates": "18,56"
+    },
+    {
+        "name": "Фаст-фуд, бисквит с яйцом и ветчиной",
+        "calories": "233",
+        "proteins": "10,64",
+        "fats": "14,08",
+        "carbohydrates": "15,97"
+    },
+    {
+        "name": "Фаст-фуд, бисквит с яйцом и сосиской",
+        "calories": "312",
+        "proteins": "11,13",
+        "fats": "20,77",
+        "carbohydrates": "20,85"
+    },
+    {
+        "name": "Фаст-фуд, бисквит с яйцом, сыром и сосиской",
+        "calories": "301",
+        "proteins": "12,01",
+        "fats": "17,48",
+        "carbohydrates": "24,24"
+    },
+    {
+        "name": "Фаст-фуд, бублик с отбивной, яйцом и сыром, приправленный",
+        "calories": "295",
+        "proteins": "12,98",
+        "fats": "16,97",
+        "carbohydrates": "22,44"
+    },
+    {
+        "name": "Фаст-фуд, бублик со стейком, яйцом и сыром, приправленный",
+        "calories": "282",
+        "proteins": "15,95",
+        "fats": "14,07",
+        "carbohydrates": "22,79"
+    },
+    {
+        "name": "Фаст-фуд, буррито с бобами",
+        "calories": "206",
+        "proteins": "6,48",
+        "fats": "6,22",
+        "carbohydrates": "32,92"
+    },
+    {
+        "name": "Фаст-фуд, буррито с бобами и мясом",
+        "calories": "191",
+        "proteins": "11,52",
+        "fats": "7,47",
+        "carbohydrates": "16,52"
+    },
+    {
+        "name": "Фаст-фуд, буррито с бобами и сыром",
+        "calories": "205",
+        "proteins": "7,35",
+        "fats": "6,05",
+        "carbohydrates": "27,03"
+    },
+    {
+        "name": "Фаст-фуд, буррито с бобами, сыром и говядиной",
+        "calories": "180",
+        "proteins": "7,03",
+        "fats": "6,8",
+        "carbohydrates": "19,67"
+    },
+    {
+        "name": "Фаст-фуд, гамбургер, большой, с одной котлетой, приправленный",
+        "calories": "256",
+        "proteins": "15,68",
+        "fats": "11,6",
+        "carbohydrates": "21,04"
+    },
+    {
+        "name": "Фаст-фуд, гамбургер, двойной, с большой котлетой, овощами и майонезом, приправленный",
+        "calories": "252",
+        "proteins": "13,94",
+        "fats": "15,66",
+        "carbohydrates": "12,34"
+    },
+    {
+        "name": "Фаст-фуд, гамбургер, двойной, с одной стандартной котлетой, с приправами и фирменным соусом",
+        "calories": "259",
+        "proteins": "12,17",
+        "fats": "13,3",
+        "carbohydrates": "21,29"
+    },
+    {
+        "name": "Фаст-фуд, гамбургер, с одной большой котлетой, овощами и майонезом, приправленный",
+        "calories": "226",
+        "proteins": "11,34",
+        "fats": "12,37",
+        "carbohydrates": "15,83"
+    },
+    {
+        "name": "Фаст-фуд, гамбургер, с одной стандартной котлетой, неприправленный",
+        "calories": "297",
+        "proteins": "16,52",
+        "fats": "12,01",
+        "carbohydrates": "29,8"
+    },
+    {
+        "name": "Фаст-фуд, гамбургер, с одной стандартной котлетой, приправленный",
+        "calories": "263",
+        "proteins": "13,3",
+        "fats": "10,18",
+        "carbohydrates": "27,77"
+    },
+    {
+        "name": "Фаст-фуд, гренки по-французски",
+        "calories": "340",
+        "proteins": "6",
+        "fats": "17,74",
+        "carbohydrates": "39,81"
+    },
+    {
+        "name": "Фаст-фуд, драники",
+        "calories": "272",
+        "proteins": "2,58",
+        "fats": "17,04",
+        "carbohydrates": "26,18"
+    },
+    {
+        "name": "Фаст-фуд, картошка фри, жаренная в растительном масле",
+        "calories": "312",
+        "proteins": "3,43",
+        "fats": "14,73",
+        "carbohydrates": "37,64"
+    },
+    {
+        "name": "Фаст-фуд, картошка-пюре",
+        "calories": "89",
+        "proteins": "1,65",
+        "fats": "2,82",
+        "carbohydrates": "13,35"
+    },
+    {
+        "name": "Фаст-фуд, креветки, обжаренные в панировке",
+        "calories": "308",
+        "proteins": "7,84",
+        "fats": "18,9",
+        "carbohydrates": "27,29"
+    },
+    {
+        "name": "Фаст-фуд, круассан с яйцом, сыром и беконом",
+        "calories": "289",
+        "proteins": "12,92",
+        "fats": "16,4",
+        "carbohydrates": "21,5"
+    },
+    {
+        "name": "Фаст-фуд, круассан с яйцом, сыром и ветчиной",
+        "calories": "261",
+        "proteins": "12,45",
+        "fats": "14,95",
+        "carbohydrates": "18,08"
+    },
+    {
+        "name": "Фаст-фуд, круассан с яйцом, сыром и сосиской",
+        "calories": "308",
+        "proteins": "12,09",
+        "fats": "21,78",
+        "carbohydrates": "14,1"
+    },
+    {
+        "name": "Фаст-фуд, кукурузные оладьи",
+        "calories": "296",
+        "proteins": "6,16",
+        "fats": "13,25",
+        "carbohydrates": "37,31"
+    },
+    {
+        "name": "Фаст-фуд, куриное филе",
+        "calories": "271",
+        "proteins": "19,22",
+        "fats": "13,95",
+        "carbohydrates": "16,05"
+    },
+    {
+        "name": "Фаст-фуд, курица, обжаренная в панировке, без костей, неприправленная",
+        "calories": "307",
+        "proteins": "15,92",
+        "fats": "20,36",
+        "carbohydrates": "14,03"
+    },
+    {
+        "name": "Фаст-фуд, луковые кольца, обжаренные в кляре",
+        "calories": "411",
+        "proteins": "3,86",
+        "fats": "25,23",
+        "carbohydrates": "40,88"
+    },
+    {
+        "name": "Фаст-фуд, миниатюрные коричные рулеты",
+        "calories": "403",
+        "proteins": "7,02",
+        "fats": "17,95",
+        "carbohydrates": "51,18"
+    },
+    {
+        "name": "Фаст-фуд, мягкое ванильное молочное мороженое в рожке",
+        "calories": "163",
+        "proteins": "4,24",
+        "fats": "4,86",
+        "carbohydrates": "26,26"
+    },
+    {
+        "name": "Фаст-фуд, начо с сыром",
+        "calories": "343",
+        "proteins": "4,32",
+        "fats": "21,5",
+        "carbohydrates": "31,71"
+    },
+    {
+        "name": "Фаст-фуд, начо с сыром, бобами, говяжьим фаршем и перцем",
+        "calories": "219",
+        "proteins": "6,21",
+        "fats": "12,48",
+        "carbohydrates": "17,69"
+    },
+    {
+        "name": "Фаст-фуд, пицца с мясом и овощами, на стандартном корже, 14 дюймов",
+        "calories": "244",
+        "proteins": "11,02",
+        "fats": "10,9",
+        "carbohydrates": "23,18"
+    },
+    {
+        "name": "Фаст-фуд, пицца с паперони, на стандартном корже, 14 дюймов",
+        "calories": "282",
+        "proteins": "11,74",
+        "fats": "11,91",
+        "carbohydrates": "29,68"
+    },
+    {
+        "name": "Фаст-фуд, пицца с паперони, на толстом корже, 14 дюймов",
+        "calories": "287",
+        "proteins": "11,49",
+        "fats": "12,58",
+        "carbohydrates": "29,64"
+    },
+    {
+        "name": "Фаст-фуд, пицца с сыром, на стандартном корже, 14 дюймов",
+        "calories": "266",
+        "proteins": "11,39",
+        "fats": "9,69",
+        "carbohydrates": "31,03"
+    },
+    {
+        "name": "Фаст-фуд, пицца с сыром, на толстом корже, 14 дюймов",
+        "calories": "271",
+        "proteins": "10,81",
+        "fats": "10,54",
+        "carbohydrates": "30,97"
+    },
+    {
+        "name": "Фаст-фуд, пицца с сыром, на тонком корже, 14 дюймов",
+        "calories": "302",
+        "proteins": "12,85",
+        "fats": "13,95",
+        "carbohydrates": "28,7"
+    },
+    {
+        "name": "Фаст-фуд, пломбир с горячей помадкой",
+        "calories": "180",
+        "proteins": "3,57",
+        "fats": "5,46",
+        "carbohydrates": "30,17"
+    },
+    {
+        "name": "Фаст-фуд, пломбир с карамелью",
+        "calories": "196",
+        "proteins": "4,71",
+        "fats": "5,98",
+        "carbohydrates": "31,81"
+    },
+    {
+        "name": "Фаст-фуд, пломбир с клубникой",
+        "calories": "175",
+        "proteins": "4,09",
+        "fats": "5,13",
+        "carbohydrates": "29,18"
+    },
+    {
+        "name": "Фаст-фуд, рыбный сэндвич с соусом тартар",
+        "calories": "257",
+        "proteins": "10,29",
+        "fats": "12,45",
+        "carbohydrates": "25,69"
+    },
+    {
+        "name": "Фаст-фуд, рыбный сэндвич с соусом тартар и сыром",
+        "calories": "279",
+        "proteins": "11,26",
+        "fats": "14,64",
+        "carbohydrates": "25,59"
+    },
+    {
+        "name": "Фаст-фуд, салат из капусты",
+        "calories": "153",
+        "proteins": "0,95",
+        "fats": "9,91",
+        "carbohydrates": "12,99"
+    },
+    {
+        "name": "Фаст-фуд, сэндвич \"Субмарина\" с мясной нарезкой",
+        "calories": "213",
+        "proteins": "10,52",
+        "fats": "10,04",
+        "carbohydrates": "19,23"
+    },
+    {
+        "name": "Фаст-фуд, сэндвич \"Субмарина\" с ростбифом",
+        "calories": "190",
+        "proteins": "13,26",
+        "fats": "6",
+        "carbohydrates": "20,51"
+    },
+    {
+        "name": "Фаст-фуд, сэндвич \"Субмарина\" с салатом из тунца",
+        "calories": "228",
+        "proteins": "11,6",
+        "fats": "10,93",
+        "carbohydrates": "21,63"
+    },
+    {
+        "name": "Фаст-фуд, сэндвич с куриным филе, неприправленный",
+        "calories": "283",
+        "proteins": "13,25",
+        "fats": "16,18",
+        "carbohydrates": "21,26"
+    },
+    {
+        "name": "Фаст-фуд, сэндвич с поджаренным куриным филе, латуком, томатами и майонезом",
+        "calories": "276",
+        "proteins": "10,94",
+        "fats": "13,59",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Фаст-фуд, сэндвич с ростбифом, неприправленный",
+        "calories": "244",
+        "proteins": "15,17",
+        "fats": "10,3",
+        "carbohydrates": "20,91"
+    },
+    {
+        "name": "Фаст-фуд, тако",
+        "calories": "226",
+        "proteins": "8,86",
+        "fats": "12,7",
+        "carbohydrates": "15,95"
+    },
+    {
+        "name": "Фаст-фуд, чизбургер, двойной, с большой котлетой, овощами и майонезом, приправленный",
+        "calories": "253",
+        "proteins": "15,5",
+        "fats": "15,63",
+        "carbohydrates": "11,32"
+    },
+    {
+        "name": "Фаст-фуд, чизбургер, двойной, с большой котлетой, приправленный",
+        "calories": "272",
+        "proteins": "16,96",
+        "fats": "16,22",
+        "carbohydrates": "13,43"
+    },
+    {
+        "name": "Фаст-фуд, чизбургер, двойной, со стандартной котлетой, приправленный",
+        "calories": "282",
+        "proteins": "16,24",
+        "fats": "16,18",
+        "carbohydrates": "17,07"
+    },
+    {
+        "name": "Фаст-фуд, чизбургер, двойной, со стандартной котлетой, с приправами и фирменным соусом",
+        "calories": "261",
+        "proteins": "11,94",
+        "fats": "14,1",
+        "carbohydrates": "20,13"
+    },
+    {
+        "name": "Фаст-фуд, чизбургер, с большой котлетой, неприправленный",
+        "calories": "310",
+        "proteins": "17,29",
+        "fats": "15,97",
+        "carbohydrates": "22,37"
+    },
+    {
+        "name": "Фаст-фуд, чизбургер, с большой котлетой, овощами и майонезом, приправленный",
+        "calories": "268",
+        "proteins": "13,69",
+        "fats": "15,8",
+        "carbohydrates": "16,63"
+    },
+    {
+        "name": "Фаст-фуд, чизбургер, с большой котлетой, приправленный",
+        "calories": "269",
+        "proteins": "15,21",
+        "fats": "14,4",
+        "carbohydrates": "18,52"
+    },
+    {
+        "name": "Фаст-фуд, чизбургер, со стандартной котлетой и овощами, приправленный",
+        "calories": "254",
+        "proteins": "13,06",
+        "fats": "11,5",
+        "carbohydrates": "23,57"
+    },
+    {
+        "name": "Фаст-фуд, чизбургер, со стандартной котлетой, неприправленный",
+        "calories": "308",
+        "proteins": "16,51",
+        "fats": "14,72",
+        "carbohydrates": "26,03"
+    },
+    {
+        "name": "Фаст-фуд, чизбургер, со стандартной котлетой, приправленный",
+        "calories": "270",
+        "proteins": "13,49",
+        "fats": "12,9",
+        "carbohydrates": "23,56"
+    },
+    {
+        "name": "Фаст-фуд, чизбургер, стандартный, с двумя котлетами и булочками, неприправленный",
+        "calories": "305",
+        "proteins": "15,13",
+        "fats": "13,93",
+        "carbohydrates": "29,89"
+    },
+    {
+        "name": "Фаст-фуд, яичница-болтунья",
+        "calories": "212",
+        "proteins": "13,84",
+        "fats": "16,18",
+        "carbohydrates": "2,08"
+    }
+]

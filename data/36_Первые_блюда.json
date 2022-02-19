@@ -1,0 +1,1143 @@
+﻿[
+    {
+        "name": "Борщ",
+        "calories": "57,7",
+        "proteins": "3,8",
+        "fats": "2,9",
+        "carbohydrates": "4,3"
+    },
+    {
+        "name": "Борщ из свежей капусты и картофеля по 1-110",
+        "calories": "36",
+        "proteins": "1",
+        "fats": "1,1",
+        "carbohydrates": "5,4"
+    },
+    {
+        "name": "Борщ кубанский с кабачками",
+        "calories": "88,2",
+        "proteins": "4,9",
+        "fats": "5,7",
+        "carbohydrates": "4,7"
+    },
+    {
+        "name": "Борщ летний (с ботвой свеклы)",
+        "calories": "69",
+        "proteins": "3,9",
+        "fats": "3,2",
+        "carbohydrates": "6,6"
+    },
+    {
+        "name": "Борщ летний по 1-122",
+        "calories": "38",
+        "proteins": "1,1",
+        "fats": "1,2",
+        "carbohydrates": "5,7"
+    },
+    {
+        "name": "Борщ московский",
+        "calories": "115,5",
+        "proteins": "8,3",
+        "fats": "7,2",
+        "carbohydrates": "4,6"
+    },
+    {
+        "name": "Борщ по 1-110",
+        "calories": "29",
+        "proteins": "0,8",
+        "fats": "1",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Борщ по-вегетариански",
+        "calories": "34,7",
+        "proteins": "0,5",
+        "fats": "2,7",
+        "carbohydrates": "2,2"
+    },
+    {
+        "name": "Борщ с капустой и картофелем",
+        "calories": "61,6",
+        "proteins": "3,8",
+        "fats": "2,9",
+        "carbohydrates": "5,4"
+    },
+    {
+        "name": "Борщ с картофелем по 1-112",
+        "calories": "42",
+        "proteins": "1,1",
+        "fats": "1,1",
+        "carbohydrates": "6,8"
+    },
+    {
+        "name": "Борщ с черносливом и грибами",
+        "calories": "74",
+        "proteins": "4,6",
+        "fats": "3,1",
+        "carbohydrates": "7,4"
+    },
+    {
+        "name": "Борщ сибирский",
+        "calories": "76,7",
+        "proteins": "5,4",
+        "fats": "3,4",
+        "carbohydrates": "6,5"
+    },
+    {
+        "name": "Борщ украинский",
+        "calories": "90,2",
+        "proteins": "4,4",
+        "fats": "4,4",
+        "carbohydrates": "8,7"
+    },
+    {
+        "name": "Борщ украинский по 1-122",
+        "calories": "50",
+        "proteins": "1,1",
+        "fats": "2,2",
+        "carbohydrates": "6,5"
+    },
+    {
+        "name": "Борщ холодный",
+        "calories": "27,1",
+        "proteins": "1,1",
+        "fats": "1,3",
+        "carbohydrates": "3"
+    },
+    {
+        "name": "Борщ холодный",
+        "calories": "45,7",
+        "proteins": "1,5",
+        "fats": "3,2",
+        "carbohydrates": "3"
+    },
+    {
+        "name": "Говяжий суп",
+        "calories": "28,8",
+        "proteins": "2,3",
+        "fats": "1,1",
+        "carbohydrates": "2,6"
+    },
+    {
+        "name": "Голландский зеленый суп",
+        "calories": "65,3",
+        "proteins": "4,8",
+        "fats": "1,4",
+        "carbohydrates": "8,8"
+    },
+    {
+        "name": "Голландский зеленый суп",
+        "calories": "0",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Гороховый суп",
+        "calories": "54,3",
+        "proteins": "2,2",
+        "fats": "3",
+        "carbohydrates": "5"
+    },
+    {
+        "name": "Грибной борщ",
+        "calories": "27,1",
+        "proteins": "0,7",
+        "fats": "2,1",
+        "carbohydrates": "1,4"
+    },
+    {
+        "name": "Грибной суп",
+        "calories": "50,9",
+        "proteins": "0,8",
+        "fats": "3,4",
+        "carbohydrates": "4,6"
+    },
+    {
+        "name": "Куриный суп по-индийски",
+        "calories": "0",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Куриный суп с макаронами",
+        "calories": "59,7",
+        "proteins": "4,5",
+        "fats": "3,3",
+        "carbohydrates": "3,1"
+    },
+    {
+        "name": "Литовский холодный борщ",
+        "calories": "63,8",
+        "proteins": "2,9",
+        "fats": "2,2",
+        "carbohydrates": "8,6"
+    },
+    {
+        "name": "Лэпсытепх (бульон с жареными орешками из муки и зажаркой - адыгейское национальное блюдо)",
+        "calories": "167,1",
+        "proteins": "11,4",
+        "fats": "10,3",
+        "carbohydrates": "7,6"
+    },
+    {
+        "name": "Молочный суп с морковью",
+        "calories": "33,6",
+        "proteins": "1,6",
+        "fats": "1,5",
+        "carbohydrates": "3,7"
+    },
+    {
+        "name": "Окрошка мясная на кефире с говядиной, по 1-194",
+        "calories": "39",
+        "proteins": "2,8",
+        "fats": "1,1",
+        "carbohydrates": "4,3"
+    },
+    {
+        "name": "Окрошка мясная со сметаной и говядиной,  по 1-192",
+        "calories": "52",
+        "proteins": "2,1",
+        "fats": "1,7",
+        "carbohydrates": "6,3"
+    },
+    {
+        "name": "Окрошка овощная по 1-192",
+        "calories": "39",
+        "proteins": "0,9",
+        "fats": "0,8",
+        "carbohydrates": "6,8"
+    },
+    {
+        "name": "Похлебка грибная (карельское национальное блюдо)",
+        "calories": "81,6",
+        "proteins": "3,1",
+        "fats": "4,1",
+        "carbohydrates": "8,5"
+    },
+    {
+        "name": "Похлебка из сардин в горшочке",
+        "calories": "115,8",
+        "proteins": "6,4",
+        "fats": "6,9",
+        "carbohydrates": "7,5"
+    },
+    {
+        "name": "Похлебка по-суворовски",
+        "calories": "70,4",
+        "proteins": "8,7",
+        "fats": "2,4",
+        "carbohydrates": "3,8"
+    },
+    {
+        "name": "Похлебка рыбная по-сибирски",
+        "calories": "57,8",
+        "proteins": "4,8",
+        "fats": "1,5",
+        "carbohydrates": "6,7"
+    },
+    {
+        "name": "Похлебка старомосковская",
+        "calories": "94,1",
+        "proteins": "3,6",
+        "fats": "7,1",
+        "carbohydrates": "4,2"
+    },
+    {
+        "name": "Рассольник",
+        "calories": "40,4",
+        "proteins": "0,9",
+        "fats": "1,6",
+        "carbohydrates": "5,9"
+    },
+    {
+        "name": "Рассольник",
+        "calories": "0",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Рассольник домашний",
+        "calories": "38,4",
+        "proteins": "0,9",
+        "fats": "1,6",
+        "carbohydrates": "5,4"
+    },
+    {
+        "name": "Рассольник домашний по 1-136",
+        "calories": "36",
+        "proteins": "1",
+        "fats": "1",
+        "carbohydrates": "5,8"
+    },
+    {
+        "name": "Рассольник ленинградский",
+        "calories": "53,3",
+        "proteins": "1,3",
+        "fats": "1,7",
+        "carbohydrates": "8,8"
+    },
+    {
+        "name": "Рассольник по-кубански",
+        "calories": "100,8",
+        "proteins": "4,9",
+        "fats": "5,7",
+        "carbohydrates": "7,9"
+    },
+    {
+        "name": "Рисовый грибной суп",
+        "calories": "62,7",
+        "proteins": "2",
+        "fats": "2,2",
+        "carbohydrates": "9,3"
+    },
+    {
+        "name": "Свекольник холодный",
+        "calories": "62,6",
+        "proteins": "1,8",
+        "fats": "3,6",
+        "carbohydrates": "6,2"
+    },
+    {
+        "name": "Свекольник холодный по 1-198",
+        "calories": "30",
+        "proteins": "0,8",
+        "fats": "0,2",
+        "carbohydrates": "6,1"
+    },
+    {
+        "name": "Сладкий суп из черники с клецками",
+        "calories": "75,8",
+        "proteins": "1,4",
+        "fats": "1,3",
+        "carbohydrates": "15,6"
+    },
+    {
+        "name": "Солянка грибная по 1-172",
+        "calories": "18",
+        "proteins": "0,5",
+        "fats": "1,2",
+        "carbohydrates": "1,3"
+    },
+    {
+        "name": "Солянка рыбная, по 1-170",
+        "calories": "25",
+        "proteins": "2,4",
+        "fats": "1,2",
+        "carbohydrates": "1,2"
+    },
+    {
+        "name": "Солянка сборная мясная, по 1-168",
+        "calories": "39",
+        "proteins": "2,1",
+        "fats": "2,8",
+        "carbohydrates": "1,3"
+    },
+    {
+        "name": "Суп \"Ереванский\"",
+        "calories": "54,1",
+        "proteins": "3,1",
+        "fats": "1,9",
+        "carbohydrates": "6,5"
+    },
+    {
+        "name": "Суп \"Хинкал\" (суп с мясом и ракушками - дагестанское национальное блюдо)",
+        "calories": "125,1",
+        "proteins": "10,2",
+        "fats": "6,1",
+        "carbohydrates": "7,8"
+    },
+    {
+        "name": "Суп вишневый с клецками",
+        "calories": "79,3",
+        "proteins": "2",
+        "fats": "1,1",
+        "carbohydrates": "16,4"
+    },
+    {
+        "name": "Суп гороховый с яблоками",
+        "calories": "44",
+        "proteins": "2,5",
+        "fats": "2,3",
+        "carbohydrates": "3,6"
+    },
+    {
+        "name": "Суп грибной картофельный",
+        "calories": "45,5",
+        "proteins": "0,8",
+        "fats": "3,7",
+        "carbohydrates": "2,6"
+    },
+    {
+        "name": "Суп грибной с пирожками",
+        "calories": "60,3",
+        "proteins": "1,3",
+        "fats": "5,2",
+        "carbohydrates": "2,2"
+    },
+    {
+        "name": "Суп из белых грибов с макаронами",
+        "calories": "58,1",
+        "proteins": "1,4",
+        "fats": "4,7",
+        "carbohydrates": "2,8"
+    },
+    {
+        "name": "Суп из говядины",
+        "calories": "41,9",
+        "proteins": "2,4",
+        "fats": "2,5",
+        "carbohydrates": "2,6"
+    },
+    {
+        "name": "Суп из клюквы и яблок",
+        "calories": "51",
+        "proteins": "0,4",
+        "fats": "1,9",
+        "carbohydrates": "8,7"
+    },
+    {
+        "name": "Суп из моркови и кефира",
+        "calories": "58",
+        "proteins": "2,3",
+        "fats": "2,1",
+        "carbohydrates": "8"
+    },
+    {
+        "name": "Суп из овощей",
+        "calories": "36,7",
+        "proteins": "1,7",
+        "fats": "1,6",
+        "carbohydrates": "4,2"
+    },
+    {
+        "name": "Суп из овсяной крупы с яблоками",
+        "calories": "62,4",
+        "proteins": "1,7",
+        "fats": "1,4",
+        "carbohydrates": "11,5"
+    },
+    {
+        "name": "Суп из овсяных хлопьев с яблоками",
+        "calories": "48,1",
+        "proteins": "1,7",
+        "fats": "1,5",
+        "carbohydrates": "7,4"
+    },
+    {
+        "name": "Суп из плодов свежих",
+        "calories": "63,2",
+        "proteins": "0,2",
+        "fats": "0,2",
+        "carbohydrates": "16,2"
+    },
+    {
+        "name": "Суп из свежих помидоров",
+        "calories": "37,4",
+        "proteins": "0,9",
+        "fats": "2,1",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Суп из свежих фруктов по 1-200",
+        "calories": "50",
+        "proteins": "0,1",
+        "fats": "0,1",
+        "carbohydrates": "11,9"
+    },
+    {
+        "name": "Суп из свекольной ботвы и щавеля",
+        "calories": "46,6",
+        "proteins": "1,7",
+        "fats": "3,8",
+        "carbohydrates": "1,6"
+    },
+    {
+        "name": "Суп из смеси сухофруктов",
+        "calories": "80,5",
+        "proteins": "0,5",
+        "fats": "0",
+        "carbohydrates": "20,9"
+    },
+    {
+        "name": "Суп из спаржи",
+        "calories": "78",
+        "proteins": "2,6",
+        "fats": "4,8",
+        "carbohydrates": "6,6"
+    },
+    {
+        "name": "Суп из утки",
+        "calories": "283",
+        "proteins": "10,9",
+        "fats": "23",
+        "carbohydrates": "8,6"
+    },
+    {
+        "name": "Суп из фасоли с орехами",
+        "calories": "67",
+        "proteins": "2,3",
+        "fats": "4,8",
+        "carbohydrates": "3,8"
+    },
+    {
+        "name": "Суп из цветной капусты",
+        "calories": "36,8",
+        "proteins": "1",
+        "fats": "3,2",
+        "carbohydrates": "1,1"
+    },
+    {
+        "name": "Суп из черники с клецками",
+        "calories": "105,4",
+        "proteins": "4,6",
+        "fats": "2,3",
+        "carbohydrates": "17,6"
+    },
+    {
+        "name": "Суп из черники с макаронами",
+        "calories": "34,2",
+        "proteins": "0,5",
+        "fats": "0,8",
+        "carbohydrates": "6,6"
+    },
+    {
+        "name": "Суп из чечевицы",
+        "calories": "67,8",
+        "proteins": "2,5",
+        "fats": "4,2",
+        "carbohydrates": "5,2"
+    },
+    {
+        "name": "Суп картофельный",
+        "calories": "50,6",
+        "proteins": "1,3",
+        "fats": "1,1",
+        "carbohydrates": "9,4"
+    },
+    {
+        "name": "Суп картофельный по 1-142",
+        "calories": "45",
+        "proteins": "1,1",
+        "fats": "1,2",
+        "carbohydrates": "7,8"
+    },
+    {
+        "name": "Суп картофельный с бобовыми",
+        "calories": "73,3",
+        "proteins": "2,7",
+        "fats": "2,4",
+        "carbohydrates": "10,8"
+    },
+    {
+        "name": "Суп картофельный с грибами",
+        "calories": "42,2",
+        "proteins": "1,7",
+        "fats": "1,2",
+        "carbohydrates": "6,5"
+    },
+    {
+        "name": "Суп картофельный с кальмарами",
+        "calories": "62,4",
+        "proteins": "4",
+        "fats": "2,4",
+        "carbohydrates": "6,5"
+    },
+    {
+        "name": "Суп картофельный с крупой",
+        "calories": "53,6",
+        "proteins": "1,3",
+        "fats": "1,2",
+        "carbohydrates": "10"
+    },
+    {
+        "name": "Суп картофельный с макаронными изделиями",
+        "calories": "47,7",
+        "proteins": "1,3",
+        "fats": "1",
+        "carbohydrates": "8,8"
+    },
+    {
+        "name": "Суп картофельный с мясными фрикадельками",
+        "calories": "57,6",
+        "proteins": "3,3",
+        "fats": "2,2",
+        "carbohydrates": "6,5"
+    },
+    {
+        "name": "Суп картофельный с перловой крупой по 1-146",
+        "calories": "37",
+        "proteins": "1",
+        "fats": "1,1",
+        "carbohydrates": "6,5"
+    },
+    {
+        "name": "Суп картофельный с рыбными фрикадельками",
+        "calories": "48,9",
+        "proteins": "2,5",
+        "fats": "1,6",
+        "carbohydrates": "6,6"
+    },
+    {
+        "name": "Суп картофельный со сладким перцем",
+        "calories": "55,9",
+        "proteins": "0,9",
+        "fats": "3,7",
+        "carbohydrates": "4,9"
+    },
+    {
+        "name": "Суп лапша грибная",
+        "calories": "41,3",
+        "proteins": "1,6",
+        "fats": "2,1",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Суп молочный рисовый",
+        "calories": "99,2",
+        "proteins": "3,1",
+        "fats": "5",
+        "carbohydrates": "11,1"
+    },
+    {
+        "name": "Суп молочный с белокочанной капустой, по 1-180",
+        "calories": "54",
+        "proteins": "2",
+        "fats": "2",
+        "carbohydrates": "6,8"
+    },
+    {
+        "name": "Суп молочный с грибами",
+        "calories": "67,2",
+        "proteins": "2,5",
+        "fats": "3,3",
+        "carbohydrates": "7,3"
+    },
+    {
+        "name": "Суп молочный с картофельными \"стружками\"",
+        "calories": "51,3",
+        "proteins": "1,4",
+        "fats": "3,6",
+        "carbohydrates": "3,5"
+    },
+    {
+        "name": "Суп молочный с клецками",
+        "calories": "110,9",
+        "proteins": "3,8",
+        "fats": "5,2",
+        "carbohydrates": "13"
+    },
+    {
+        "name": "Суп молочный с крупой",
+        "calories": "68,2",
+        "proteins": "2,6",
+        "fats": "2,8",
+        "carbohydrates": "8,7"
+    },
+    {
+        "name": "Суп молочный с макаронами, по 1-172",
+        "calories": "58",
+        "proteins": "2,2",
+        "fats": "1,9",
+        "carbohydrates": "7,9"
+    },
+    {
+        "name": "Суп молочный с макаронными изделиями",
+        "calories": "64,6",
+        "proteins": "2,8",
+        "fats": "2,7",
+        "carbohydrates": "7,7"
+    },
+    {
+        "name": "Суп молочный с овощами",
+        "calories": "84,9",
+        "proteins": "4,5",
+        "fats": "2,8",
+        "carbohydrates": "11,2"
+    },
+    {
+        "name": "Суп молочный с рисом",
+        "calories": "61,9",
+        "proteins": "2,2",
+        "fats": "2,8",
+        "carbohydrates": "7,5"
+    },
+    {
+        "name": "Суп молочный с рисом",
+        "calories": "81",
+        "proteins": "2,1",
+        "fats": "3,9",
+        "carbohydrates": "10"
+    },
+    {
+        "name": "Суп молочный с рисом, по 1-174",
+        "calories": "54",
+        "proteins": "1,8",
+        "fats": "1,9",
+        "carbohydrates": "7,3"
+    },
+    {
+        "name": "Суп молочный с тыквой",
+        "calories": "50,9",
+        "proteins": "2,1",
+        "fats": "1,7",
+        "carbohydrates": "7,2"
+    },
+    {
+        "name": "Суп молочный с тыквой и манной крупой, по 1-178",
+        "calories": "50",
+        "proteins": "2",
+        "fats": "2,2",
+        "carbohydrates": "5,4"
+    },
+    {
+        "name": "Суп овощной на отваре шиповника",
+        "calories": "67,8",
+        "proteins": "2,3",
+        "fats": "3,2",
+        "carbohydrates": "7,9"
+    },
+    {
+        "name": "Суп перловый с грибами по 1-164",
+        "calories": "43",
+        "proteins": "1,6",
+        "fats": "1,2",
+        "carbohydrates": "6,4"
+    },
+    {
+        "name": "Суп пикантный с креветками",
+        "calories": "81,9",
+        "proteins": "9",
+        "fats": "2,7",
+        "carbohydrates": "5,7"
+    },
+    {
+        "name": "Суп полевой",
+        "calories": "93,5",
+        "proteins": "1,5",
+        "fats": "5,9",
+        "carbohydrates": "9,2"
+    },
+    {
+        "name": "Суп пшенный с мясом по 1-160",
+        "calories": "57",
+        "proteins": "2,9",
+        "fats": "2,2",
+        "carbohydrates": "6,4"
+    },
+    {
+        "name": "Суп рисовый по 1-158",
+        "calories": "38",
+        "proteins": "0,9",
+        "fats": "1,1",
+        "carbohydrates": "6,2"
+    },
+    {
+        "name": "Суп с бобовыми (фасоль) по 1-162",
+        "calories": "54",
+        "proteins": "3",
+        "fats": "1,3",
+        "carbohydrates": "6,9"
+    },
+    {
+        "name": "Суп с крупой",
+        "calories": "41,5",
+        "proteins": "0,7",
+        "fats": "1,9",
+        "carbohydrates": "5,7"
+    },
+    {
+        "name": "Суп с макаронными изделиями",
+        "calories": "39",
+        "proteins": "0,9",
+        "fats": "2",
+        "carbohydrates": "4,5"
+    },
+    {
+        "name": "Суп с перловой крупой",
+        "calories": "0",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Суп с рыбными вареничками",
+        "calories": "64,3",
+        "proteins": "5,2",
+        "fats": "2,6",
+        "carbohydrates": "5,3"
+    },
+    {
+        "name": "Суп с рыбными фрикадельками",
+        "calories": "28,8",
+        "proteins": "3,7",
+        "fats": "0,6",
+        "carbohydrates": "2,3"
+    },
+    {
+        "name": "Суп с фрикадельками",
+        "calories": "24",
+        "proteins": "1,7",
+        "fats": "0,9",
+        "carbohydrates": "2,3"
+    },
+    {
+        "name": "Суп со шпинатом и грибами",
+        "calories": "76,8",
+        "proteins": "1,8",
+        "fats": "7,6",
+        "carbohydrates": "0,5"
+    },
+    {
+        "name": "Суп фасолевый",
+        "calories": "66,3",
+        "proteins": "1,7",
+        "fats": "4,8",
+        "carbohydrates": "4,2"
+    },
+    {
+        "name": "Суп харчо с мясом по 1-164",
+        "calories": "75",
+        "proteins": "3,1",
+        "fats": "4,5",
+        "carbohydrates": "5,5"
+    },
+    {
+        "name": "Суп холодный \"Таратор\"",
+        "calories": "146,1",
+        "proteins": "3,9",
+        "fats": "10",
+        "carbohydrates": "10,7"
+    },
+    {
+        "name": "Суп-крем из тыквы",
+        "calories": "92,5",
+        "proteins": "3,4",
+        "fats": "4,6",
+        "carbohydrates": "10"
+    },
+    {
+        "name": "Суп-лапша домашняя",
+        "calories": "47,8",
+        "proteins": "1,2",
+        "fats": "2,4",
+        "carbohydrates": "5,9"
+    },
+    {
+        "name": "Суп-лапша с помидорами по-казачьи",
+        "calories": "67,4",
+        "proteins": "4",
+        "fats": "4,1",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Суп-пюре из зеленого горошка",
+        "calories": "82,7",
+        "proteins": "4",
+        "fats": "3",
+        "carbohydrates": "10,5"
+    },
+    {
+        "name": "Суп-пюре из кабачков или тыквы",
+        "calories": "47",
+        "proteins": "1,3",
+        "fats": "2,8",
+        "carbohydrates": "4,5"
+    },
+    {
+        "name": "Суп-пюре из картофеля и моркови",
+        "calories": "37,7",
+        "proteins": "0,6",
+        "fats": "2,9",
+        "carbohydrates": "2,4"
+    },
+    {
+        "name": "Суп-пюре из картофеля по 1-180",
+        "calories": "58",
+        "proteins": "1,6",
+        "fats": "2",
+        "carbohydrates": "8,3"
+    },
+    {
+        "name": "Суп-пюре из моркови по 1-182",
+        "calories": "39",
+        "proteins": "1,2",
+        "fats": "1,8",
+        "carbohydrates": "4,5"
+    },
+    {
+        "name": "Суп-пюре из печени",
+        "calories": "67,9",
+        "proteins": "3,7",
+        "fats": "4,1",
+        "carbohydrates": "4,3"
+    },
+    {
+        "name": "Суп-пюре из птицы",
+        "calories": "93,1",
+        "proteins": "4,8",
+        "fats": "6,8",
+        "carbohydrates": "3,5"
+    },
+    {
+        "name": "Суп-пюре из разных овощей",
+        "calories": "60,3",
+        "proteins": "2,3",
+        "fats": "2,8",
+        "carbohydrates": "7"
+    },
+    {
+        "name": "Суп-пюре из рисовой крупы по 1-186",
+        "calories": "48",
+        "proteins": "1,4",
+        "fats": "1,3",
+        "carbohydrates": "7,7"
+    },
+    {
+        "name": "Суп-пюре из свежих помидоров",
+        "calories": "40,5",
+        "proteins": "1,8",
+        "fats": "3,1",
+        "carbohydrates": "1,4"
+    },
+    {
+        "name": "Суп-пюре из черники",
+        "calories": "33,5",
+        "proteins": "0,3",
+        "fats": "1,3",
+        "carbohydrates": "5,5"
+    },
+    {
+        "name": "Суп-пюре из шпината по 1-184",
+        "calories": "42",
+        "proteins": "1,9",
+        "fats": "2",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Суп-салат \"Садовый\"",
+        "calories": "62,8",
+        "proteins": "5,6",
+        "fats": "2,8",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Суп-харчо",
+        "calories": "43,9",
+        "proteins": "2,2",
+        "fats": "2,1",
+        "carbohydrates": "4,3"
+    },
+    {
+        "name": "Суп-харчо (грузинское национальное блюдо)",
+        "calories": "87,9",
+        "proteins": "4,8",
+        "fats": "5,5",
+        "carbohydrates": "5"
+    },
+    {
+        "name": "Сырный суп",
+        "calories": "93,4",
+        "proteins": "4,7",
+        "fats": "6,9",
+        "carbohydrates": "3,2"
+    },
+    {
+        "name": "Уха ладожская с кнелями и расстегаями",
+        "calories": "85,2",
+        "proteins": "13,4",
+        "fats": "2,5",
+        "carbohydrates": "2,5"
+    },
+    {
+        "name": "Уха ростовская",
+        "calories": "70,1",
+        "proteins": "8,5",
+        "fats": "2,2",
+        "carbohydrates": "4,4"
+    },
+    {
+        "name": "Уха рыбацкая",
+        "calories": "66,7",
+        "proteins": "8,5",
+        "fats": "1,9",
+        "carbohydrates": "4,3"
+    },
+    {
+        "name": "Уха с перловой крупой",
+        "calories": "66,3",
+        "proteins": "9,3",
+        "fats": "1",
+        "carbohydrates": "5,4"
+    },
+    {
+        "name": "Уха с расстегаями",
+        "calories": "85,3",
+        "proteins": "10,4",
+        "fats": "2,9",
+        "carbohydrates": "4,7"
+    },
+    {
+        "name": "Фасолевый суп",
+        "calories": "48,1",
+        "proteins": "2,3",
+        "fats": "1,6",
+        "carbohydrates": "6,6"
+    },
+    {
+        "name": "Харчо",
+        "calories": "114,9",
+        "proteins": "8",
+        "fats": "3,6",
+        "carbohydrates": "13,6"
+    },
+    {
+        "name": "Хирмаса (суп из субпродуктов с лапшой домашней - бурятское национальное блюдо)",
+        "calories": "85,6",
+        "proteins": "4,3",
+        "fats": "5,5",
+        "carbohydrates": "5"
+    },
+    {
+        "name": "Холодный борщ с редькой",
+        "calories": "32,3",
+        "proteins": "0,9",
+        "fats": "2",
+        "carbohydrates": "2,9"
+    },
+    {
+        "name": "Щи боярские",
+        "calories": "48,3",
+        "proteins": "3,5",
+        "fats": "2,6",
+        "carbohydrates": "2,9"
+    },
+    {
+        "name": "Щи зеленые с яйцом",
+        "calories": "44,9",
+        "proteins": "1,9",
+        "fats": "3,2",
+        "carbohydrates": "2,2"
+    },
+    {
+        "name": "Щи из квашеной капусты",
+        "calories": "37,2",
+        "proteins": "2",
+        "fats": "2,8",
+        "carbohydrates": "1"
+    },
+    {
+        "name": "Щи из квашеной капусты",
+        "calories": "28,7",
+        "proteins": "0,8",
+        "fats": "1,7",
+        "carbohydrates": "2,6"
+    },
+    {
+        "name": "Щи из квашеной капусты по 1-132",
+        "calories": "19",
+        "proteins": "0,8",
+        "fats": "1",
+        "carbohydrates": "1,5"
+    },
+    {
+        "name": "Щи из клевера и щавеля",
+        "calories": "116,3",
+        "proteins": "3,3",
+        "fats": "8,9",
+        "carbohydrates": "6,1"
+    },
+    {
+        "name": "Щи из свежей белокочанной капусты",
+        "calories": "17,1",
+        "proteins": "0,5",
+        "fats": "0,8",
+        "carbohydrates": "2,2"
+    },
+    {
+        "name": "Щи из свежей капусты",
+        "calories": "33,3",
+        "proteins": "1",
+        "fats": "1,9",
+        "carbohydrates": "3,4"
+    },
+    {
+        "name": "Щи из свежей капусты по 1-130",
+        "calories": "24",
+        "proteins": "0,9",
+        "fats": "1,1",
+        "carbohydrates": "2,5"
+    },
+    {
+        "name": "Щи из свежей капусты с картофелем",
+        "calories": "41,6",
+        "proteins": "1,1",
+        "fats": "2,1",
+        "carbohydrates": "4,9"
+    },
+    {
+        "name": "Щи из щавеля",
+        "calories": "45,3",
+        "proteins": "2,1",
+        "fats": "3,1",
+        "carbohydrates": "2,4"
+    },
+    {
+        "name": "Щи из щавеля по 1-132",
+        "calories": "48",
+        "proteins": "2,3",
+        "fats": "3,5",
+        "carbohydrates": "1,8"
+    },
+    {
+        "name": "Щи по-уральски (с крупой)",
+        "calories": "31,5",
+        "proteins": "0,8",
+        "fats": "1,8",
+        "carbohydrates": "3,2"
+    },
+    {
+        "name": "Щи с ячневой крупой",
+        "calories": "47,6",
+        "proteins": "2,3",
+        "fats": "3,6",
+        "carbohydrates": "1,6"
+    },
+    {
+        "name": "Щи суточные",
+        "calories": "46,3",
+        "proteins": "1,7",
+        "fats": "3,2",
+        "carbohydrates": "2,8"
+    },
+    {
+        "name": "Щи суточные по 1-134",
+        "calories": "19",
+        "proteins": "0,9",
+        "fats": "1",
+        "carbohydrates": "1,5"
+    },
+    {
+        "name": "Щи томленые с гречневыми блинами",
+        "calories": "56,8",
+        "proteins": "3,5",
+        "fats": "3,7",
+        "carbohydrates": "2,6"
+    },
+    {
+        "name": "Юшка картофельная с кабачками и помидорами",
+        "calories": "74,6",
+        "proteins": "3,5",
+        "fats": "4,3",
+        "carbohydrates": "6"
+    },
+    {
+        "name": "Яблочный суп со сметаной",
+        "calories": "50,5",
+        "proteins": "0,8",
+        "fats": "3,2",
+        "carbohydrates": "4,9"
+    }
+]

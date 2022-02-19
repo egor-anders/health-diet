@@ -1,0 +1,3677 @@
+﻿[
+    {
+        "name": "Айс Кофе [Макдоналдс]",
+        "calories": "130",
+        "proteins": "3,6",
+        "fats": "3,7",
+        "carbohydrates": "21"
+    },
+    {
+        "name": "Айс Кофе [Макдоналдс]",
+        "calories": "42",
+        "proteins": "1,2",
+        "fats": "1,4",
+        "carbohydrates": "6,3"
+    },
+    {
+        "name": "Айс Кофе Гранд [Макдоналдс]",
+        "calories": "358",
+        "proteins": "4,5",
+        "fats": "20",
+        "carbohydrates": "39"
+    },
+    {
+        "name": "Американо [Макдоналдс]",
+        "calories": "10",
+        "proteins": "0,9",
+        "fats": "0,3",
+        "carbohydrates": "0,9"
+    },
+    {
+        "name": "Апельсиновый Сок (0,25 L) [Макдоналдс]",
+        "calories": "153",
+        "proteins": "3,8",
+        "fats": "0,6",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Апельсиновый Сок (0,3 L) [Макдоналдс]",
+        "calories": "150",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "33"
+    },
+    {
+        "name": "Апельсиновый Сок (0,4 L) [Макдоналдс]",
+        "calories": "190",
+        "proteins": "3",
+        "fats": "1",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Апельсиновый Сок (0,47 L) [Макдоналдс]",
+        "calories": "235",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "52"
+    },
+    {
+        "name": "Апельсиновый Сок (0,5 L) [Макдоналдс]",
+        "calories": "240",
+        "proteins": "4",
+        "fats": "1",
+        "carbohydrates": "52"
+    },
+    {
+        "name": "Биг Брекфаст Ролл [Макдоналдс]",
+        "calories": "583",
+        "proteins": "25",
+        "fats": "31",
+        "carbohydrates": "48"
+    },
+    {
+        "name": "Биг Маг [Макдоналдс]",
+        "calories": "495",
+        "proteins": "27",
+        "fats": "25",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Биг Мак [Макдоналдс]",
+        "calories": "522",
+        "proteins": "27",
+        "fats": "27",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Биг Мак без Соуса [Макдоналдс]",
+        "calories": "234",
+        "proteins": "12,8",
+        "fats": "11,6",
+        "carbohydrates": "19,3"
+    },
+    {
+        "name": "Биг Мак Бекон-Томат-Салат [Макдоналдс]",
+        "calories": "549",
+        "proteins": "29",
+        "fats": "29",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Биг Тейсти [Макдоналдс]",
+        "calories": "800",
+        "proteins": "43",
+        "fats": "47",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Биг Тейсти Бекон [Макдоналдс]",
+        "calories": "854",
+        "proteins": "47",
+        "fats": "51",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Биг Тейсти Джуниор [Макдоналдс]",
+        "calories": "573",
+        "proteins": "31",
+        "fats": "33",
+        "carbohydrates": "36"
+    },
+    {
+        "name": "Биг Тейсти Острый [Макдоналдс]",
+        "calories": "801",
+        "proteins": "44",
+        "fats": "46",
+        "carbohydrates": "52"
+    },
+    {
+        "name": "Биг Тейсти Ролл [Макдоналдс]",
+        "calories": "521",
+        "proteins": "26",
+        "fats": "30",
+        "carbohydrates": "36"
+    },
+    {
+        "name": "Биг Тейсти с Беконом [Макдоналдс]",
+        "calories": "854",
+        "proteins": "47",
+        "fats": "51",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Биг Тейсти Чураско [Макдоналдс]",
+        "calories": "807",
+        "proteins": "44",
+        "fats": "46",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Билли Бекон [Макдоналдс]",
+        "calories": "659",
+        "proteins": "40",
+        "fats": "33",
+        "carbohydrates": "48"
+    },
+    {
+        "name": "Биф а-ля Рус [Макдоналдс]",
+        "calories": "580",
+        "proteins": "25",
+        "fats": "33",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Биф А-Ля Рус с Беконом [Макдоналдс]",
+        "calories": "579",
+        "proteins": "30",
+        "fats": "32",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Биф Ролл [Макдоналдс]",
+        "calories": "520",
+        "proteins": "20",
+        "fats": "29",
+        "carbohydrates": "43"
+    },
+    {
+        "name": "Биффер [Макдоналдс]",
+        "calories": "258",
+        "proteins": "12",
+        "fats": "13",
+        "carbohydrates": "23"
+    },
+    {
+        "name": "Бифштекс Рубленный [Макдоналдс]",
+        "calories": "220",
+        "proteins": "19",
+        "fats": "16",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Блинчики [Макдоналдс]",
+        "calories": "241",
+        "proteins": "7,5",
+        "fats": "3,2",
+        "carbohydrates": "45"
+    },
+    {
+        "name": "Блины (Стандартные) [Макдоналдс]",
+        "calories": "235",
+        "proteins": "7",
+        "fats": "3",
+        "carbohydrates": "45"
+    },
+    {
+        "name": "Блины с Джемом [Макдоналдс]",
+        "calories": "285",
+        "proteins": "7",
+        "fats": "3",
+        "carbohydrates": "57"
+    },
+    {
+        "name": "Блины с Мёдом [Макдоналдс]",
+        "calories": "315",
+        "proteins": "10",
+        "fats": "11",
+        "carbohydrates": "44"
+    },
+    {
+        "name": "Большие Креветки (4) [Макдоналдс]",
+        "calories": "180",
+        "proteins": "9,9",
+        "fats": "9",
+        "carbohydrates": "15"
+    },
+    {
+        "name": "Большие Креветки (4) [Макдоналдс]",
+        "calories": "180",
+        "proteins": "9,9",
+        "fats": "9",
+        "carbohydrates": "15"
+    },
+    {
+        "name": "Большие Креветки (6) [Макдоналдс]",
+        "calories": "271",
+        "proteins": "15",
+        "fats": "14",
+        "carbohydrates": "22"
+    },
+    {
+        "name": "Большие Креветки (9) [Макдоналдс]",
+        "calories": "406",
+        "proteins": "22",
+        "fats": "20",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Большой Завтрак [Макдоналдс]",
+        "calories": "550",
+        "proteins": "28",
+        "fats": "30",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Большой завтрак McDonalds [Макдоналдс]",
+        "calories": "640",
+        "proteins": "30",
+        "fats": "30",
+        "carbohydrates": "62"
+    },
+    {
+        "name": "Большой завтрак McDonalds с джемом [Макдоналдс]",
+        "calories": "675",
+        "proteins": "30",
+        "fats": "35",
+        "carbohydrates": "58"
+    },
+    {
+        "name": "Большой завтрак McDonalds с мёдом [Макдоналдс]",
+        "calories": "685",
+        "proteins": "30",
+        "fats": "35",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Ванильное Печенье с Кусочками Шоколада [Макдоналдс]",
+        "calories": "360",
+        "proteins": "4",
+        "fats": "18",
+        "carbohydrates": "44"
+    },
+    {
+        "name": "Ванильный Сироп [Макдоналдс]",
+        "calories": "62",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "15"
+    },
+    {
+        "name": "Вафельный Рожок [Макдоналдс]",
+        "calories": "164",
+        "proteins": "3,8",
+        "fats": "3,6",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Венская Вафля [Макдоналдс]",
+        "calories": "309",
+        "proteins": "5,9",
+        "fats": "15",
+        "carbohydrates": "43"
+    },
+    {
+        "name": "Вестерн Гурмэ [Макдоналдс]",
+        "calories": "667",
+        "proteins": "34",
+        "fats": "36",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Вишневый Пирожок [Макдоналдс]",
+        "calories": "249",
+        "proteins": "2,8",
+        "fats": "12",
+        "carbohydrates": "32"
+    },
+    {
+        "name": "Гамбургер [Макдоналдс]",
+        "calories": "251",
+        "proteins": "13",
+        "fats": "8,8",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Гляссе [Макдоналдс]",
+        "calories": "125",
+        "proteins": "4",
+        "fats": "3",
+        "carbohydrates": "19"
+    },
+    {
+        "name": "Гранд Биф [Макдоналдс]",
+        "calories": "610",
+        "proteins": "34",
+        "fats": "30",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Гранд Капучино (0,4 L) [Макдоналдс]",
+        "calories": "136",
+        "proteins": "6,3",
+        "fats": "7,6",
+        "carbohydrates": "10"
+    },
+    {
+        "name": "Гранд Чизбургер [Макдоналдс]",
+        "calories": "474",
+        "proteins": "25",
+        "fats": "21",
+        "carbohydrates": "46"
+    },
+    {
+        "name": "Грик Мак [Макдоналдс]",
+        "calories": "486",
+        "proteins": "24",
+        "fats": "26",
+        "carbohydrates": "39"
+    },
+    {
+        "name": "Грикмак [Макдоналдс]",
+        "calories": "476",
+        "proteins": "21",
+        "fats": "30",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Гриль Гурмэ [Макдоналдс]",
+        "calories": "896",
+        "proteins": "47",
+        "fats": "55",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Гурме Вестерн [Макдоналдс]",
+        "calories": "667",
+        "proteins": "34",
+        "fats": "36",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Дабл Макфреш [Макдоналдс]",
+        "calories": "481",
+        "proteins": "31",
+        "fats": "25,6",
+        "carbohydrates": "30,7"
+    },
+    {
+        "name": "Дабл Чизбургер [Макдоналдс]",
+        "calories": "448",
+        "proteins": "27",
+        "fats": "24",
+        "carbohydrates": "31"
+    },
+    {
+        "name": "Дакуаз с Малиной [Макдоналдс]",
+        "calories": "318",
+        "proteins": "5",
+        "fats": "15",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Двойной Биг Мак [Макдоналдс]",
+        "calories": "686",
+        "proteins": "42",
+        "fats": "38",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Двойной Биг Тейсти [Макдоналдс]",
+        "calories": "1114",
+        "proteins": "71",
+        "fats": "69",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Двойной Гранд Чизбургер [Макдоналдс]",
+        "calories": "619",
+        "proteins": "37",
+        "fats": "32",
+        "carbohydrates": "46"
+    },
+    {
+        "name": "Двойной Кантрибургер [Макдоналдс]",
+        "calories": "442",
+        "proteins": "24",
+        "fats": "22",
+        "carbohydrates": "37"
+    },
+    {
+        "name": "Двойной Картофель Фри [Макдоналдс]",
+        "calories": "660",
+        "proteins": "7,8",
+        "fats": "32",
+        "carbohydrates": "82"
+    },
+    {
+        "name": "Двойной Роял Чизбургер [Макдоналдс]",
+        "calories": "732",
+        "proteins": "49",
+        "fats": "42",
+        "carbohydrates": "38"
+    },
+    {
+        "name": "Двойной Филе-О-Фиш [Макдоналдс]",
+        "calories": "478",
+        "proteins": "26",
+        "fats": "21",
+        "carbohydrates": "45"
+    },
+    {
+        "name": "Двойной Фреш Макмаффин [Макдоналдс]",
+        "calories": "513",
+        "proteins": "28",
+        "fats": "32",
+        "carbohydrates": "28"
+    },
+    {
+        "name": "Двойной Чизбургер [Макдоналдс]",
+        "calories": "441",
+        "proteins": "26",
+        "fats": "23",
+        "carbohydrates": "31"
+    },
+    {
+        "name": "Двойной Чизбургер Де Люкс [Макдоналдс]",
+        "calories": "674",
+        "proteins": "38",
+        "fats": "36",
+        "carbohydrates": "48"
+    },
+    {
+        "name": "Двойной Чизбургер Фреш [Макдоналдс]",
+        "calories": "440",
+        "proteins": "24",
+        "fats": "24",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Двойной Эгг Макмаффин с Яйцом и Свиной Котлетой [Макдоналдс]",
+        "calories": "628",
+        "proteins": "38",
+        "fats": "40",
+        "carbohydrates": "28"
+    },
+    {
+        "name": "Двойной Эспрессо [Макдоналдс]",
+        "calories": "2",
+        "proteins": "0,2",
+        "fats": "0,1",
+        "carbohydrates": "0,2"
+    },
+    {
+        "name": "Дер Бургер [Макдоналдс]",
+        "calories": "345",
+        "proteins": "15",
+        "fats": "17",
+        "carbohydrates": "33"
+    },
+    {
+        "name": "Десерт А-Ля Мод [Макдоналдс]",
+        "calories": "508",
+        "proteins": "9,3",
+        "fats": "15",
+        "carbohydrates": "83"
+    },
+    {
+        "name": "Десерт Вафельный Рожок [Макдоналдс]",
+        "calories": "135",
+        "proteins": "3",
+        "fats": "4",
+        "carbohydrates": "22"
+    },
+    {
+        "name": "Десерт Вафельный рожок McDonalds [Макдоналдс]",
+        "calories": "135",
+        "proteins": "3",
+        "fats": "4",
+        "carbohydrates": "22"
+    },
+    {
+        "name": "Десерт Вишнёвый пирожок [Макдоналдс]",
+        "calories": "230",
+        "proteins": "2",
+        "fats": "12",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Десерт Вишнёвый пирожок McDonalds [Макдоналдс]",
+        "calories": "230",
+        "proteins": "2",
+        "fats": "12",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Десерт Макфлурри Де Люкс карамельно-шоколадный [Макдоналдс]",
+        "calories": "375",
+        "proteins": "6",
+        "fats": "10",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Десерт Макфлурри Де Люкс клубнично-шоколадный [Макдоналдс]",
+        "calories": "330",
+        "proteins": "6",
+        "fats": "8",
+        "carbohydrates": "54"
+    },
+    {
+        "name": "Десерт Макфлурри с рисовыми шариками [Макдоналдс]",
+        "calories": "340",
+        "proteins": "6",
+        "fats": "8",
+        "carbohydrates": "56"
+    },
+    {
+        "name": "Десерт Макфлурри с шоколадно-вафельной крошкой [Макдоналдс]",
+        "calories": "280",
+        "proteins": "6",
+        "fats": "8",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Десерт Маффин с чёрной смородиной [Макдоналдс]",
+        "calories": "470",
+        "proteins": "7",
+        "fats": "31",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Десерт Маффин с шоколадом [Макдоналдс]",
+        "calories": "480",
+        "proteins": "7",
+        "fats": "32",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Десерт Мороженое с карамелью [Макдоналдс]",
+        "calories": "335",
+        "proteins": "5",
+        "fats": "9",
+        "carbohydrates": "58"
+    },
+    {
+        "name": "Десерт Мороженое с клубникой [Макдоналдс]",
+        "calories": "275",
+        "proteins": "5",
+        "fats": "7",
+        "carbohydrates": "48"
+    },
+    {
+        "name": "Десерт Мороженое с шоколадом [Макдоналдс]",
+        "calories": "325",
+        "proteins": "6",
+        "fats": "11",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Десерт Мусс Шоколадный [Макдоналдс]",
+        "calories": "353",
+        "proteins": "3,1",
+        "fats": "24",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Десерт Спелая Вишня с Бисквитом [Макдоналдс]",
+        "calories": "280",
+        "proteins": "3,8",
+        "fats": "6,8",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Джем Клубничный [Макдоналдс]",
+        "calories": "240",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Дикая Клюква [Макдоналдс]",
+        "calories": "198",
+        "proteins": "0",
+        "fats": "4,2",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Донат [Макдоналдс]",
+        "calories": "263",
+        "proteins": "2,5",
+        "fats": "15",
+        "carbohydrates": "28"
+    },
+    {
+        "name": "Донат с Шоколадным Кремом [Макдоналдс]",
+        "calories": "371",
+        "proteins": "3,8",
+        "fats": "23",
+        "carbohydrates": "37"
+    },
+    {
+        "name": "Завтрак двойной МакМаффин с яйцом и свиной котлетой [Макдоналдс]",
+        "calories": "615",
+        "proteins": "39",
+        "fats": "33",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Завтрак двойной Фреш МакМаффин [Макдоналдс]",
+        "calories": "550",
+        "proteins": "28",
+        "fats": "36",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Завтрак МакМаффин с яйцом и беконом [Макдоналдс]",
+        "calories": "305",
+        "proteins": "18",
+        "fats": "14",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Завтрак МакМаффин с яйцом и свиной котлетой [Макдоналдс]",
+        "calories": "425",
+        "proteins": "26",
+        "fats": "21",
+        "carbohydrates": "33"
+    },
+    {
+        "name": "Завтрак МакМаффин с яйцом и сыром [Макдоналдс]",
+        "calories": "275",
+        "proteins": "16",
+        "fats": "12",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Завтрак МакМаффин со свиной котлетой [Макдоналдс]",
+        "calories": "345",
+        "proteins": "19",
+        "fats": "15",
+        "carbohydrates": "33"
+    },
+    {
+        "name": "Завтрак МакТост [Макдоналдс]",
+        "calories": "235",
+        "proteins": "11",
+        "fats": "9",
+        "carbohydrates": "28"
+    },
+    {
+        "name": "Завтрак МакТост с ветчиной [Макдоналдс]",
+        "calories": "260",
+        "proteins": "14",
+        "fats": "10",
+        "carbohydrates": "28"
+    },
+    {
+        "name": "Завтрак Фреш МакМаффин [Макдоналдс]",
+        "calories": "380",
+        "proteins": "19",
+        "fats": "18",
+        "carbohydrates": "35"
+    },
+    {
+        "name": "Завтрак Хашбраун [Макдоналдс]",
+        "calories": "140",
+        "proteins": "1",
+        "fats": "8",
+        "carbohydrates": "16"
+    },
+    {
+        "name": "Завтрак Чикен Фреш МакМаффин [Макдоналдс]",
+        "calories": "355",
+        "proteins": "13",
+        "fats": "15",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Заправка Цезарь [Макдоналдс]",
+        "calories": "125",
+        "proteins": "1,8",
+        "fats": "11",
+        "carbohydrates": "3,7"
+    },
+    {
+        "name": "Згапари [Макдоналдс]",
+        "calories": "367",
+        "proteins": "9,7",
+        "fats": "19",
+        "carbohydrates": "39"
+    },
+    {
+        "name": "Кантрибургер [Макдоналдс]",
+        "calories": "306",
+        "proteins": "15",
+        "fats": "11",
+        "carbohydrates": "36"
+    },
+    {
+        "name": "Капучино (0,2 L) [Макдоналдс]",
+        "calories": "78",
+        "proteins": "3,6",
+        "fats": "4,4",
+        "carbohydrates": "5,9"
+    },
+    {
+        "name": "Капучино (0,3 L) [Макдоналдс]",
+        "calories": "123",
+        "proteins": "5,7",
+        "fats": "6,9",
+        "carbohydrates": "9,4"
+    },
+    {
+        "name": "Капучино без Сахара (0,3 L) [Макдоналдс]",
+        "calories": "89",
+        "proteins": "4,5",
+        "fats": "4,5",
+        "carbohydrates": "7,5"
+    },
+    {
+        "name": "Капучино Большой (0,3 L) [Макдоналдс]",
+        "calories": "114",
+        "proteins": "5,6",
+        "fats": "6,4",
+        "carbohydrates": "8,7"
+    },
+    {
+        "name": "Капучино Гранд (0,4 L) [Макдоналдс]",
+        "calories": "130",
+        "proteins": "6",
+        "fats": "7",
+        "carbohydrates": "10"
+    },
+    {
+        "name": "Капучино Гранд без Сахара (0,4 L) [Макдоналдс]",
+        "calories": "156",
+        "proteins": "7,2",
+        "fats": "8,8",
+        "carbohydrates": "12"
+    },
+    {
+        "name": "Капучино Карамель (0,3 L) [Макдоналдс]",
+        "calories": "175",
+        "proteins": "7",
+        "fats": "6,5",
+        "carbohydrates": "24"
+    },
+    {
+        "name": "Капучино Лесной Орех (0,3 L) [Макдоналдс]",
+        "calories": "175",
+        "proteins": "7",
+        "fats": "6,5",
+        "carbohydrates": "24"
+    },
+    {
+        "name": "Карри [Макдоналдс]",
+        "calories": "158",
+        "proteins": "0,7",
+        "fats": "1,3",
+        "carbohydrates": "34,4"
+    },
+    {
+        "name": "Карри Снек Ролл [Макдоналдс]",
+        "calories": "350",
+        "proteins": "12",
+        "fats": "16",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Картофель по-Деревенски [Макдоналдс]",
+        "calories": "243",
+        "proteins": "3,4",
+        "fats": "11",
+        "carbohydrates": "31"
+    },
+    {
+        "name": "Картофель по-деревенски McDonalds [Макдоналдс]",
+        "calories": "330",
+        "proteins": "4",
+        "fats": "15",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Картофель фри (большая порция) [Макдоналдс]",
+        "calories": "505",
+        "proteins": "8",
+        "fats": "26",
+        "carbohydrates": "66"
+    },
+    {
+        "name": "Картофель Фри (Большой) [Макдоналдс]",
+        "calories": "434",
+        "proteins": "5,2",
+        "fats": "21",
+        "carbohydrates": "54"
+    },
+    {
+        "name": "Картофель Фри (Детская Порция) [Макдоналдс]",
+        "calories": "240",
+        "proteins": "3",
+        "fats": "12",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Картофель фри (маленькая порция) [Макдоналдс]",
+        "calories": "235",
+        "proteins": "3",
+        "fats": "12",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Картофель Фри (Маленькая) [Макдоналдс]",
+        "calories": "231",
+        "proteins": "2,8",
+        "fats": "11",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Картофель фри (стандартная порция) [Макдоналдс]",
+        "calories": "340",
+        "proteins": "5",
+        "fats": "17",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Картофель Фри (Стандартный) [Макдоналдс]",
+        "calories": "330",
+        "proteins": "3,9",
+        "fats": "16",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Картофель фри McDonalds (большая порция) [Макдоналдс]",
+        "calories": "445",
+        "proteins": "5",
+        "fats": "22",
+        "carbohydrates": "54"
+    },
+    {
+        "name": "Картофель фри McDonalds (маленькая порция) [Макдоналдс]",
+        "calories": "240",
+        "proteins": "3",
+        "fats": "12",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Картофель фри McDonalds (средняя порция) [Макдоналдс]",
+        "calories": "340",
+        "proteins": "5",
+        "fats": "17",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Картофель Фри Маленький [Макдоналдс]",
+        "calories": "240",
+        "proteins": "3",
+        "fats": "12",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Картофельные Дипы [Макдоналдс]",
+        "calories": "361",
+        "proteins": "5",
+        "fats": "17",
+        "carbohydrates": "44"
+    },
+    {
+        "name": "Картофельный Оладушек [Макдоналдс]",
+        "calories": "132",
+        "proteins": "1,3",
+        "fats": "7,7",
+        "carbohydrates": "14"
+    },
+    {
+        "name": "Картошка по-Бельгийски [Макдоналдс]",
+        "calories": "204",
+        "proteins": "1,8",
+        "fats": "14",
+        "carbohydrates": "18"
+    },
+    {
+        "name": "Картошка по-Деревенски [Макдоналдс]",
+        "calories": "331",
+        "proteins": "4,6",
+        "fats": "15",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Картошка по-Техасски Фри [Макдоналдс]",
+        "calories": "436",
+        "proteins": "8,7",
+        "fats": "25",
+        "carbohydrates": "43"
+    },
+    {
+        "name": "Картошка Фри [Макдоналдс]",
+        "calories": "240",
+        "proteins": "3",
+        "fats": "12",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Картошка Фри Средняя Порция [Макдоналдс]",
+        "calories": "330",
+        "proteins": "3,9",
+        "fats": "16",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Кетчуп [Макдоналдс]",
+        "calories": "36",
+        "proteins": "0,5",
+        "fats": "0,1",
+        "carbohydrates": "6,2"
+    },
+    {
+        "name": "Кленовый Пекан [Макдоналдс]",
+        "calories": "340",
+        "proteins": "4",
+        "fats": "23",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Клюква и Изюм [Макдоналдс]",
+        "calories": "63",
+        "proteins": "0,3",
+        "fats": "0",
+        "carbohydrates": "16"
+    },
+    {
+        "name": "Кока-Кола (0,25 L) [Макдоналдс]",
+        "calories": "110",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Кока-Кола (0,4 L) [Макдоналдс]",
+        "calories": "170",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Кока-Кола (0,5 L) [Макдоналдс]",
+        "calories": "210",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "53"
+    },
+    {
+        "name": "Кока-Кола Лайт [Макдоналдс]",
+        "calories": "2",
+        "proteins": "0,3",
+        "fats": "0",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Кока-Кола Макфизз Ваниль (0,4 L) [Макдоналдс]",
+        "calories": "127",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "32"
+    },
+    {
+        "name": "Коктейль ванильный [Макдоналдс]",
+        "calories": "400",
+        "proteins": "10",
+        "fats": "10",
+        "carbohydrates": "68"
+    },
+    {
+        "name": "Коктейль ванильный McDonalds 400 мл [Макдоналдс]",
+        "calories": "385",
+        "proteins": "9",
+        "fats": "7",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Коктейль Клубничный [Макдоналдс]",
+        "calories": "385",
+        "proteins": "9",
+        "fats": "7",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Коктейль клубничный McDonalds 400 мл [Макдоналдс]",
+        "calories": "385",
+        "proteins": "9",
+        "fats": "7",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Коктейль Молочный Дольче Малина [Макдоналдс]",
+        "calories": "235",
+        "proteins": "5,7",
+        "fats": "4,3",
+        "carbohydrates": "44"
+    },
+    {
+        "name": "Коктейль Шоколадный [Макдоналдс]",
+        "calories": "395",
+        "proteins": "10",
+        "fats": "8",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Коктейль шоколадный McDonalds 400 мл [Макдоналдс]",
+        "calories": "395",
+        "proteins": "10",
+        "fats": "8",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Кофе (0,2 L) [Макдоналдс]",
+        "calories": "7",
+        "proteins": "0,6",
+        "fats": "0,2",
+        "carbohydrates": "0,6"
+    },
+    {
+        "name": "Кофе (0,3 L) [Макдоналдс]",
+        "calories": "10",
+        "proteins": "0,9",
+        "fats": "0",
+        "carbohydrates": "0,9"
+    },
+    {
+        "name": "Кофе Глясе (0,3 L) [Макдоналдс]",
+        "calories": "123",
+        "proteins": "3,6",
+        "fats": "3,3",
+        "carbohydrates": "20"
+    },
+    {
+        "name": "Кофе Гляссе [Макдоналдс]",
+        "calories": "125",
+        "proteins": "4",
+        "fats": "3",
+        "carbohydrates": "19"
+    },
+    {
+        "name": "Кофе Латте [Макдоналдс]",
+        "calories": "132",
+        "proteins": "6,1",
+        "fats": "7,4",
+        "carbohydrates": "10"
+    },
+    {
+        "name": "Кофе Мокко [Макдоналдс]",
+        "calories": "230",
+        "proteins": "9",
+        "fats": "8",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Кофе Сливочная Арабика [Макдоналдс]",
+        "calories": "298",
+        "proteins": "6",
+        "fats": "22",
+        "carbohydrates": "19"
+    },
+    {
+        "name": "Кофе Флэт Уайт (0,3 L) [Макдоналдс]",
+        "calories": "113",
+        "proteins": "5,8",
+        "fats": "6",
+        "carbohydrates": "8,9"
+    },
+    {
+        "name": "Креветки в Кляре [Макдоналдс]",
+        "calories": "267",
+        "proteins": "12,5",
+        "fats": "13,5",
+        "carbohydrates": "22,9"
+    },
+    {
+        "name": "Круассан [Макдоналдс]",
+        "calories": "191",
+        "proteins": "3,5",
+        "fats": "11",
+        "carbohydrates": "19"
+    },
+    {
+        "name": "Круассан с Сыром и Прованскими Травами [Макдоналдс]",
+        "calories": "280",
+        "proteins": "7",
+        "fats": "17",
+        "carbohydrates": "24"
+    },
+    {
+        "name": "Куриные Крылышки (4) [Макдоналдс]",
+        "calories": "184",
+        "proteins": "20",
+        "fats": "11",
+        "carbohydrates": "1,5"
+    },
+    {
+        "name": "Куриные Крылышки (6) [Макдоналдс]",
+        "calories": "292",
+        "proteins": "32",
+        "fats": "16",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Куриные Крылышки (9) [Макдоналдс]",
+        "calories": "415",
+        "proteins": "45",
+        "fats": "24",
+        "carbohydrates": "3,3"
+    },
+    {
+        "name": "Куриные Крылышки [Макдоналдс]",
+        "calories": "99",
+        "proteins": "6,1",
+        "fats": "6,5",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Куриные Крылья [Макдоналдс]",
+        "calories": "973",
+        "proteins": "60",
+        "fats": "63",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Куриные Наггетсы [Макдоналдс]",
+        "calories": "45",
+        "proteins": "2,8",
+        "fats": "2,3",
+        "carbohydrates": "3,2"
+    },
+    {
+        "name": "Латте (0,3 L) [Макдоналдс]",
+        "calories": "125",
+        "proteins": "6",
+        "fats": "7",
+        "carbohydrates": "10"
+    },
+    {
+        "name": "Латте Гранд (0,4 L) [Макдоналдс]",
+        "calories": "130",
+        "proteins": "6,5",
+        "fats": "7",
+        "carbohydrates": "10"
+    },
+    {
+        "name": "Лимонад Вишня [Макдоналдс]",
+        "calories": "139",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "35"
+    },
+    {
+        "name": "Лимонад Гренадин [Макдоналдс]",
+        "calories": "79",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "20"
+    },
+    {
+        "name": "Лимонад Гуава [Макдоналдс]",
+        "calories": "140",
+        "proteins": "0,1",
+        "fats": "0",
+        "carbohydrates": "35"
+    },
+    {
+        "name": "Лимонад Малина [Макдоналдс]",
+        "calories": "139",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "35"
+    },
+    {
+        "name": "Лимонный Треугольник [Макдоналдс]",
+        "calories": "130",
+        "proteins": "1,3",
+        "fats": "6,9",
+        "carbohydrates": "16"
+    },
+    {
+        "name": "Лимонный Чизкейк [Макдоналдс]",
+        "calories": "281",
+        "proteins": "7",
+        "fats": "17",
+        "carbohydrates": "24"
+    },
+    {
+        "name": "Макарони [Макдоналдс]",
+        "calories": "75",
+        "proteins": "1,1",
+        "fats": "3,4",
+        "carbohydrates": "9,8"
+    },
+    {
+        "name": "Макзавтрак Блины с джемом [Макдоналдс]",
+        "calories": "303",
+        "proteins": "7",
+        "fats": "3",
+        "carbohydrates": "57"
+    },
+    {
+        "name": "Макзавтрак Блины с мёдом [Макдоналдс]",
+        "calories": "308",
+        "proteins": "7",
+        "fats": "3",
+        "carbohydrates": "59"
+    },
+    {
+        "name": "Макзавтрак Блины стандартные [Макдоналдс]",
+        "calories": "235",
+        "proteins": "7",
+        "fats": "3",
+        "carbohydrates": "45"
+    },
+    {
+        "name": "Макзавтрак двойной МакМаффин с яйцом и свиной котлетой [Макдоналдс]",
+        "calories": "645",
+        "proteins": "36",
+        "fats": "41",
+        "carbohydrates": "31"
+    },
+    {
+        "name": "Макзавтрак двойной Фреш МакМаффин [Макдоналдс]",
+        "calories": "560",
+        "proteins": "27",
+        "fats": "35",
+        "carbohydrates": "33"
+    },
+    {
+        "name": "Макзавтрак МакМаффин с яйцом и беконом [Макдоналдс]",
+        "calories": "310",
+        "proteins": "17",
+        "fats": "14",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Макзавтрак МакМаффин с яйцом и свиной котлетой [Макдоналдс]",
+        "calories": "435",
+        "proteins": "24",
+        "fats": "25",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Макзавтрак МакМаффин с яйцом и сыром [Макдоналдс]",
+        "calories": "275",
+        "proteins": "15",
+        "fats": "11",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Макзавтрак МакМаффин со свиной котлетой [Макдоналдс]",
+        "calories": "360",
+        "proteins": "17",
+        "fats": "20",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Макзавтрак МакТост [Макдоналдс]",
+        "calories": "255",
+        "proteins": "10",
+        "fats": "10",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Макзавтрак МакТост с ветчиной [Макдоналдс]",
+        "calories": "280",
+        "proteins": "14",
+        "fats": "11",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Макзавтрак Овсяная каша с джемом [Макдоналдс]",
+        "calories": "200",
+        "proteins": "4",
+        "fats": "4",
+        "carbohydrates": "35"
+    },
+    {
+        "name": "Макзавтрак Овсяная каша с клюквой и изюмом [Макдоналдс]",
+        "calories": "212",
+        "proteins": "4,3",
+        "fats": "4",
+        "carbohydrates": "38"
+    },
+    {
+        "name": "Макзавтрак Овсяная каша с мёдом [Макдоналдс]",
+        "calories": "210",
+        "proteins": "4",
+        "fats": "4",
+        "carbohydrates": "35"
+    },
+    {
+        "name": "Макзавтрак Овсяная каша стандартная [Макдоналдс]",
+        "calories": "150",
+        "proteins": "4",
+        "fats": "4",
+        "carbohydrates": "23"
+    },
+    {
+        "name": "Макзавтрак Снек Ролл с омлетом и беконом [Макдоналдс]",
+        "calories": "320",
+        "proteins": "16",
+        "fats": "16",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Макзавтрак Снек Ролл с омлетом и свиной котлетой [Макдоналдс]",
+        "calories": "435",
+        "proteins": "22",
+        "fats": "26",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Макзавтрак Фреш МакМаффин [Макдоналдс]",
+        "calories": "400",
+        "proteins": "18",
+        "fats": "21",
+        "carbohydrates": "33"
+    },
+    {
+        "name": "Макзавтрак Хашбраун [Макдоналдс]",
+        "calories": "135",
+        "proteins": "1",
+        "fats": "8",
+        "carbohydrates": "14"
+    },
+    {
+        "name": "Макзавтрак Чикен Фреш МакМаффин [Макдоналдс]",
+        "calories": "365",
+        "proteins": "19",
+        "fats": "13",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Макмаффин с Яйцом и Беконом [Макдоналдс]",
+        "calories": "317",
+        "proteins": "18",
+        "fats": "15",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Макмаффин с Яйцом и Ветчиной [Макдоналдс]",
+        "calories": "312",
+        "proteins": "20",
+        "fats": "14",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Макмаффин с Яйцом и Свиной Котлетой [Макдоналдс]",
+        "calories": "434",
+        "proteins": "25",
+        "fats": "25",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Макмаффин с Яйцом и Сыром [Макдоналдс]",
+        "calories": "289",
+        "proteins": "16",
+        "fats": "13",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Макмаффин со Свиной Котлетой [Макдоналдс]",
+        "calories": "344",
+        "proteins": "18",
+        "fats": "18",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Макпирог Клубничный Чизкейк [Макдоналдс]",
+        "calories": "186",
+        "proteins": "3",
+        "fats": "7",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Макпирог с Вишней [Макдоналдс]",
+        "calories": "255",
+        "proteins": "3",
+        "fats": "13",
+        "carbohydrates": "31"
+    },
+    {
+        "name": "Макпирог Шоколадно-Апельсиновый [Макдоналдс]",
+        "calories": "294",
+        "proteins": "3",
+        "fats": "14",
+        "carbohydrates": "38"
+    },
+    {
+        "name": "Максанди с Карамелью [Макдоналдс]",
+        "calories": "241",
+        "proteins": "5",
+        "fats": "5",
+        "carbohydrates": "44"
+    },
+    {
+        "name": "Максанди с Шоколадом [Макдоналдс]",
+        "calories": "243",
+        "proteins": "5,7",
+        "fats": "6,8",
+        "carbohydrates": "39,5"
+    },
+    {
+        "name": "Мактост [Макдоналдс]",
+        "calories": "255",
+        "proteins": "10",
+        "fats": "10",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Мактост с Ветчиной [Макдоналдс]",
+        "calories": "280",
+        "proteins": "14",
+        "fats": "11",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Мактост с Ветчиной и Сыром [Макдоналдс]",
+        "calories": "265",
+        "proteins": "14",
+        "fats": "11",
+        "carbohydrates": "28"
+    },
+    {
+        "name": "Мактост с Грибами и Сыром [Макдоналдс]",
+        "calories": "243",
+        "proteins": "8,8",
+        "fats": "11",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Мактост с Сыром [Макдоналдс]",
+        "calories": "240",
+        "proteins": "10",
+        "fats": "9,7",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Макфлури Гуава [Макдоналдс]",
+        "calories": "343",
+        "proteins": "6,4",
+        "fats": "8,2",
+        "carbohydrates": "61"
+    },
+    {
+        "name": "Макфлури Де Люкс Ананас [Макдоналдс]",
+        "calories": "334",
+        "proteins": "6,4",
+        "fats": "8,2",
+        "carbohydrates": "59"
+    },
+    {
+        "name": "Макфлури Де Люкс Крем-Брюле [Макдоналдс]",
+        "calories": "322",
+        "proteins": "6",
+        "fats": "6",
+        "carbohydrates": "59"
+    },
+    {
+        "name": "Макфлури Де Люкс Мокко [Макдоналдс]",
+        "calories": "360",
+        "proteins": "7,2",
+        "fats": "11",
+        "carbohydrates": "57"
+    },
+    {
+        "name": "Макфлури Де Люкс Персик [Макдоналдс]",
+        "calories": "347",
+        "proteins": "6,7",
+        "fats": "8,2",
+        "carbohydrates": "61"
+    },
+    {
+        "name": "Макфлури Де Люкс с Бисквитом и Карамелью [Макдоналдс]",
+        "calories": "400",
+        "proteins": "7,1",
+        "fats": "11",
+        "carbohydrates": "67"
+    },
+    {
+        "name": "Макфлури Карамель [Макдоналдс]",
+        "calories": "354",
+        "proteins": "8,1",
+        "fats": "9",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Макфлури Карамельный с Вафельно-Шоколадной Крошкой [Макдоналдс]",
+        "calories": "370",
+        "proteins": "7",
+        "fats": "9,4",
+        "carbohydrates": "64"
+    },
+    {
+        "name": "Макфлури Лесной Орех [Макдоналдс]",
+        "calories": "220",
+        "proteins": "8",
+        "fats": "6",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Макфлури с Вафельно-Шоколадной Крошкой [Макдоналдс]",
+        "calories": "270",
+        "proteins": "6",
+        "fats": "8",
+        "carbohydrates": "43"
+    },
+    {
+        "name": "Макфлури с Шоколадно-Вафельной Крошкой [Макдоналдс]",
+        "calories": "280",
+        "proteins": "6",
+        "fats": "8",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Макфлури Сочный Ананас [Макдоналдс]",
+        "calories": "290",
+        "proteins": "5,5",
+        "fats": "5,6",
+        "carbohydrates": "54"
+    },
+    {
+        "name": "Макфлури Спелая Вишня [Макдоналдс]",
+        "calories": "344",
+        "proteins": "6,4",
+        "fats": "8,2",
+        "carbohydrates": "61"
+    },
+    {
+        "name": "Макфлури Спелое Манго [Макдоналдс]",
+        "calories": "285",
+        "proteins": "5,5",
+        "fats": "5,7",
+        "carbohydrates": "53"
+    },
+    {
+        "name": "Макфлури Тирамису [Макдоналдс]",
+        "calories": "343",
+        "proteins": "7",
+        "fats": "7,6",
+        "carbohydrates": "62"
+    },
+    {
+        "name": "Макфлури Яблочный Пай [Макдоналдс]",
+        "calories": "307",
+        "proteins": "6,5",
+        "fats": "6,6",
+        "carbohydrates": "55"
+    },
+    {
+        "name": "Макфлурри Де Люкс Грецкий Орех [Макдоналдс]",
+        "calories": "277",
+        "proteins": "5,5",
+        "fats": "5,6",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Макфлурри Де Люкс Гуава [Макдоналдс]",
+        "calories": "343",
+        "proteins": "6,4",
+        "fats": "8,2",
+        "carbohydrates": "61"
+    },
+    {
+        "name": "Макфлурри Де Люкс Карамельно-Шоколадное [Макдоналдс]",
+        "calories": "406",
+        "proteins": "7,1",
+        "fats": "11",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Макфлурри Де Люкс Клубнично-Шоколадное [Макдоналдс]",
+        "calories": "345",
+        "proteins": "6,4",
+        "fats": "8,6",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Макфлурри Де Люкс Клубничный Бискотти [Макдоналдс]",
+        "calories": "337",
+        "proteins": "6,4",
+        "fats": "9,4",
+        "carbohydrates": "56"
+    },
+    {
+        "name": "Макфлурри Де Люкс Крем-Брюле [Макдоналдс]",
+        "calories": "322",
+        "proteins": "6,5",
+        "fats": "6,6",
+        "carbohydrates": "59"
+    },
+    {
+        "name": "Макфлурри Де Люкс Малина [Макдоналдс]",
+        "calories": "294",
+        "proteins": "6,4",
+        "fats": "8,2",
+        "carbohydrates": "48"
+    },
+    {
+        "name": "Макфлурри Де Люкс Мокко [Макдоналдс]",
+        "calories": "360",
+        "proteins": "7,2",
+        "fats": "11",
+        "carbohydrates": "57"
+    },
+    {
+        "name": "Макфлурри Де Люкс Персик [Макдоналдс]",
+        "calories": "347",
+        "proteins": "6,7",
+        "fats": "8,2",
+        "carbohydrates": "61"
+    },
+    {
+        "name": "Макфлурри Де Люкс с Бисквитом и Карамелью [Макдоналдс]",
+        "calories": "400",
+        "proteins": "7,1",
+        "fats": "11",
+        "carbohydrates": "67"
+    },
+    {
+        "name": "Макфлурри Де Люкс Фисташка [Макдоналдс]",
+        "calories": "268",
+        "proteins": "6,1",
+        "fats": "7,7",
+        "carbohydrates": "44"
+    },
+    {
+        "name": "Макфлурри Де Люкс Шоколадно-Карамельное [Макдоналдс]",
+        "calories": "406",
+        "proteins": "7,1",
+        "fats": "11",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Макфлурри Де Люкс Шоколадно-Клубничное [Макдоналдс]",
+        "calories": "345",
+        "proteins": "6,4",
+        "fats": "8,6",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Макфлурри Де Люкс Яблочный Пай [Макдоналдс]",
+        "calories": "307",
+        "proteins": "6,5",
+        "fats": "6,6",
+        "carbohydrates": "55"
+    },
+    {
+        "name": "Макфлурри с Рисом и Клубникой [Макдоналдс]",
+        "calories": "290",
+        "proteins": "5",
+        "fats": "6",
+        "carbohydrates": "54"
+    },
+    {
+        "name": "Макфлурри Спелое Манго [Макдоналдс]",
+        "calories": "285",
+        "proteins": "5,5",
+        "fats": "5,7",
+        "carbohydrates": "53"
+    },
+    {
+        "name": "Макфлурри Шоколадно-Клубничное [Макдоналдс]",
+        "calories": "345",
+        "proteins": "6,4",
+        "fats": "8,6",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Макфлэйвор Фрайз [Макдоналдс]",
+        "calories": "414",
+        "proteins": "7,1",
+        "fats": "20",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Макфлэйвор Фрайз по Деревенски [Макдоналдс]",
+        "calories": "449",
+        "proteins": "9,5",
+        "fats": "24",
+        "carbohydrates": "46"
+    },
+    {
+        "name": "Макфреш [Макдоналдс]",
+        "calories": "519",
+        "proteins": "25",
+        "fats": "31",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Макчикен [Макдоналдс]",
+        "calories": "484",
+        "proteins": "21",
+        "fats": "15",
+        "carbohydrates": "62"
+    },
+    {
+        "name": "Макшейк [Макдоналдс]",
+        "calories": "235",
+        "proteins": "7",
+        "fats": "7",
+        "carbohydrates": "35"
+    },
+    {
+        "name": "Малиновый Лимонад [Макдоналдс]",
+        "calories": "139",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "35"
+    },
+    {
+        "name": "Малиновый Пунш (0,3 L) [Макдоналдс]",
+        "calories": "140",
+        "proteins": "0,3",
+        "fats": "0",
+        "carbohydrates": "35"
+    },
+    {
+        "name": "Малиновый Шейк [Макдоналдс]",
+        "calories": "244",
+        "proteins": "5,7",
+        "fats": "4,3",
+        "carbohydrates": "45"
+    },
+    {
+        "name": "Маффин с Черной Смородиной [Макдоналдс]",
+        "calories": "370",
+        "proteins": "5",
+        "fats": "18",
+        "carbohydrates": "47"
+    },
+    {
+        "name": "Маффин с Шоколадом [Макдоналдс]",
+        "calories": "346",
+        "proteins": "5,9",
+        "fats": "12",
+        "carbohydrates": "55"
+    },
+    {
+        "name": "Маффин с Яблоком и Корицей [Макдоналдс]",
+        "calories": "463",
+        "proteins": "5,8",
+        "fats": "22",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Маффин Шоколадный [Макдоналдс]",
+        "calories": "289",
+        "proteins": "4,6",
+        "fats": "13,7",
+        "carbohydrates": "36,8"
+    },
+    {
+        "name": "Маффин Шоколадный с Черничным Джемом [Макдоналдс]",
+        "calories": "360",
+        "proteins": "5",
+        "fats": "16",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Маэстро Биф & Бородинский [Макдоналдс]",
+        "calories": "643",
+        "proteins": "36",
+        "fats": "40",
+        "carbohydrates": "36"
+    },
+    {
+        "name": "Маэстро Классик [Макдоналдс]",
+        "calories": "686",
+        "proteins": "41",
+        "fats": "42",
+        "carbohydrates": "37"
+    },
+    {
+        "name": "Микс Бокс [Макдоналдс]",
+        "calories": "858",
+        "proteins": "38",
+        "fats": "41",
+        "carbohydrates": "83"
+    },
+    {
+        "name": "Молоко 3,5% [Макдоналдс]",
+        "calories": "62",
+        "proteins": "3",
+        "fats": "3,5",
+        "carbohydrates": "4,7"
+    },
+    {
+        "name": "Молочный Коктейль Ваниль [Макдоналдс]",
+        "calories": "81",
+        "proteins": "2",
+        "fats": "1,5",
+        "carbohydrates": "15"
+    },
+    {
+        "name": "Молочный Коктейль Ванильный (0,3 L) [Макдоналдс]",
+        "calories": "244",
+        "proteins": "6,1",
+        "fats": "4,6",
+        "carbohydrates": "45"
+    },
+    {
+        "name": "Молочный Коктейль Ванильный (0,4 L) [Макдоналдс]",
+        "calories": "385",
+        "proteins": "9",
+        "fats": "7",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Молочный Коктейль Клубника (0,25 L) [Макдоналдс]",
+        "calories": "244",
+        "proteins": "6,1",
+        "fats": "4,6",
+        "carbohydrates": "45"
+    },
+    {
+        "name": "Молочный Коктейль Клубничный (0,3 L) [Макдоналдс]",
+        "calories": "244",
+        "proteins": "6,1",
+        "fats": "4,6",
+        "carbohydrates": "45"
+    },
+    {
+        "name": "Молочный Коктейль Клубничный (0,4 L) [Макдоналдс]",
+        "calories": "385",
+        "proteins": "9",
+        "fats": "7",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Молочный Коктейль Шоколадный (0,25 L) [Макдоналдс]",
+        "calories": "247",
+        "proteins": "6,7",
+        "fats": "5",
+        "carbohydrates": "43"
+    },
+    {
+        "name": "Молочный Коктейль Шоколадный (0,47 L) [Макдоналдс]",
+        "calories": "386",
+        "proteins": "10",
+        "fats": "7,9",
+        "carbohydrates": "68"
+    },
+    {
+        "name": "Молочный Коктейль Шоколадный (0,47 L) [Макдоналдс]",
+        "calories": "386",
+        "proteins": "10",
+        "fats": "7,9",
+        "carbohydrates": "68"
+    },
+    {
+        "name": "Молочный Коктейль Шоколадный (0,6 L) [Макдоналдс]",
+        "calories": "493",
+        "proteins": "13",
+        "fats": "10",
+        "carbohydrates": "87"
+    },
+    {
+        "name": "Морковные Палочки [Макдоналдс]",
+        "calories": "34",
+        "proteins": "1,3",
+        "fats": "0,1",
+        "carbohydrates": "6,9"
+    },
+    {
+        "name": "Морковные Палочки [Макдоналдс]",
+        "calories": "28",
+        "proteins": "1",
+        "fats": "0,1",
+        "carbohydrates": "5,5"
+    },
+    {
+        "name": "Морковные палочки McDonalds [Макдоналдс]",
+        "calories": "27",
+        "proteins": "1",
+        "fats": "0",
+        "carbohydrates": "6"
+    },
+    {
+        "name": "Мороженное с Шоколадом [Макдоналдс]",
+        "calories": "315",
+        "proteins": "6",
+        "fats": "9",
+        "carbohydrates": "52"
+    },
+    {
+        "name": "Мороженое Гуава [Макдоналдс]",
+        "calories": "257",
+        "proteins": "1,9",
+        "fats": "4,9",
+        "carbohydrates": "48"
+    },
+    {
+        "name": "Мороженое Карамельное [Макдоналдс]",
+        "calories": "319",
+        "proteins": "5,6",
+        "fats": "6,9",
+        "carbohydrates": "59"
+    },
+    {
+        "name": "Мороженое Клубничное [Макдоналдс]",
+        "calories": "258",
+        "proteins": "5",
+        "fats": "4,9",
+        "carbohydrates": "48"
+    },
+    {
+        "name": "Мороженое Макфлури Де Люкс Шоко-Карамель [Макдоналдс]",
+        "calories": "406",
+        "proteins": "7,1",
+        "fats": "11",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Мороженое Малина [Макдоналдс]",
+        "calories": "209",
+        "proteins": "4,8",
+        "fats": "4,9",
+        "carbohydrates": "36"
+    },
+    {
+        "name": "Мороженое Персик [Макдоналдс]",
+        "calories": "260",
+        "proteins": "5,1",
+        "fats": "4,9",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Мороженое Рожок [Макдоналдс]",
+        "calories": "164",
+        "proteins": "3,8",
+        "fats": "3,6",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Мороженое с Карамелью [Макдоналдс]",
+        "calories": "319",
+        "proteins": "5,6",
+        "fats": "6,9",
+        "carbohydrates": "59"
+    },
+    {
+        "name": "Мороженое с Клубникой [Макдоналдс]",
+        "calories": "265",
+        "proteins": "5",
+        "fats": "5",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Мороженое с Шоколадом [Макдоналдс]",
+        "calories": "315",
+        "proteins": "6",
+        "fats": "9",
+        "carbohydrates": "52"
+    },
+    {
+        "name": "Мороженое Шоколадное [Макдоналдс]",
+        "calories": "310",
+        "proteins": "6,4",
+        "fats": "9",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Мохито Итальано [Макдоналдс]",
+        "calories": "82",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "20"
+    },
+    {
+        "name": "Мусс с Бельгийским Шоколадом [Макдоналдс]",
+        "calories": "262",
+        "proteins": "2,4",
+        "fats": "18",
+        "carbohydrates": "22"
+    },
+    {
+        "name": "Мусс Шоколадный [Макдоналдс]",
+        "calories": "353",
+        "proteins": "3,1",
+        "fats": "24",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Наггетс Бокс [Макдоналдс]",
+        "calories": "456",
+        "proteins": "17",
+        "fats": "22",
+        "carbohydrates": "45"
+    },
+    {
+        "name": "Нагетсы (6) [Макдоналдс]",
+        "calories": "268",
+        "proteins": "17",
+        "fats": "14",
+        "carbohydrates": "18"
+    },
+    {
+        "name": "Нагетсы [Макдоналдс]",
+        "calories": "45",
+        "proteins": "2,8",
+        "fats": "2,3",
+        "carbohydrates": "3,2"
+    },
+    {
+        "name": "Напиток Апельсиновый сок McDonalds 400 мл [Макдоналдс]",
+        "calories": "190",
+        "proteins": "3",
+        "fats": "1",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Напиток Двойной Эспрессо McDonalds [Макдоналдс]",
+        "calories": "3",
+        "proteins": "0,2",
+        "fats": "0,1",
+        "carbohydrates": "0,2"
+    },
+    {
+        "name": "Напиток Капучино [Макдоналдс]",
+        "calories": "105",
+        "proteins": "5",
+        "fats": "5",
+        "carbohydrates": "7"
+    },
+    {
+        "name": "Напиток Капучино McDonalds 300 мл [Макдоналдс]",
+        "calories": "125",
+        "proteins": "6",
+        "fats": "7",
+        "carbohydrates": "9"
+    },
+    {
+        "name": "Напиток Кока-Кола McDonalds 400 мл [Макдоналдс]",
+        "calories": "170",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Напиток Кока-Кола Лайт McDonalds 400 мл [Макдоналдс]",
+        "calories": "2",
+        "proteins": "0,4",
+        "fats": "0",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Напиток Кофе McDonalds 200 мл [Макдоналдс]",
+        "calories": "7",
+        "proteins": "0,6",
+        "fats": "0,2",
+        "carbohydrates": "0,6"
+    },
+    {
+        "name": "Напиток Кофе Глясе [Макдоналдс]",
+        "calories": "125",
+        "proteins": "4",
+        "fats": "3",
+        "carbohydrates": "19"
+    },
+    {
+        "name": "Напиток Кофе Глясе McDonalds [Макдоналдс]",
+        "calories": "125",
+        "proteins": "4",
+        "fats": "3",
+        "carbohydrates": "19"
+    },
+    {
+        "name": "Напиток Кофе Латте [Макдоналдс]",
+        "calories": "175",
+        "proteins": "8",
+        "fats": "9",
+        "carbohydrates": "12"
+    },
+    {
+        "name": "Напиток Кофе Латте McDonalds [Макдоналдс]",
+        "calories": "125",
+        "proteins": "6",
+        "fats": "7",
+        "carbohydrates": "10"
+    },
+    {
+        "name": "Напиток Липтон Айс-Ти Зелёный McDonalds 400 мл [Макдоналдс]",
+        "calories": "110",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Напиток Липтон Айс-Ти Лимон McDonalds 400 мл [Макдоналдс]",
+        "calories": "110",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Напиток Спрайт McDonalds 400 мл [Макдоналдс]",
+        "calories": "165",
+        "proteins": "0,4",
+        "fats": "0",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Напиток Фанта McDonalds 400 мл [Макдоналдс]",
+        "calories": "185",
+        "proteins": "0,4",
+        "fats": "0",
+        "carbohydrates": "46"
+    },
+    {
+        "name": "Напиток Чай чёрный/зелёный McDonalds [Макдоналдс]",
+        "calories": "0",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Облепиховый Пунш [Макдоналдс]",
+        "calories": "127",
+        "proteins": "0,2",
+        "fats": "1,2",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Овощной Салат [Макдоналдс]",
+        "calories": "60",
+        "proteins": "3",
+        "fats": "0",
+        "carbohydrates": "10"
+    },
+    {
+        "name": "Овсяная Каша [Макдоналдс]",
+        "calories": "154",
+        "proteins": "4,3",
+        "fats": "4,1",
+        "carbohydrates": "23"
+    },
+    {
+        "name": "Овсяная Каша с Джемом [Макдоналдс]",
+        "calories": "200",
+        "proteins": "4",
+        "fats": "4",
+        "carbohydrates": "35"
+    },
+    {
+        "name": "Овсяная Каша с Клюквой и Изюмом [Макдоналдс]",
+        "calories": "217",
+        "proteins": "4,6",
+        "fats": "4,1",
+        "carbohydrates": "39"
+    },
+    {
+        "name": "Овсяная Каша Стандартная [Макдоналдс]",
+        "calories": "150",
+        "proteins": "4",
+        "fats": "4",
+        "carbohydrates": "23"
+    },
+    {
+        "name": "Омлет [Макдоналдс]",
+        "calories": "305",
+        "proteins": "18",
+        "fats": "14",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Омлет с Беконом [Макдоналдс]",
+        "calories": "341",
+        "proteins": "19",
+        "fats": "17",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Омлет с Ветчиной [Макдоналдс]",
+        "calories": "344",
+        "proteins": "24",
+        "fats": "15",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Омлет Стандартный [Макдоналдс]",
+        "calories": "305",
+        "proteins": "18",
+        "fats": "14",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Омлеттер [Макдоналдс]",
+        "calories": "251",
+        "proteins": "13",
+        "fats": "13",
+        "carbohydrates": "20"
+    },
+    {
+        "name": "Острые Чикен Макнаггетс (6) [Макдоналдс]",
+        "calories": "284",
+        "proteins": "15",
+        "fats": "16",
+        "carbohydrates": "20"
+    },
+    {
+        "name": "Острые Чикен Макнаггетс (9) [Макдоналдс]",
+        "calories": "427",
+        "proteins": "22",
+        "fats": "24",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Панини Тоскана [Макдоналдс]",
+        "calories": "616",
+        "proteins": "31",
+        "fats": "34",
+        "carbohydrates": "46"
+    },
+    {
+        "name": "Панини Тоскана без Соуса [Макдоналдс]",
+        "calories": "553",
+        "proteins": "30",
+        "fats": "28",
+        "carbohydrates": "45"
+    },
+    {
+        "name": "Печенье с Кусочками Шоколада [Макдоналдс]",
+        "calories": "345",
+        "proteins": "6",
+        "fats": "18",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Пирог с Вишней и Ревенем [Макдоналдс]",
+        "calories": "175",
+        "proteins": "2",
+        "fats": "9,7",
+        "carbohydrates": "19"
+    },
+    {
+        "name": "Пирог с Вишней и Ревенем [Макдоналдс]",
+        "calories": "291",
+        "proteins": "3,4",
+        "fats": "16,2",
+        "carbohydrates": "32,3"
+    },
+    {
+        "name": "Пирог Яблочный [Макдоналдс]",
+        "calories": "276",
+        "proteins": "3,1",
+        "fats": "14,6",
+        "carbohydrates": "32,2"
+    },
+    {
+        "name": "Пирожное Чёрный Лес [Макдоналдс]",
+        "calories": "386",
+        "proteins": "3,8",
+        "fats": "26",
+        "carbohydrates": "35"
+    },
+    {
+        "name": "Пирожок Клубника и Сливочный Сыр [Макдоналдс]",
+        "calories": "258",
+        "proteins": "2,9",
+        "fats": "15",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Пирожок Лесные Ягоды [Макдоналдс]",
+        "calories": "285",
+        "proteins": "3",
+        "fats": "16",
+        "carbohydrates": "32"
+    },
+    {
+        "name": "Пирожок Малина Крем-Чиз [Макдоналдс]",
+        "calories": "273",
+        "proteins": "3,2",
+        "fats": "15",
+        "carbohydrates": "32"
+    },
+    {
+        "name": "Пирожок Малина Крем-Чиз [Макдоналдс]",
+        "calories": "273",
+        "proteins": "3,2",
+        "fats": "15",
+        "carbohydrates": "32"
+    },
+    {
+        "name": "Пирожок Маракуйя [Макдоналдс]",
+        "calories": "255",
+        "proteins": "2",
+        "fats": "13",
+        "carbohydrates": "32"
+    },
+    {
+        "name": "Пирожок Маракуйя и Сливочный Сыр [Макдоналдс]",
+        "calories": "280",
+        "proteins": "2,9",
+        "fats": "15",
+        "carbohydrates": "32"
+    },
+    {
+        "name": "Пирожок по-Итальянски [Макдоналдс]",
+        "calories": "163",
+        "proteins": "3,2",
+        "fats": "6,6",
+        "carbohydrates": "23"
+    },
+    {
+        "name": "Пирожок Пряное Яблоко [Макдоналдс]",
+        "calories": "232",
+        "proteins": "2,8",
+        "fats": "11",
+        "carbohydrates": "31"
+    },
+    {
+        "name": "Пирожок с Вишней [Макдоналдс]",
+        "calories": "249",
+        "proteins": "2,8",
+        "fats": "12",
+        "carbohydrates": "32"
+    },
+    {
+        "name": "Пирожок с Карельской Черникой [Макдоналдс]",
+        "calories": "255",
+        "proteins": "2,7",
+        "fats": "12",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Пирожок с Картофелем и Грибами [Макдоналдс]",
+        "calories": "130",
+        "proteins": "3",
+        "fats": "6",
+        "carbohydrates": "17"
+    },
+    {
+        "name": "Пирожок с Персиком [Макдоналдс]",
+        "calories": "189",
+        "proteins": "3",
+        "fats": "7,7",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Пирожок с Яблоком и Корицей [Макдоналдс]",
+        "calories": "166",
+        "proteins": "3,3",
+        "fats": "7,7",
+        "carbohydrates": "21"
+    },
+    {
+        "name": "Пирожок Черная Смородина [Макдоналдс]",
+        "calories": "259",
+        "proteins": "2,9",
+        "fats": "12",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Пита Грик [Макдоналдс]",
+        "calories": "286",
+        "proteins": "13",
+        "fats": "14",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Пита Грик с Говяжьей Котлетой [Макдоналдс]",
+        "calories": "287",
+        "proteins": "13",
+        "fats": "14",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Пита Грик с Куриной Котлетой [Макдоналдс]",
+        "calories": "260",
+        "proteins": "14",
+        "fats": "9,4",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Премиальный Яблочный Пирог [Макдоналдс]",
+        "calories": "331",
+        "proteins": "3,1",
+        "fats": "9",
+        "carbohydrates": "57"
+    },
+    {
+        "name": "Профитроли [Макдоналдс]",
+        "calories": "135",
+        "proteins": "1,4",
+        "fats": "8,9",
+        "carbohydrates": "12"
+    },
+    {
+        "name": "Пряный Чай Латте [Макдоналдс]",
+        "calories": "305",
+        "proteins": "8",
+        "fats": "10",
+        "carbohydrates": "46"
+    },
+    {
+        "name": "Рич Лимониада [Макдоналдс]",
+        "calories": "141",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Рождественский пирожок Пряное яблоко [Макдоналдс]",
+        "calories": "232",
+        "proteins": "2,8",
+        "fats": "11",
+        "carbohydrates": "31"
+    },
+    {
+        "name": "Рождественский Ягодный Пунш [Макдоналдс]",
+        "calories": "79",
+        "proteins": "0,2",
+        "fats": "0",
+        "carbohydrates": "20"
+    },
+    {
+        "name": "Ролл с Креветками [Макдоналдс]",
+        "calories": "359",
+        "proteins": "11",
+        "fats": "11",
+        "carbohydrates": "52"
+    },
+    {
+        "name": "Роял Бекон [Макдоналдс]",
+        "calories": "548",
+        "proteins": "33",
+        "fats": "30",
+        "carbohydrates": "36"
+    },
+    {
+        "name": "Роял Де Люкс [Макдоналдс]",
+        "calories": "570",
+        "proteins": "31",
+        "fats": "31",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Роял Чизбургер [Макдоналдс]",
+        "calories": "514",
+        "proteins": "30",
+        "fats": "26",
+        "carbohydrates": "38"
+    },
+    {
+        "name": "Рулетики с Творогом, Изюмом и Курагой (3) [Макдоналдс]",
+        "calories": "211",
+        "proteins": "7",
+        "fats": "9,6",
+        "carbohydrates": "24"
+    },
+    {
+        "name": "Салат Овощной (без Заправки) [Макдоналдс]",
+        "calories": "45",
+        "proteins": "2",
+        "fats": "0",
+        "carbohydrates": "8"
+    },
+    {
+        "name": "Салат Овощной [Макдоналдс]",
+        "calories": "68",
+        "proteins": "2,5",
+        "fats": "3,9",
+        "carbohydrates": "4,4"
+    },
+    {
+        "name": "Салат Овощной McDonalds [Макдоналдс]",
+        "calories": "60",
+        "proteins": "2",
+        "fats": "3",
+        "carbohydrates": "5"
+    },
+    {
+        "name": "Салат Цезарь (без Заправки) [Макдоналдс]",
+        "calories": "283",
+        "proteins": "21",
+        "fats": "16",
+        "carbohydrates": "13"
+    },
+    {
+        "name": "Салат Цезарь (без Заправки) [Макдоналдс]",
+        "calories": "283",
+        "proteins": "21",
+        "fats": "16",
+        "carbohydrates": "13"
+    },
+    {
+        "name": "Салат Цезарь [Макдоналдс]",
+        "calories": "283",
+        "proteins": "21",
+        "fats": "16",
+        "carbohydrates": "13"
+    },
+    {
+        "name": "Салат Цезарь McDonalds [Макдоналдс]",
+        "calories": "190",
+        "proteins": "15",
+        "fats": "10",
+        "carbohydrates": "9"
+    },
+    {
+        "name": "Салат Цезарь без Заправки [Макдоналдс]",
+        "calories": "195",
+        "proteins": "15",
+        "fats": "10",
+        "carbohydrates": "10"
+    },
+    {
+        "name": "Салат Цезарь с Курицей [Макдоналдс]",
+        "calories": "283",
+        "proteins": "21",
+        "fats": "16",
+        "carbohydrates": "13"
+    },
+    {
+        "name": "Салатная Заправка 1000 Островов [Макдоналдс]",
+        "calories": "204",
+        "proteins": "1,1",
+        "fats": "19,5",
+        "carbohydrates": "6,6"
+    },
+    {
+        "name": "Салатная Заправка Масло и Винный Уксус [Макдоналдс]",
+        "calories": "105",
+        "proteins": "0",
+        "fats": "11",
+        "carbohydrates": "3"
+    },
+    {
+        "name": "Салатная Заправка Масло и Винный Уксус [Макдоналдс]",
+        "calories": "308",
+        "proteins": "0,1",
+        "fats": "30",
+        "carbohydrates": "8,3"
+    },
+    {
+        "name": "Салатная Заправка Цезарь [Макдоналдс]",
+        "calories": "251",
+        "proteins": "3,5",
+        "fats": "22",
+        "carbohydrates": "7,3"
+    },
+    {
+        "name": "Санрайз [Макдоналдс]",
+        "calories": "180",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Сахар [Макдоналдс]",
+        "calories": "20",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "5"
+    },
+    {
+        "name": "Сахар [Макдоналдс]",
+        "calories": "400",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "100"
+    },
+    {
+        "name": "Смузи Манго-Ананас [Макдоналдс]",
+        "calories": "190",
+        "proteins": "2",
+        "fats": "1",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Смусси Клубника-Банан [Макдоналдс]",
+        "calories": "175",
+        "proteins": "2",
+        "fats": "1",
+        "carbohydrates": "38"
+    },
+    {
+        "name": "Снек Ролл с Омлетом и Беконом [Макдоналдс]",
+        "calories": "320",
+        "proteins": "16",
+        "fats": "16",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Снек Ролл с Омлетом и Свиной Котлетой [Макдоналдс]",
+        "calories": "435",
+        "proteins": "22",
+        "fats": "26",
+        "carbohydrates": "27"
+    },
+    {
+        "name": "Снэк Бокс с Крыльями [Макдоналдс]",
+        "calories": "866",
+        "proteins": "38",
+        "fats": "46",
+        "carbohydrates": "73"
+    },
+    {
+        "name": "Сок Яблочный [Макдоналдс]",
+        "calories": "135",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "33"
+    },
+    {
+        "name": "Соус 1000 Островов [Макдоналдс]",
+        "calories": "78",
+        "proteins": "0,3",
+        "fats": "7,4",
+        "carbohydrates": "2,8"
+    },
+    {
+        "name": "Соус 1000 Островов [Макдоналдс]",
+        "calories": "310",
+        "proteins": "1",
+        "fats": "29",
+        "carbohydrates": "12"
+    },
+    {
+        "name": "Соус Барбекю [Макдоналдс]",
+        "calories": "47",
+        "proteins": "0,2",
+        "fats": "0,3",
+        "carbohydrates": "11"
+    },
+    {
+        "name": "Соус Барбекю [Макдоналдс]",
+        "calories": "162",
+        "proteins": "0,6",
+        "fats": "0,9",
+        "carbohydrates": "36,1"
+    },
+    {
+        "name": "Соус барбекю McDonalds [Макдоналдс]",
+        "calories": "48",
+        "proteins": "0,2",
+        "fats": "0,3",
+        "carbohydrates": "11"
+    },
+    {
+        "name": "Соус Горчичный [Макдоналдс]",
+        "calories": "62",
+        "proteins": "0,5",
+        "fats": "3,3",
+        "carbohydrates": "7,6"
+    },
+    {
+        "name": "Соус Горчичный [Макдоналдс]",
+        "calories": "57",
+        "proteins": "0,6",
+        "fats": "3",
+        "carbohydrates": "7"
+    },
+    {
+        "name": "Соус Карри [Макдоналдс]",
+        "calories": "49",
+        "proteins": "0,2",
+        "fats": "0,5",
+        "carbohydrates": "11"
+    },
+    {
+        "name": "Соус Карри [Макдоналдс]",
+        "calories": "170",
+        "proteins": "0,7",
+        "fats": "1,7",
+        "carbohydrates": "37,9"
+    },
+    {
+        "name": "Соус карри McDonalds [Макдоналдс]",
+        "calories": "50",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "12"
+    },
+    {
+        "name": "Соус кетчуп McDonalds [Макдоналдс]",
+        "calories": "27",
+        "proteins": "0",
+        "fats": "0,3",
+        "carbohydrates": "6,6"
+    },
+    {
+        "name": "Соус Кисло-Сладкий [Макдоналдс]",
+        "calories": "47",
+        "proteins": "0,2",
+        "fats": "0,3",
+        "carbohydrates": "11"
+    },
+    {
+        "name": "Соус Кисло-Сладкий [Макдоналдс]",
+        "calories": "187",
+        "proteins": "0,3",
+        "fats": "1,4",
+        "carbohydrates": "43,4"
+    },
+    {
+        "name": "Соус кисло-сладкий McDonalds [Макдоналдс]",
+        "calories": "49",
+        "proteins": "0,1",
+        "fats": "0,3",
+        "carbohydrates": "12"
+    },
+    {
+        "name": "Соус Клюквенный [Макдоналдс]",
+        "calories": "182",
+        "proteins": "0,1",
+        "fats": "0,7",
+        "carbohydrates": "42,6"
+    },
+    {
+        "name": "Соус Коктейль [Макдоналдс]",
+        "calories": "329",
+        "proteins": "3,2",
+        "fats": "30",
+        "carbohydrates": "11,6"
+    },
+    {
+        "name": "Соус Сальса [Макдоналдс]",
+        "calories": "36",
+        "proteins": "0,3",
+        "fats": "0,2",
+        "carbohydrates": "7,9"
+    },
+    {
+        "name": "Соус Сладкий Чили [Макдоналдс]",
+        "calories": "47",
+        "proteins": "0,1",
+        "fats": "0",
+        "carbohydrates": "11"
+    },
+    {
+        "name": "Соус Сметанный [Макдоналдс]",
+        "calories": "60",
+        "proteins": "0,6",
+        "fats": "3,4",
+        "carbohydrates": "6,9"
+    },
+    {
+        "name": "Соус Сырный [Макдоналдс]",
+        "calories": "90",
+        "proteins": "0,5",
+        "fats": "9,3",
+        "carbohydrates": "1,5"
+    },
+    {
+        "name": "Соус сырный McDonalds [Макдоналдс]",
+        "calories": "89",
+        "proteins": "0,6",
+        "fats": "9",
+        "carbohydrates": "1,4"
+    },
+    {
+        "name": "Соус Цезарь [Макдоналдс]",
+        "calories": "125",
+        "proteins": "2",
+        "fats": "11",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Соус Чесночный [Макдоналдс]",
+        "calories": "84",
+        "proteins": "0,3",
+        "fats": "7,8",
+        "carbohydrates": "3,3"
+    },
+    {
+        "name": "Соус Чесночный [Макдоналдс]",
+        "calories": "330",
+        "proteins": "1",
+        "fats": "31",
+        "carbohydrates": "13"
+    },
+    {
+        "name": "Соус Чураско [Макдоналдс]",
+        "calories": "160",
+        "proteins": "1,3",
+        "fats": "3,8",
+        "carbohydrates": "28,9"
+    },
+    {
+        "name": "Соус Чураско [Макдоналдс]",
+        "calories": "45",
+        "proteins": "0,4",
+        "fats": "1,1",
+        "carbohydrates": "8,3"
+    },
+    {
+        "name": "Спайси Гамбургер с Беконом [Макдоналдс]",
+        "calories": "284",
+        "proteins": "14",
+        "fats": "10",
+        "carbohydrates": "33"
+    },
+    {
+        "name": "Спелая Вишня с Бисквитом [Макдоналдс]",
+        "calories": "280",
+        "proteins": "3,8",
+        "fats": "6,8",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Спринг Роллы (4) [Макдоналдс]",
+        "calories": "150",
+        "proteins": "7",
+        "fats": "6",
+        "carbohydrates": "17"
+    },
+    {
+        "name": "Стейк Хаус Классик [Макдоналдс]",
+        "calories": "709",
+        "proteins": "39",
+        "fats": "39",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Стейкхаус [Макдоналдс]",
+        "calories": "702",
+        "proteins": "38",
+        "fats": "40",
+        "carbohydrates": "46"
+    },
+    {
+        "name": "Стрипсы [Макдоналдс]",
+        "calories": "180",
+        "proteins": "11,2",
+        "fats": "8,4",
+        "carbohydrates": "15,2"
+    },
+    {
+        "name": "Сыр Камамбер [Макдоналдс]",
+        "calories": "240",
+        "proteins": "10",
+        "fats": "15",
+        "carbohydrates": "17"
+    },
+    {
+        "name": "Сырные Наггетсы Бри (4) [Макдоналдс]",
+        "calories": "397",
+        "proteins": "12",
+        "fats": "28",
+        "carbohydrates": "24"
+    },
+    {
+        "name": "Сэндвич Биг Брекфаст Ролл [Макдоналдс]",
+        "calories": "655",
+        "proteins": "27",
+        "fats": "36",
+        "carbohydrates": "54"
+    },
+    {
+        "name": "Сэндвич Биг Мак [Макдоналдс]",
+        "calories": "495",
+        "proteins": "27",
+        "fats": "25",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Сэндвич Биг Тейсти [Макдоналдс]",
+        "calories": "850",
+        "proteins": "48",
+        "fats": "51",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Сэндвич Биф а-ля Рус [Макдоналдс]",
+        "calories": "580",
+        "proteins": "29",
+        "fats": "31",
+        "carbohydrates": "44"
+    },
+    {
+        "name": "Сэндвич Биф Ролл [Макдоналдс]",
+        "calories": "520",
+        "proteins": "20",
+        "fats": "29",
+        "carbohydrates": "43"
+    },
+    {
+        "name": "Сэндвич Гамбургер [Макдоналдс]",
+        "calories": "255",
+        "proteins": "13",
+        "fats": "9",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Сэндвич Двойной Чизбургер [Макдоналдс]",
+        "calories": "440",
+        "proteins": "27",
+        "fats": "23",
+        "carbohydrates": "31"
+    },
+    {
+        "name": "Сэндвич Макчикен [Макдоналдс]",
+        "calories": "390",
+        "proteins": "19",
+        "fats": "18",
+        "carbohydrates": "38"
+    },
+    {
+        "name": "Сэндвич Роял Де Люкс [Макдоналдс]",
+        "calories": "495",
+        "proteins": "27",
+        "fats": "27",
+        "carbohydrates": "36"
+    },
+    {
+        "name": "Сэндвич Роял Чизбургер [Макдоналдс]",
+        "calories": "505",
+        "proteins": "32",
+        "fats": "27",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Сэндвич Филе-о-фиш [Макдоналдс]",
+        "calories": "350",
+        "proteins": "15",
+        "fats": "16",
+        "carbohydrates": "37"
+    },
+    {
+        "name": "Сэндвич Фиш Ролл [Макдоналдс]",
+        "calories": "475",
+        "proteins": "17",
+        "fats": "23",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Сэндвич Фреш Ролл [Макдоналдс]",
+        "calories": "610",
+        "proteins": "25",
+        "fats": "38",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Сэндвич Цезарь Ролл [Макдоналдс]",
+        "calories": "552",
+        "proteins": "19",
+        "fats": "32",
+        "carbohydrates": "46"
+    },
+    {
+        "name": "Сэндвич Цезарь Ролл [Макдоналдс]",
+        "calories": "695",
+        "proteins": "28",
+        "fats": "43",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Сэндвич Чизбургер [Макдоналдс]",
+        "calories": "300",
+        "proteins": "16",
+        "fats": "13",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Сэндвич Чикен Бекон [Макдоналдс]",
+        "calories": "665",
+        "proteins": "27",
+        "fats": "37",
+        "carbohydrates": "61"
+    },
+    {
+        "name": "Сэндвич Чикен Мифик [Макдоналдс]",
+        "calories": "625",
+        "proteins": "29",
+        "fats": "35",
+        "carbohydrates": "48"
+    },
+    {
+        "name": "Сэндвич Чикен Эмменталь [Макдоналдс]",
+        "calories": "625",
+        "proteins": "29",
+        "fats": "35",
+        "carbohydrates": "48"
+    },
+    {
+        "name": "Сэндвич Чикенбургер [Макдоналдс]",
+        "calories": "310",
+        "proteins": "15",
+        "fats": "12",
+        "carbohydrates": "36"
+    },
+    {
+        "name": "Творожные Рулетики (2) [Макдоналдс]",
+        "calories": "211",
+        "proteins": "7",
+        "fats": "9,6",
+        "carbohydrates": "24"
+    },
+    {
+        "name": "Техас Бургер [Макдоналдс]",
+        "calories": "600",
+        "proteins": "32",
+        "fats": "34",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Техас Чикен [Макдоналдс]",
+        "calories": "598",
+        "proteins": "26",
+        "fats": "30",
+        "carbohydrates": "56"
+    },
+    {
+        "name": "Тирамису [Макдоналдс]",
+        "calories": "265",
+        "proteins": "4",
+        "fats": "14",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Торт Згапари [Макдоналдс]",
+        "calories": "367",
+        "proteins": "9,7",
+        "fats": "19",
+        "carbohydrates": "39"
+    },
+    {
+        "name": "Торт Рикотта с Грушей [Макдоналдс]",
+        "calories": "335",
+        "proteins": "6",
+        "fats": "20",
+        "carbohydrates": "33"
+    },
+    {
+        "name": "Тоскана Биф [Макдоналдс]",
+        "calories": "364",
+        "proteins": "17",
+        "fats": "18",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Тост с Ветчиной и Сыром [Макдоналдс]",
+        "calories": "280",
+        "proteins": "14",
+        "fats": "11",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Тост с Сыром [Макдоналдс]",
+        "calories": "255",
+        "proteins": "10",
+        "fats": "10",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Тройной Чизбургер [Макдоналдс]",
+        "calories": "583",
+        "proteins": "37",
+        "fats": "33",
+        "carbohydrates": "33"
+    },
+    {
+        "name": "Улитка с Карамелью [Макдоналдс]",
+        "calories": "380",
+        "proteins": "5",
+        "fats": "26",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Фахитос Чикен Ролл [Макдоналдс]",
+        "calories": "461",
+        "proteins": "18",
+        "fats": "23",
+        "carbohydrates": "44"
+    },
+    {
+        "name": "Филе Макфреш [Макдоналдс]",
+        "calories": "382",
+        "proteins": "17",
+        "fats": "15",
+        "carbohydrates": "44"
+    },
+    {
+        "name": "Филе Фреш [Макдоналдс]",
+        "calories": "363",
+        "proteins": "17",
+        "fats": "15",
+        "carbohydrates": "38"
+    },
+    {
+        "name": "Филе-О-Фиш [Макдоналдс]",
+        "calories": "331",
+        "proteins": "15",
+        "fats": "14",
+        "carbohydrates": "36"
+    },
+    {
+        "name": "Фиш & Чипс [Макдоналдс]",
+        "calories": "451",
+        "proteins": "15",
+        "fats": "23",
+        "carbohydrates": "45"
+    },
+    {
+        "name": "Фиш Ролл [Макдоналдс]",
+        "calories": "444",
+        "proteins": "17",
+        "fats": "23",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Фиш Ролл без Соуса [Макдоналдс]",
+        "calories": "379",
+        "proteins": "17",
+        "fats": "11",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Фиш Фреш Ролл [Макдоналдс]",
+        "calories": "435",
+        "proteins": "18",
+        "fats": "20",
+        "carbohydrates": "46"
+    },
+    {
+        "name": "Фишролл [Макдоналдс]",
+        "calories": "444",
+        "proteins": "17",
+        "fats": "23",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Флет Вайт [Макдоналдс]",
+        "calories": "54",
+        "proteins": "3",
+        "fats": "3",
+        "carbohydrates": "5"
+    },
+    {
+        "name": "Фраппе Карамель [Макдоналдс]",
+        "calories": "355",
+        "proteins": "7",
+        "fats": "17",
+        "carbohydrates": "44"
+    },
+    {
+        "name": "Фраппе Мокко [Макдоналдс]",
+        "calories": "126",
+        "proteins": "2,1",
+        "fats": "5,9",
+        "carbohydrates": "16,2"
+    },
+    {
+        "name": "Фреш Макмаффин [Макдоналдс]",
+        "calories": "368",
+        "proteins": "18",
+        "fats": "20",
+        "carbohydrates": "28"
+    },
+    {
+        "name": "Фреш Ролл [Макдоналдс]",
+        "calories": "537",
+        "proteins": "23",
+        "fats": "34",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Фрешбургер с Пармезаном [Макдоналдс]",
+        "calories": "340",
+        "proteins": "16",
+        "fats": "17",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Фрешбургер с Сыром [Макдоналдс]",
+        "calories": "348",
+        "proteins": "17",
+        "fats": "17",
+        "carbohydrates": "31"
+    },
+    {
+        "name": "Фрешмакмаффин [Макдоналдс]",
+        "calories": "368",
+        "proteins": "18",
+        "fats": "20",
+        "carbohydrates": "28"
+    },
+    {
+        "name": "Хашбраун [Макдоналдс]",
+        "calories": "132",
+        "proteins": "1,3",
+        "fats": "7,7",
+        "carbohydrates": "14"
+    },
+    {
+        "name": "Цезарь Ролл без Соуса [Макдоналдс]",
+        "calories": "300",
+        "proteins": "18",
+        "fats": "10",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Цезарь Ролл Чураско [Макдоналдс]",
+        "calories": "552",
+        "proteins": "19",
+        "fats": "32",
+        "carbohydrates": "46"
+    },
+    {
+        "name": "Чиабатта Биф [Макдоналдс]",
+        "calories": "385",
+        "proteins": "19",
+        "fats": "19",
+        "carbohydrates": "38"
+    },
+    {
+        "name": "Чиабатта с Ветчиной и Сыром [Макдоналдс]",
+        "calories": "432",
+        "proteins": "23",
+        "fats": "17",
+        "carbohydrates": "47"
+    },
+    {
+        "name": "Чиабатта с Тунцом [Макдоналдс]",
+        "calories": "371",
+        "proteins": "22",
+        "fats": "11",
+        "carbohydrates": "44"
+    },
+    {
+        "name": "Чиз Лаваш [Макдоналдс]",
+        "calories": "187",
+        "proteins": "8",
+        "fats": "7",
+        "carbohydrates": "22"
+    },
+    {
+        "name": "Чизбургер [Макдоналдс]",
+        "calories": "299",
+        "proteins": "16",
+        "fats": "13",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Чизбургер без Нижней Булки [Макдоналдс]",
+        "calories": "233",
+        "proteins": "14",
+        "fats": "12",
+        "carbohydrates": "16"
+    },
+    {
+        "name": "Чизбургер Де Люкс [Макдоналдс]",
+        "calories": "480",
+        "proteins": "23",
+        "fats": "22",
+        "carbohydrates": "47"
+    },
+    {
+        "name": "Чизбургер с Беконом [Макдоналдс]",
+        "calories": "314",
+        "proteins": "17",
+        "fats": "14",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Чизбургер Фреш [Макдоналдс]",
+        "calories": "348",
+        "proteins": "16",
+        "fats": "18",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Чизкейк [Макдоналдс]",
+        "calories": "359",
+        "proteins": "6",
+        "fats": "24",
+        "carbohydrates": "31"
+    },
+    {
+        "name": "Чизкейк Нью-Йорк [Макдоналдс]",
+        "calories": "475",
+        "proteins": "10",
+        "fats": "22",
+        "carbohydrates": "59"
+    },
+    {
+        "name": "Чизкейк по-Американски [Макдоналдс]",
+        "calories": "340",
+        "proteins": "5,6",
+        "fats": "22,2",
+        "carbohydrates": "29,2"
+    },
+    {
+        "name": "Чикаго Барбекю [Макдоналдс]",
+        "calories": "660",
+        "proteins": "41",
+        "fats": "38",
+        "carbohydrates": "38"
+    },
+    {
+        "name": "Чикен А-Ля Рус с Беконом [Макдоналдс]",
+        "calories": "577",
+        "proteins": "24",
+        "fats": "28",
+        "carbohydrates": "57"
+    },
+    {
+        "name": "Чикен Бекон [Макдоналдс]",
+        "calories": "680",
+        "proteins": "27",
+        "fats": "36",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Чикен Бургер [Макдоналдс]",
+        "calories": "360",
+        "proteins": "12",
+        "fats": "16",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Чикен Грик Мак [Макдоналдс]",
+        "calories": "490",
+        "proteins": "21",
+        "fats": "21",
+        "carbohydrates": "55"
+    },
+    {
+        "name": "Чикен Гриль [Макдоналдс]",
+        "calories": "381",
+        "proteins": "19",
+        "fats": "16",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Чикен Гурмэ Экзотик [Макдоналдс]",
+        "calories": "621",
+        "proteins": "25",
+        "fats": "33",
+        "carbohydrates": "55"
+    },
+    {
+        "name": "Чикен Де Люкс [Макдоналдс]",
+        "calories": "504",
+        "proteins": "20",
+        "fats": "25",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Чикен Джуниор [Макдоналдс]",
+        "calories": "390",
+        "proteins": "14",
+        "fats": "18",
+        "carbohydrates": "43"
+    },
+    {
+        "name": "Чикен Карри [Макдоналдс]",
+        "calories": "481",
+        "proteins": "20",
+        "fats": "21",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Чикен Мак [Макдоналдс]",
+        "calories": "487",
+        "proteins": "29",
+        "fats": "20",
+        "carbohydrates": "47"
+    },
+    {
+        "name": "Чикен Макнаггетс (20) [Макдоналдс]",
+        "calories": "893",
+        "proteins": "56",
+        "fats": "46",
+        "carbohydrates": "62"
+    },
+    {
+        "name": "Чикен Макнаггетс (4) [Макдоналдс]",
+        "calories": "179",
+        "proteins": "11",
+        "fats": "9",
+        "carbohydrates": "13"
+    },
+    {
+        "name": "Чикен Макнаггетс (6) [Макдоналдс]",
+        "calories": "268",
+        "proteins": "17",
+        "fats": "14",
+        "carbohydrates": "19"
+    },
+    {
+        "name": "Чикен Макнаггетс (9) [Макдоналдс]",
+        "calories": "402",
+        "proteins": "25",
+        "fats": "21",
+        "carbohydrates": "28"
+    },
+    {
+        "name": "Чикен Макнаггетс [Макдоналдс]",
+        "calories": "43",
+        "proteins": "2,9",
+        "fats": "2,3",
+        "carbohydrates": "2,8"
+    },
+    {
+        "name": "Чикен Макнаггетс McDonalds [Макдоналдс]",
+        "calories": "45",
+        "proteins": "2,8",
+        "fats": "2,3",
+        "carbohydrates": "3,2"
+    },
+    {
+        "name": "Чикен Макфреш [Макдоналдс]",
+        "calories": "456",
+        "proteins": "19",
+        "fats": "23",
+        "carbohydrates": "42"
+    },
+    {
+        "name": "Чикен Премьер [Макдоналдс]",
+        "calories": "596",
+        "proteins": "26",
+        "fats": "32",
+        "carbohydrates": "53"
+    },
+    {
+        "name": "Чикен Премьер Кантри [Макдоналдс]",
+        "calories": "556",
+        "proteins": "26",
+        "fats": "26",
+        "carbohydrates": "54"
+    },
+    {
+        "name": "Чикен Премьер Салат [Макдоналдс]",
+        "calories": "203",
+        "proteins": "27",
+        "fats": "8",
+        "carbohydrates": "5"
+    },
+    {
+        "name": "Чикен Ролл [Макдоналдс]",
+        "calories": "496",
+        "proteins": "21",
+        "fats": "22",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Чикен Снек Ролл [Макдоналдс]",
+        "calories": "365",
+        "proteins": "11",
+        "fats": "20",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Чикен Снэк Ролл [Макдоналдс]",
+        "calories": "365",
+        "proteins": "11",
+        "fats": "20",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Чикен Фреш Макмаффин [Макдоналдс]",
+        "calories": "325",
+        "proteins": "13",
+        "fats": "14",
+        "carbohydrates": "37"
+    },
+    {
+        "name": "Чикен Фреш Ролл [Макдоналдс]",
+        "calories": "536",
+        "proteins": "20",
+        "fats": "30",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Чикенбекон [Макдоналдс]",
+        "calories": "680",
+        "proteins": "27",
+        "fats": "36",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Чикенбургер [Макдоналдс]",
+        "calories": "339",
+        "proteins": "12",
+        "fats": "16",
+        "carbohydrates": "37"
+    },
+    {
+        "name": "Чикенбургер без Нижней Булки [Макдоналдс]",
+        "calories": "290",
+        "proteins": "10",
+        "fats": "11",
+        "carbohydrates": "28"
+    },
+    {
+        "name": "Чикенбургер Блю Чиз [Макдоналдс]",
+        "calories": "381",
+        "proteins": "12",
+        "fats": "19",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Чикенбургер с Беконом [Макдоналдс]",
+        "calories": "367",
+        "proteins": "13",
+        "fats": "18",
+        "carbohydrates": "37"
+    },
+    {
+        "name": "Чиккер [Макдоналдс]",
+        "calories": "252",
+        "proteins": "9,3",
+        "fats": "11",
+        "carbohydrates": "29"
+    },
+    {
+        "name": "Чисбургер [Макдоналдс]",
+        "calories": "300",
+        "proteins": "16",
+        "fats": "13",
+        "carbohydrates": "30"
+    },
+    {
+        "name": "Шейк Банан-Маракуйя [Макдоналдс]",
+        "calories": "410",
+        "proteins": "10",
+        "fats": "10",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Шейк Гуава [Макдоналдс]",
+        "calories": "252",
+        "proteins": "6,1",
+        "fats": "4,5",
+        "carbohydrates": "47"
+    },
+    {
+        "name": "Шейк Манго-Маракуйя [Макдоналдс]",
+        "calories": "264",
+        "proteins": "5,7",
+        "fats": "4,3",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Шейк Мокко [Макдоналдс]",
+        "calories": "288",
+        "proteins": "6,5",
+        "fats": "6,4",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Шейк Пина Колада [Макдоналдс]",
+        "calories": "266",
+        "proteins": "5,8",
+        "fats": "5,1",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Шейк Пич Мельба [Макдоналдс]",
+        "calories": "260",
+        "proteins": "6,2",
+        "fats": "4,5",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Шоколадное Печенье с Шоколадом [Макдоналдс]",
+        "calories": "345",
+        "proteins": "6",
+        "fats": "18",
+        "carbohydrates": "41"
+    },
+    {
+        "name": "Шоколадный Торт [Макдоналдс]",
+        "calories": "330",
+        "proteins": "4,8",
+        "fats": "19",
+        "carbohydrates": "33"
+    },
+    {
+        "name": "Шримп Ролл [Макдоналдс]",
+        "calories": "360",
+        "proteins": "15",
+        "fats": "13",
+        "carbohydrates": "46"
+    },
+    {
+        "name": "Эгг Макмаффин с Сыром [Макдоналдс]",
+        "calories": "275",
+        "proteins": "16",
+        "fats": "12",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Яблочные Дольки [Макдоналдс]",
+        "calories": "38",
+        "proteins": "0,3",
+        "fats": "0,3",
+        "carbohydrates": "7,8"
+    },
+    {
+        "name": "Яблочные Дольки [Макдоналдс]",
+        "calories": "44",
+        "proteins": "0,4",
+        "fats": "0,4",
+        "carbohydrates": "9,8"
+    },
+    {
+        "name": "Яблочные дольки McDonalds [Макдоналдс]",
+        "calories": "38",
+        "proteins": "0",
+        "fats": "0",
+        "carbohydrates": "8"
+    },
+    {
+        "name": "Яблочный Пирог [Макдоналдс]",
+        "calories": "185",
+        "proteins": "2,1",
+        "fats": "9,9",
+        "carbohydrates": "22"
+    },
+    {
+        "name": "Яичница [Макдоналдс]",
+        "calories": "292",
+        "proteins": "17",
+        "fats": "13",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Яичница с Ветчиной [Макдоналдс]",
+        "calories": "344",
+        "proteins": "24",
+        "fats": "15",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Яичница с Сыром [Макдоналдс]",
+        "calories": "389",
+        "proteins": "23",
+        "fats": "21",
+        "carbohydrates": "27"
+    }
+]

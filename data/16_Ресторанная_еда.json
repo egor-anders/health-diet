@@ -1,0 +1,247 @@
+﻿[
+    {
+        "name": "DENNY'S, стейк-филе",
+        "calories": "182",
+        "proteins": "28,9",
+        "fats": "7,34",
+        "carbohydrates": "0,14"
+    },
+    {
+        "name": "Говядина, с овощами, Китайский ресторан",
+        "calories": "105",
+        "proteins": "7,08",
+        "fats": "5,3",
+        "carbohydrates": "5,79"
+    },
+    {
+        "name": "Курица в лимоне, Китайский ресторан",
+        "calories": "252",
+        "proteins": "11,87",
+        "fats": "13,55",
+        "carbohydrates": "19,61"
+    },
+    {
+        "name": "Курица, Цыпленок, \"Кунг-Пао\", Китайский ресторан",
+        "calories": "129",
+        "proteins": "9,76",
+        "fats": "6,98",
+        "carbohydrates": "5,37"
+    },
+    {
+        "name": "Ресторан-магазин Cracker Barrel, картофель фри",
+        "calories": "255",
+        "proteins": "3,26",
+        "fats": "13,18",
+        "carbohydrates": "27,37"
+    },
+    {
+        "name": "Ресторан-магазин Cracker Barrel, креветки, жаренные по деревенски, тарелка",
+        "calories": "287",
+        "proteins": "12,62",
+        "fats": "16,77",
+        "carbohydrates": "21,1"
+    },
+    {
+        "name": "Ресторан-магазин Cracker Barrel, куриное филе, тарелка, жареное, детское меню",
+        "calories": "294",
+        "proteins": "18,67",
+        "fats": "15,41",
+        "carbohydrates": "19,24"
+    },
+    {
+        "name": "Ресторан-магазин Cracker Barrel, макароны с сыром, тарелка, детское меню",
+        "calories": "192",
+        "proteins": "6,46",
+        "fats": "11,51",
+        "carbohydrates": "14,88"
+    },
+    {
+        "name": "Ресторан-магазин Cracker Barrel, сом, разводимый, тарелка",
+        "calories": "266",
+        "proteins": "22,94",
+        "fats": "17,05",
+        "carbohydrates": "3,71"
+    },
+    {
+        "name": "Ресторан-магазин Cracker Barrel, стейк-филе, (бифштекс), гриль",
+        "calories": "203",
+        "proteins": "31,52",
+        "fats": "8,52",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Ресторан,  семейный стиль, стейк-филе",
+        "calories": "186",
+        "proteins": "28,78",
+        "fats": "7,88",
+        "carbohydrates": "0,07"
+    },
+    {
+        "name": "Ресторан, APPLEBEE'S, 9 унцевый домашний стейк-филе",
+        "calories": "189",
+        "proteins": "26,85",
+        "fats": "9,08",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Ресторан, APPLEBEE'S, KRAFT, макароны с сыром, детское меню",
+        "calories": "143",
+        "proteins": "5,01",
+        "fats": "4,34",
+        "carbohydrates": "19,78"
+    },
+    {
+        "name": "Ресторан, APPLEBEE'S, дважды хрустящие креветки ( Double Crunch Shrimp)",
+        "calories": "323",
+        "proteins": "12,31",
+        "fats": "18,9",
+        "carbohydrates": "23,36"
+    },
+    {
+        "name": "Ресторан, APPLEBEE'S, картофель фри",
+        "calories": "290",
+        "proteins": "3,31",
+        "fats": "13,17",
+        "carbohydrates": "35,6"
+    },
+    {
+        "name": "Ресторан, APPLEBEE'S, куриные палочки, детское меню",
+        "calories": "296",
+        "proteins": "19,25",
+        "fats": "16,15",
+        "carbohydrates": "17,16"
+    },
+    {
+        "name": "Ресторан, APPLEBEE'S, сырные палочки (моцарелла)",
+        "calories": "316",
+        "proteins": "14,87",
+        "fats": "18,37",
+        "carbohydrates": "20,77"
+    },
+    {
+        "name": "Ресторан, DENNY'S, MOONS & STARS куриные наггетсы, детское меню",
+        "calories": "377",
+        "proteins": "16,27",
+        "fats": "28,57",
+        "carbohydrates": "12,79"
+    },
+    {
+        "name": "Ресторан, DENNY'S, золотые жареные креветки",
+        "calories": "277",
+        "proteins": "11,51",
+        "fats": "16,67",
+        "carbohydrates": "20,21"
+    },
+    {
+        "name": "Ресторан, DENNY'S, картофель фри",
+        "calories": "282",
+        "proteins": "3,41",
+        "fats": "14,13",
+        "carbohydrates": "31,7"
+    },
+    {
+        "name": "Ресторан, DENNY'S, макароны с сыром, детское меню",
+        "calories": "150",
+        "proteins": "5,19",
+        "fats": "4,92",
+        "carbohydrates": "19,96"
+    },
+    {
+        "name": "Ресторан, DENNY'S, сырные палочки (моцарелла)",
+        "calories": "324",
+        "proteins": "13,56",
+        "fats": "17,87",
+        "carbohydrates": "25,62"
+    },
+    {
+        "name": "Ресторан, Латино, Аррос Кон Грэндулс, (рис и горох)",
+        "calories": "182",
+        "proteins": "3,5",
+        "fats": "4,98",
+        "carbohydrates": "29,35"
+    },
+    {
+        "name": "Ресторан, Латино, Аррос Кон Лече, (рисовый пуддинг)",
+        "calories": "146",
+        "proteins": "3,2",
+        "fats": "3,69",
+        "carbohydrates": "24,42"
+    },
+    {
+        "name": "Ресторан, Латино, Аррос Кон Фрайджолс Негро, (рис и черная фасоль)",
+        "calories": "151",
+        "proteins": "4,64",
+        "fats": "3,85",
+        "carbohydrates": "21"
+    },
+    {
+        "name": "Ресторан, Латино, Аррос Кон Хэбичуелас Колорадо, (рис и красная фасоль)",
+        "calories": "142",
+        "proteins": "3,96",
+        "fats": "3,46",
+        "carbohydrates": "21,14"
+    },
+    {
+        "name": "Ресторан, Латино, курица с рисом, блюдо, приготовленные",
+        "calories": "174",
+        "proteins": "12,02",
+        "fats": "5,06",
+        "carbohydrates": "18,83"
+    },
+    {
+        "name": "Ресторан, Латино, эмпанадас, говядина, приготовленные",
+        "calories": "335",
+        "proteins": "11,31",
+        "fats": "18,37",
+        "carbohydrates": "29,19"
+    },
+    {
+        "name": "Ресторан, семейный стиль, жаренные сырные палочки (моцарелла)",
+        "calories": "325",
+        "proteins": "14,75",
+        "fats": "18,33",
+        "carbohydrates": "23,14"
+    },
+    {
+        "name": "Ресторан, семейный стиль, картофель фри",
+        "calories": "289",
+        "proteins": "3,49",
+        "fats": "14,04",
+        "carbohydrates": "33,3"
+    },
+    {
+        "name": "Ресторан, семейный стиль, креветки, жареные в панировке",
+        "calories": "308",
+        "proteins": "12,67",
+        "fats": "18,67",
+        "carbohydrates": "20,79"
+    },
+    {
+        "name": "Ресторан, семейный стиль, куриные палочки, детское меню",
+        "calories": "307",
+        "proteins": "18,68",
+        "fats": "17,45",
+        "carbohydrates": "17,67"
+    },
+    {
+        "name": "Ресторан, семейный стиль, макароны с сыром, детское меню",
+        "calories": "151",
+        "proteins": "5,42",
+        "fats": "6,06",
+        "carbohydrates": "17,7"
+    },
+    {
+        "name": "Рис, жареный, Китайский ресторан",
+        "calories": "174",
+        "proteins": "4,05",
+        "fats": "2,96",
+        "carbohydrates": "31,69"
+    },
+    {
+        "name": "Рулеты яичные, ассорти, Китайский ресторан",
+        "calories": "250",
+        "proteins": "8,28",
+        "fats": "11,94",
+        "carbohydrates": "24,69"
+    }
+]

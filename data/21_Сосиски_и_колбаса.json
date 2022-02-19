@@ -1,0 +1,1024 @@
+﻿[
+    {
+        "name": "Oscar Mayer (Оскар Майер), ветчина, медовая, с добавлением воды",
+        "calories": "111",
+        "proteins": "16,7",
+        "fats": "3,5",
+        "carbohydrates": "3,1"
+    },
+    {
+        "name": "Боквурст, (кнакер, варёно-копчёная сарделька), свинина, телятина, сырая",
+        "calories": "301",
+        "proteins": "14,03",
+        "fats": "25,87",
+        "carbohydrates": "1,95"
+    },
+    {
+        "name": "Болонская колбаса, говядина",
+        "calories": "299",
+        "proteins": "10,91",
+        "fats": "26,13",
+        "carbohydrates": "4,29"
+    },
+    {
+        "name": "Болонская колбаса, говядина и свинина",
+        "calories": "308",
+        "proteins": "15,2",
+        "fats": "24,59",
+        "carbohydrates": "5,49"
+    },
+    {
+        "name": "Болонская колбаса, говядина и свинина, с низким содерж. жира, 19% жира",
+        "calories": "230",
+        "proteins": "11,5",
+        "fats": "19,3",
+        "carbohydrates": "2,6"
+    },
+    {
+        "name": "Болонская колбаса, говядина, с низким содерж. жира, 15% жира",
+        "calories": "204",
+        "proteins": "11,8",
+        "fats": "14,8",
+        "carbohydrates": "5,2"
+    },
+    {
+        "name": "Болонская колбаса, индейка",
+        "calories": "209",
+        "proteins": "11,42",
+        "fats": "16,05",
+        "carbohydrates": "4,18"
+    },
+    {
+        "name": "Болонская колбаса, курица, индейка, свинина",
+        "calories": "298",
+        "proteins": "9,88",
+        "fats": "26,18",
+        "carbohydrates": "5,65"
+    },
+    {
+        "name": "Болонская колбаса, курица, свинина",
+        "calories": "336",
+        "proteins": "10,31",
+        "fats": "30,61",
+        "carbohydrates": "4,19"
+    },
+    {
+        "name": "Болонская колбаса, курица, свинина, говядина",
+        "calories": "272",
+        "proteins": "11,33",
+        "fats": "22,73",
+        "carbohydrates": "5,61"
+    },
+    {
+        "name": "Болонская колбаса, свинина",
+        "calories": "247",
+        "proteins": "15,3",
+        "fats": "19,87",
+        "carbohydrates": "0,73"
+    },
+    {
+        "name": "Болонская колбаса, свинина и индейка, легкая, 16% жира",
+        "calories": "211",
+        "proteins": "13,06",
+        "fats": "16,06",
+        "carbohydrates": "3,45"
+    },
+    {
+        "name": "Болонская колбаса, свинина, индейка, говядина",
+        "calories": "336",
+        "proteins": "11,56",
+        "fats": "29,25",
+        "carbohydrates": "6,66"
+    },
+    {
+        "name": "Братвурст, сарделька, из говядины и свинины",
+        "calories": "323",
+        "proteins": "14,3",
+        "fats": "27,8",
+        "carbohydrates": "2,98"
+    },
+    {
+        "name": "Братвурст, сарделька, из говядины и свинины, копченая",
+        "calories": "297",
+        "proteins": "12,2",
+        "fats": "26,34",
+        "carbohydrates": "2"
+    },
+    {
+        "name": "Братвурст, сарделька, из курицы, приготовленная",
+        "calories": "176",
+        "proteins": "19,44",
+        "fats": "10,35",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Братвурст, сарделька, из свинины, говядины и индейки, легкая, копченая (14% жира)",
+        "calories": "186",
+        "proteins": "14,45",
+        "fats": "13,53",
+        "carbohydrates": "1,62"
+    },
+    {
+        "name": "Братвурст, сарделька, из свинины, приготовленная",
+        "calories": "333",
+        "proteins": "13,72",
+        "fats": "29,18",
+        "carbohydrates": "2,85"
+    },
+    {
+        "name": "Братвурст, сарделька, из телятины, приготовленная",
+        "calories": "341",
+        "proteins": "13,99",
+        "fats": "31,7",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Ветчина в форме",
+        "calories": "279",
+        "proteins": "22,6",
+        "fats": "20,9",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Ветчина особая",
+        "calories": "126",
+        "proteins": "17,6",
+        "fats": "6,2",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Ветчина, медовая, копчено-вареная",
+        "calories": "122",
+        "proteins": "17,93",
+        "fats": "2,37",
+        "carbohydrates": "7,27"
+    },
+    {
+        "name": "Ветчина, нарезанная ломтиками, сверх постная",
+        "calories": "107",
+        "proteins": "16,85",
+        "fats": "4,04",
+        "carbohydrates": "0,7"
+    },
+    {
+        "name": "Ветчина, рубленая",
+        "calories": "263",
+        "proteins": "16,28",
+        "fats": "20,68",
+        "carbohydrates": "1,84"
+    },
+    {
+        "name": "Ветчина, рубленная, консервированная",
+        "calories": "239",
+        "proteins": "16,06",
+        "fats": "18,83",
+        "carbohydrates": "0,26"
+    },
+    {
+        "name": "Ветчина, рубленная, неконсервированная",
+        "calories": "221",
+        "proteins": "16,5",
+        "fats": "16,7",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Говядина, солонина, буханка, заливное",
+        "calories": "153",
+        "proteins": "22,9",
+        "fats": "6,1",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Говядина, солонина, колбаска, приготовленная, копченая",
+        "calories": "312",
+        "proteins": "14,11",
+        "fats": "26,91",
+        "carbohydrates": "2,42"
+    },
+    {
+        "name": "Говядина, солонина, консервированная",
+        "calories": "250",
+        "proteins": "27,1",
+        "fats": "14,93",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Говядина, солонина, копченая, нарубленная",
+        "calories": "133",
+        "proteins": "20,19",
+        "fats": "4,42",
+        "carbohydrates": "1,86"
+    },
+    {
+        "name": "Говядина, солонина, мясо для ланча, заливное",
+        "calories": "111",
+        "proteins": "19",
+        "fats": "3,3",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Говядина, солонина, Пастрома",
+        "calories": "147",
+        "proteins": "21,8",
+        "fats": "5,82",
+        "carbohydrates": "0,36"
+    },
+    {
+        "name": "Говядина, солонина, сушеная",
+        "calories": "153",
+        "proteins": "31,1",
+        "fats": "1,94",
+        "carbohydrates": "2,76"
+    },
+    {
+        "name": "Говядина, сосиски, заранее приготовленные",
+        "calories": "405",
+        "proteins": "15,5",
+        "fats": "37,57",
+        "carbohydrates": "0,03"
+    },
+    {
+        "name": "Говядина, сосиски, свежие, приготовленные",
+        "calories": "332",
+        "proteins": "18,21",
+        "fats": "27,98",
+        "carbohydrates": "0,35"
+    },
+    {
+        "name": "Грудинка копчено-запеченная (свинина)",
+        "calories": "514",
+        "proteins": "10",
+        "fats": "52,7",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Грудинка сырокопченая (свинина)",
+        "calories": "605",
+        "proteins": "8,9",
+        "fats": "63,3",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "гусь, Паштет, из печени, копченый, консерв.",
+        "calories": "462",
+        "proteins": "11,4",
+        "fats": "43,84",
+        "carbohydrates": "4,67"
+    },
+    {
+        "name": "Зельц, из свинины",
+        "calories": "157",
+        "proteins": "13,83",
+        "fats": "10,9",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Колбаса вареная говяжья",
+        "calories": "165",
+        "proteins": "15",
+        "fats": "11,7",
+        "carbohydrates": "0,2"
+    },
+    {
+        "name": "Колбаса вареная для завтрака",
+        "calories": "187",
+        "proteins": "13",
+        "fats": "13,9",
+        "carbohydrates": "2,4"
+    },
+    {
+        "name": "Колбаса вареная русская",
+        "calories": "302",
+        "proteins": "11,5",
+        "fats": "27,9",
+        "carbohydrates": "1,7"
+    },
+    {
+        "name": "Колбаса вареная, диабетическая",
+        "calories": "254",
+        "proteins": "12,1",
+        "fats": "22,8",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Колбаса вареная, диетическая",
+        "calories": "170",
+        "proteins": "12,1",
+        "fats": "13,5",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Колбаса вареная, докторская",
+        "calories": "257",
+        "proteins": "12,8",
+        "fats": "22,2",
+        "carbohydrates": "1,5"
+    },
+    {
+        "name": "Колбаса вареная, зеленоградская (с мясом утки)",
+        "calories": "187",
+        "proteins": "17,2",
+        "fats": "12,1",
+        "carbohydrates": "2,2"
+    },
+    {
+        "name": "Колбаса вареная, любительская",
+        "calories": "301",
+        "proteins": "12,2",
+        "fats": "28",
+        "carbohydrates": "0,1"
+    },
+    {
+        "name": "Колбаса вареная, любительская свиная",
+        "calories": "312",
+        "proteins": "12,5",
+        "fats": "29,1",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Колбаса вареная, молочная",
+        "calories": "252",
+        "proteins": "11,7",
+        "fats": "22,8",
+        "carbohydrates": "0,2"
+    },
+    {
+        "name": "Колбаса вареная, отдельная",
+        "calories": "240",
+        "proteins": "11",
+        "fats": "21",
+        "carbohydrates": "1,7"
+    },
+    {
+        "name": "Колбаса вареная, подмосковная (с куриным мясом)",
+        "calories": "180",
+        "proteins": "17,2",
+        "fats": "11,6",
+        "carbohydrates": "1,7"
+    },
+    {
+        "name": "Колбаса вареная, свиная",
+        "calories": "277",
+        "proteins": "10,8",
+        "fats": "25,8",
+        "carbohydrates": "0,5"
+    },
+    {
+        "name": "Колбаса вареная, столовая",
+        "calories": "234",
+        "proteins": "11,1",
+        "fats": "20,2",
+        "carbohydrates": "1,8"
+    },
+    {
+        "name": "Колбаса вареная, телячья",
+        "calories": "308",
+        "proteins": "13,2",
+        "fats": "28,3",
+        "carbohydrates": "0,3"
+    },
+    {
+        "name": "Колбаса вареная, чайная",
+        "calories": "216",
+        "proteins": "11,7",
+        "fats": "18,4",
+        "carbohydrates": "1,7"
+    },
+    {
+        "name": "Колбаса варено-копченая московская",
+        "calories": "406",
+        "proteins": "19,1",
+        "fats": "36,6",
+        "carbohydrates": "0,2"
+    },
+    {
+        "name": "Колбаса варено-копченая, любительская",
+        "calories": "420",
+        "proteins": "17,2",
+        "fats": "39",
+        "carbohydrates": "0,2"
+    },
+    {
+        "name": "Колбаса полукопченая одесская",
+        "calories": "402",
+        "proteins": "14,8",
+        "fats": "38,1",
+        "carbohydrates": "0,3"
+    },
+    {
+        "name": "Колбаса полукопченая, армавирская",
+        "calories": "423",
+        "proteins": "15,1",
+        "fats": "40,1",
+        "carbohydrates": "0,3"
+    },
+    {
+        "name": "Колбаса полукопченая, краковская",
+        "calories": "466",
+        "proteins": "16,2",
+        "fats": "44,6",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Колбаса полукопченая, минская",
+        "calories": "287",
+        "proteins": "17,4",
+        "fats": "23",
+        "carbohydrates": "2,7"
+    },
+    {
+        "name": "Колбаса полукопченая, полтавская",
+        "calories": "417",
+        "proteins": "16,4",
+        "fats": "39",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Колбаса полукопченая, таллинская",
+        "calories": "373",
+        "proteins": "17,1",
+        "fats": "33,8",
+        "carbohydrates": "0,2"
+    },
+    {
+        "name": "Колбаса полукопченая, украинская",
+        "calories": "376",
+        "proteins": "16,5",
+        "fats": "34,4",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Колбаса сырокопченая дорожная",
+        "calories": "498",
+        "proteins": "17",
+        "fats": "47,7",
+        "carbohydrates": "0,4"
+    },
+    {
+        "name": "Колбаса сырокопченая зернистая",
+        "calories": "606",
+        "proteins": "9,9",
+        "fats": "62,8",
+        "carbohydrates": "0,3"
+    },
+    {
+        "name": "Колбаса сырокопченая олимпийская",
+        "calories": "436",
+        "proteins": "21,1",
+        "fats": "39,1",
+        "carbohydrates": "0,4"
+    },
+    {
+        "name": "Колбаса сырокопченая свиная",
+        "calories": "566",
+        "proteins": "13",
+        "fats": "57",
+        "carbohydrates": "0,2"
+    },
+    {
+        "name": "Колбаса сырокопченая, брауншвейгская",
+        "calories": "491",
+        "proteins": "27,7",
+        "fats": "42,2",
+        "carbohydrates": "0,2"
+    },
+    {
+        "name": "Колбаса сырокопченая, любительская",
+        "calories": "514",
+        "proteins": "20,9",
+        "fats": "47,8",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Колбаса сырокопченая, московская",
+        "calories": "473",
+        "proteins": "24,8",
+        "fats": "41,5",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Колбаса сырокопченая, столичная",
+        "calories": "487",
+        "proteins": "24",
+        "fats": "43,4",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Колбаса, Берлинская, свинина, говядина",
+        "calories": "230",
+        "proteins": "15,27",
+        "fats": "17,2",
+        "carbohydrates": "2,59"
+    },
+    {
+        "name": "Колбаса, Болонская, говядина, с пониж. содер. натрия",
+        "calories": "310",
+        "proteins": "11,7",
+        "fats": "28,4",
+        "carbohydrates": "2"
+    },
+    {
+        "name": "Колбаса, Брауншвейгская, свинина",
+        "calories": "327",
+        "proteins": "14,5",
+        "fats": "28,5",
+        "carbohydrates": "3,1"
+    },
+    {
+        "name": "Колбаса, из свинины и говядины, с сыром чеддер, копченая",
+        "calories": "296",
+        "proteins": "12,89",
+        "fats": "25,84",
+        "carbohydrates": "2,13"
+    },
+    {
+        "name": "Колбаса, итальянская, свинина, вареная",
+        "calories": "324",
+        "proteins": "18,4",
+        "fats": "26,4",
+        "carbohydrates": "1,86"
+    },
+    {
+        "name": "Колбаса, Итальянская, свинина, сырая",
+        "calories": "290",
+        "proteins": "13,9",
+        "fats": "24,26",
+        "carbohydrates": "2,97"
+    },
+    {
+        "name": "Колбаса, итальянская, сладкая, сосиски или сардельки",
+        "calories": "149",
+        "proteins": "16,13",
+        "fats": "8,42",
+        "carbohydrates": "2,1"
+    },
+    {
+        "name": "Колбаса, Кровяная",
+        "calories": "379",
+        "proteins": "14,6",
+        "fats": "34,5",
+        "carbohydrates": "1,29"
+    },
+    {
+        "name": "Колбаса, Ливерная, свинина",
+        "calories": "326",
+        "proteins": "14,1",
+        "fats": "28,5",
+        "carbohydrates": "2,2"
+    },
+    {
+        "name": "Колбаса, польская, говядина с курицей, острая",
+        "calories": "259",
+        "proteins": "17,6",
+        "fats": "19,4",
+        "carbohydrates": "3,6"
+    },
+    {
+        "name": "Колбаса, польская, из индейки и говядины, копченая",
+        "calories": "226",
+        "proteins": "13,1",
+        "fats": "17,6",
+        "carbohydrates": "3,9"
+    },
+    {
+        "name": "Колбаса, польская, из свинины",
+        "calories": "326",
+        "proteins": "14,1",
+        "fats": "28,72",
+        "carbohydrates": "1,63"
+    },
+    {
+        "name": "Колбаса, польская, из свинины и говядины, копченая",
+        "calories": "301",
+        "proteins": "12,07",
+        "fats": "26,56",
+        "carbohydrates": "1,98"
+    },
+    {
+        "name": "Колбаса, свинина, вареная",
+        "calories": "339",
+        "proteins": "19,43",
+        "fats": "28,36",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Колбаса, свинина, говядина, вареная",
+        "calories": "396",
+        "proteins": "13,8",
+        "fats": "36,25",
+        "carbohydrates": "2,7"
+    },
+    {
+        "name": "Колбаса, свинина, сырая",
+        "calories": "288",
+        "proteins": "15,39",
+        "fats": "24,8",
+        "carbohydrates": "0,93"
+    },
+    {
+        "name": "Колбасы, копченые сардельки, из свинины и говядины",
+        "calories": "320",
+        "proteins": "12",
+        "fats": "28,73",
+        "carbohydrates": "2,42"
+    },
+    {
+        "name": "Копченые сардельки, из свинины",
+        "calories": "309",
+        "proteins": "11,98",
+        "fats": "28,23",
+        "carbohydrates": "0,94"
+    },
+    {
+        "name": "Копченые сардельки, из свинины и говядины, …",
+        "calories": "268",
+        "proteins": "13,97",
+        "fats": "21,43",
+        "carbohydrates": "3,96"
+    },
+    {
+        "name": "Копченые сардельки, из свинины и говядины, с добавлением обезжиренного сухого молока",
+        "calories": "313",
+        "proteins": "13,28",
+        "fats": "27,61",
+        "carbohydrates": "1,92"
+    },
+    {
+        "name": "Корейка копчено-запеченная (свинина)",
+        "calories": "475",
+        "proteins": "10,2",
+        "fats": "48,2",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Корейка сырокопченая (свинина)",
+        "calories": "469",
+        "proteins": "10,5",
+        "fats": "47,4",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Куриные грудки, запеченные в духовке, обезжиренные, нарезка",
+        "calories": "79",
+        "proteins": "16,79",
+        "fats": "0,39",
+        "carbohydrates": "2,17"
+    },
+    {
+        "name": "курица, Паштет, из печени, консерв.",
+        "calories": "201",
+        "proteins": "13,45",
+        "fats": "13,1",
+        "carbohydrates": "6,55"
+    },
+    {
+        "name": "Ливанская болонья, говядина",
+        "calories": "172",
+        "proteins": "19,03",
+        "fats": "10,44",
+        "carbohydrates": "0,44"
+    },
+    {
+        "name": "Мясной хлеб ветчинный",
+        "calories": "256",
+        "proteins": "12,9",
+        "fats": "21,8",
+        "carbohydrates": "1,9"
+    },
+    {
+        "name": "Мясной хлеб говяжий",
+        "calories": "263",
+        "proteins": "10,5",
+        "fats": "23,9",
+        "carbohydrates": "1,4"
+    },
+    {
+        "name": "Мясной хлеб отдельный",
+        "calories": "246",
+        "proteins": "12",
+        "fats": "21",
+        "carbohydrates": "2,1"
+    },
+    {
+        "name": "Окорок тамбовский вареный",
+        "calories": "288",
+        "proteins": "14,3",
+        "fats": "25,6",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Охотничьи колбаски",
+        "calories": "463",
+        "proteins": "25,3",
+        "fats": "40",
+        "carbohydrates": "0,3"
+    },
+    {
+        "name": "Палочки из бекона и говядины",
+        "calories": "517",
+        "proteins": "29,1",
+        "fats": "44,2",
+        "carbohydrates": "0,8"
+    },
+    {
+        "name": "Пастрома, из индейки",
+        "calories": "139",
+        "proteins": "16,3",
+        "fats": "6,21",
+        "carbohydrates": "3,24"
+    },
+    {
+        "name": "Паштет, из ливерной колбасы",
+        "calories": "305",
+        "proteins": "12,38",
+        "fats": "25,45",
+        "carbohydrates": "3,39"
+    },
+    {
+        "name": "Паштет, с ароматом трюфелей",
+        "calories": "327",
+        "proteins": "11,2",
+        "fats": "28,5",
+        "carbohydrates": "6,3"
+    },
+    {
+        "name": "Пепперони (острое салями), свинина, говядина",
+        "calories": "504",
+        "proteins": "19,25",
+        "fats": "46,28",
+        "carbohydrates": "1,18"
+    },
+    {
+        "name": "Рулет из индейки, белое и темное мясо",
+        "calories": "149",
+        "proteins": "18,14",
+        "fats": "6,99",
+        "carbohydrates": "2,12"
+    },
+    {
+        "name": "Рулет из индейки, белое мясо",
+        "calories": "106",
+        "proteins": "14,81",
+        "fats": "3,77",
+        "carbohydrates": "2,2"
+    },
+    {
+        "name": "Рулет из куриных грудок, запеченный в духовке",
+        "calories": "134",
+        "proteins": "14,59",
+        "fats": "7,65",
+        "carbohydrates": "1,79"
+    },
+    {
+        "name": "Салями, воздушной варки, из говядины",
+        "calories": "261",
+        "proteins": "12,6",
+        "fats": "22,2",
+        "carbohydrates": "1,9"
+    },
+    {
+        "name": "Салями, воздушной варки, из говядины и свинины",
+        "calories": "336",
+        "proteins": "21,85",
+        "fats": "25,9",
+        "carbohydrates": "2,4"
+    },
+    {
+        "name": "Салями, воздушной варки, индюшатина",
+        "calories": "172",
+        "proteins": "19,2",
+        "fats": "9,21",
+        "carbohydrates": "1,45"
+    },
+    {
+        "name": "Салями, из свинины, и говядины, меньше натрия",
+        "calories": "396",
+        "proteins": "15,01",
+        "fats": "30,5",
+        "carbohydrates": "15,18"
+    },
+    {
+        "name": "Салями, итальянская, свинина",
+        "calories": "425",
+        "proteins": "21,7",
+        "fats": "37",
+        "carbohydrates": "1,2"
+    },
+    {
+        "name": "Салями, сухая или твердая, свинина",
+        "calories": "407",
+        "proteins": "22,58",
+        "fats": "33,72",
+        "carbohydrates": "1,6"
+    },
+    {
+        "name": "Салями, сухая или твердая, свинина, говядина",
+        "calories": "378",
+        "proteins": "21,07",
+        "fats": "31,65",
+        "carbohydrates": "0,72"
+    },
+    {
+        "name": "Сарделька (сосиска), говядина",
+        "calories": "315",
+        "proteins": "11,69",
+        "fats": "28,1",
+        "carbohydrates": "2,97"
+    },
+    {
+        "name": "Сарделька (сосиска), говядина и свинина",
+        "calories": "305",
+        "proteins": "11,53",
+        "fats": "27,64",
+        "carbohydrates": "1,72"
+    },
+    {
+        "name": "Сарделька (сосиска), говядина, свинина, индейка, обезжиринная, 1.6% жира",
+        "calories": "109",
+        "proteins": "12,5",
+        "fats": "1,59",
+        "carbohydrates": "11,21"
+    },
+    {
+        "name": "Сарделька (сосиска), говяжья, разогретая",
+        "calories": "322",
+        "proteins": "11,69",
+        "fats": "29,36",
+        "carbohydrates": "2,66"
+    },
+    {
+        "name": "Сарделька (сосиска), индейка",
+        "calories": "223",
+        "proteins": "12,23",
+        "fats": "17,29",
+        "carbohydrates": "3,81"
+    },
+    {
+        "name": "Сарделька (сосиска), куриная",
+        "calories": "223",
+        "proteins": "15,51",
+        "fats": "16,19",
+        "carbohydrates": "2,74"
+    },
+    {
+        "name": "Сарделька (сосиска), мясная",
+        "calories": "290",
+        "proteins": "10,26",
+        "fats": "25,76",
+        "carbohydrates": "4,17"
+    },
+    {
+        "name": "Сарделька (сосиска), мясная и домашняя птица, маложирная, 2.8% жира",
+        "calories": "121",
+        "proteins": "15,5",
+        "fats": "2,8",
+        "carbohydrates": "8,3"
+    },
+    {
+        "name": "Сарделька (сосиска), мясная, маложирная, 10% жира",
+        "calories": "140",
+        "proteins": "12",
+        "fats": "9,5",
+        "carbohydrates": "1,6"
+    },
+    {
+        "name": "Сарделька (сосиска), мясная, разогретая",
+        "calories": "278",
+        "proteins": "9,77",
+        "fats": "24,31",
+        "carbohydrates": "4,9"
+    },
+    {
+        "name": "Сарделька (сосиска), с низким содерж. Натрия",
+        "calories": "312",
+        "proteins": "12",
+        "fats": "28,51",
+        "carbohydrates": "1,8"
+    },
+    {
+        "name": "Сардельки 1 сорта",
+        "calories": "202",
+        "proteins": "10,3",
+        "fats": "17,2",
+        "carbohydrates": "1,5"
+    },
+    {
+        "name": "Сардельки говяжьи",
+        "calories": "215",
+        "proteins": "11,4",
+        "fats": "18,2",
+        "carbohydrates": "1,3"
+    },
+    {
+        "name": "Сардельки говяжьи отварные, по 1-394",
+        "calories": "215",
+        "proteins": "11,4",
+        "fats": "18,2",
+        "carbohydrates": "1,2"
+    },
+    {
+        "name": "Сардельки свиные",
+        "calories": "322",
+        "proteins": "10,1",
+        "fats": "31,6",
+        "carbohydrates": "1,8"
+    },
+    {
+        "name": "Свинина, Паштет, из ветчины",
+        "calories": "216",
+        "proteins": "8,68",
+        "fats": "15,53",
+        "carbohydrates": "10,64"
+    },
+    {
+        "name": "Свинина, Паштет, ливерный",
+        "calories": "304",
+        "proteins": "15,2",
+        "fats": "25,6",
+        "carbohydrates": "2,1"
+    },
+    {
+        "name": "Свинина, Паштет, с сыром и беконом",
+        "calories": "245",
+        "proteins": "16,18",
+        "fats": "18,53",
+        "carbohydrates": "2,28"
+    },
+    {
+        "name": "Сервелат",
+        "calories": "461",
+        "proteins": "24",
+        "fats": "40,5",
+        "carbohydrates": "0,2"
+    },
+    {
+        "name": "Сосиски говяжьи",
+        "calories": "226",
+        "proteins": "10,4",
+        "fats": "20,1",
+        "carbohydrates": "0,8"
+    },
+    {
+        "name": "Сосиски говяжьи отварные, по 1-394",
+        "calories": "225",
+        "proteins": "10,4",
+        "fats": "20",
+        "carbohydrates": "0,8"
+    },
+    {
+        "name": "Сосиски столичные",
+        "calories": "234",
+        "proteins": "12,2",
+        "fats": "20,3",
+        "carbohydrates": "0,5"
+    },
+    {
+        "name": "Сосиски, венские, консервированные, из курицы, говядины, и свинины",
+        "calories": "230",
+        "proteins": "10,5",
+        "fats": "19,4",
+        "carbohydrates": "2,6"
+    },
+    {
+        "name": "Сосиски, молочные",
+        "calories": "261",
+        "proteins": "11",
+        "fats": "23,9",
+        "carbohydrates": "0,4"
+    },
+    {
+        "name": "Сосиски, русские",
+        "calories": "250",
+        "proteins": "11,3",
+        "fats": "22",
+        "carbohydrates": "1,7"
+    },
+    {
+        "name": "Сосиски, свиные",
+        "calories": "324",
+        "proteins": "11,8",
+        "fats": "30,8",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Спред для сэндвичей, паштет, из свинины и говядины",
+        "calories": "235",
+        "proteins": "7,66",
+        "fats": "17,34",
+        "carbohydrates": "11,74"
+    },
+    {
+        "name": "Спред-салат, для сэндвичей, домашняя птица",
+        "calories": "200",
+        "proteins": "11,64",
+        "fats": "13,52",
+        "carbohydrates": "7,41"
+    },
+    {
+        "name": "Чоризо (чорисо), из свинины и говядины",
+        "calories": "296",
+        "proteins": "13,63",
+        "fats": "25,1",
+        "carbohydrates": "3,78"
+    }
+]

@@ -1,0 +1,583 @@
+﻿[
+    {
+        "name": "Gold Роллтон",
+        "calories": "340",
+        "proteins": "8",
+        "fats": "12",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Бульон Домашний Грибной [Роллтон]",
+        "calories": "85",
+        "proteins": "1,5",
+        "fats": "1",
+        "carbohydrates": "17"
+    },
+    {
+        "name": "Бульон Домашний Куриный [Роллтон]",
+        "calories": "80",
+        "proteins": "1,5",
+        "fats": "1,5",
+        "carbohydrates": "16"
+    },
+    {
+        "name": "Бульон Домашний Мясной [Роллтон]",
+        "calories": "91",
+        "proteins": "1",
+        "fats": "3,3",
+        "carbohydrates": "14,4"
+    },
+    {
+        "name": "Бульон Куриный Домашний [Роллтон]",
+        "calories": "85",
+        "proteins": "1,5",
+        "fats": "2",
+        "carbohydrates": "15"
+    },
+    {
+        "name": "Вермишель [Роллтон]",
+        "calories": "450",
+        "proteins": "9",
+        "fats": "21",
+        "carbohydrates": "57"
+    },
+    {
+        "name": "Вермишель Быстрого Приготовления [Роллтон]",
+        "calories": "480",
+        "proteins": "7,9",
+        "fats": "22,8",
+        "carbohydrates": "60,8"
+    },
+    {
+        "name": "Вермишель из Твердых Сортов Пшеницы [Роллтон]",
+        "calories": "344",
+        "proteins": "10,4",
+        "fats": "1,1",
+        "carbohydrates": "71,5"
+    },
+    {
+        "name": "Вермишель на Домашнем Бульоне с Белыми Грибами [Роллтон]",
+        "calories": "420",
+        "proteins": "7",
+        "fats": "21",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Вермишель на Домашнем Бульоне с Говядиной [Роллтон]",
+        "calories": "440",
+        "proteins": "7",
+        "fats": "23",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Вермишель на Домашнем Бульоне с Грибами [Роллтон]",
+        "calories": "440",
+        "proteins": "7",
+        "fats": "23",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Вермишель на Домашнем Бульоне с Курицей [Роллтон]",
+        "calories": "440",
+        "proteins": "7",
+        "fats": "23",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Вермишель на Домашнем Бульоне с Овощами [Роллтон]",
+        "calories": "420",
+        "proteins": "7",
+        "fats": "21",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Вермишель с Острой Курицей [Роллтон]",
+        "calories": "452",
+        "proteins": "8,7",
+        "fats": "21,1",
+        "carbohydrates": "56,7"
+    },
+    {
+        "name": "Вермишель с Сыром и Беконом [Роллтон]",
+        "calories": "420",
+        "proteins": "7",
+        "fats": "21",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Витки [Роллтон]",
+        "calories": "344",
+        "proteins": "10,4",
+        "fats": "1,1",
+        "carbohydrates": "71,5"
+    },
+    {
+        "name": "Гнезда [Роллтон]",
+        "calories": "340",
+        "proteins": "11",
+        "fats": "2",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Горячая Порция Лапша с Говядиной [Роллтон]",
+        "calories": "390",
+        "proteins": "7",
+        "fats": "17",
+        "carbohydrates": "53"
+    },
+    {
+        "name": "Горячая Порция Лапша с Курицей [Роллтон]",
+        "calories": "440",
+        "proteins": "7",
+        "fats": "23",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Горячая Порция с Курицей [Роллтон]",
+        "calories": "400",
+        "proteins": "6",
+        "fats": "17",
+        "carbohydrates": "54"
+    },
+    {
+        "name": "Грибная Лапша по-Домашнему [Роллтон]",
+        "calories": "431",
+        "proteins": "7,7",
+        "fats": "19,5",
+        "carbohydrates": "56,1"
+    },
+    {
+        "name": "Жареный Картофель с Луком и Беконом [Роллтон]",
+        "calories": "93",
+        "proteins": "2,2",
+        "fats": "2,3",
+        "carbohydrates": "14,6"
+    },
+    {
+        "name": "Камчатский Краб [Роллтон]",
+        "calories": "400",
+        "proteins": "7",
+        "fats": "17",
+        "carbohydrates": "54"
+    },
+    {
+        "name": "Картошка [Роллтон]",
+        "calories": "410",
+        "proteins": "8,5",
+        "fats": "11",
+        "carbohydrates": "68"
+    },
+    {
+        "name": "Куриная Лапша по-Домашнему [Роллтон]",
+        "calories": "410",
+        "proteins": "7,5",
+        "fats": "19",
+        "carbohydrates": "52"
+    },
+    {
+        "name": "Куриная Лапша по-Домашнему Острая [Роллтон]",
+        "calories": "370",
+        "proteins": "6",
+        "fats": "16",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Лагман с Бараниной [Роллтон]",
+        "calories": "308",
+        "proteins": "5,4",
+        "fats": "15,5",
+        "carbohydrates": "36,8"
+    },
+    {
+        "name": "Лазанья [Роллтон]",
+        "calories": "326",
+        "proteins": "10",
+        "fats": "1,1",
+        "carbohydrates": "69,1"
+    },
+    {
+        "name": "Лапша [Роллтон]",
+        "calories": "320",
+        "proteins": "6",
+        "fats": "14",
+        "carbohydrates": "43"
+    },
+    {
+        "name": "Лапша без Масла [Роллтон]",
+        "calories": "338",
+        "proteins": "10",
+        "fats": "2",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Лапша Быстрого Приготовления [Роллтон]",
+        "calories": "410",
+        "proteins": "7,5",
+        "fats": "19",
+        "carbohydrates": "52"
+    },
+    {
+        "name": "Лапша Лагман с Бараниной [Роллтон]",
+        "calories": "310",
+        "proteins": "5,5",
+        "fats": "16",
+        "carbohydrates": "37"
+    },
+    {
+        "name": "Лапша Лагман с Бараниной по-Домашнему [Роллтон]",
+        "calories": "400",
+        "proteins": "7",
+        "fats": "17",
+        "carbohydrates": "54"
+    },
+    {
+        "name": "Лапша по-Домашнему с Белыми Грибами [Роллтон]",
+        "calories": "400",
+        "proteins": "7",
+        "fats": "18",
+        "carbohydrates": "52"
+    },
+    {
+        "name": "Лапша по-Домашнему с Овощами [Роллтон]",
+        "calories": "400",
+        "proteins": "7",
+        "fats": "18",
+        "carbohydrates": "52"
+    },
+    {
+        "name": "Лапша Рисовая [Роллтон]",
+        "calories": "332",
+        "proteins": "8",
+        "fats": "0",
+        "carbohydrates": "75"
+    },
+    {
+        "name": "Лапша с Говядиной [Роллтон]",
+        "calories": "390",
+        "proteins": "7",
+        "fats": "17",
+        "carbohydrates": "53"
+    },
+    {
+        "name": "Лапша с Говядиной по-Домашнему [Роллтон]",
+        "calories": "388",
+        "proteins": "6,9",
+        "fats": "17,6",
+        "carbohydrates": "50,5"
+    },
+    {
+        "name": "Лапша с Говядиной по-Домашнему [Роллтон]",
+        "calories": "395",
+        "proteins": "7",
+        "fats": "17",
+        "carbohydrates": "53"
+    },
+    {
+        "name": "Лапша с Говядиной по-Домашнему Острая [Роллтон]",
+        "calories": "360",
+        "proteins": "7",
+        "fats": "16",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Лапша с Курицей Цезарь [Роллтон]",
+        "calories": "448",
+        "proteins": "8,8",
+        "fats": "20,7",
+        "carbohydrates": "56,7"
+    },
+    {
+        "name": "Лапша с Сыром и Беконом [Роллтон]",
+        "calories": "420",
+        "proteins": "7",
+        "fats": "21",
+        "carbohydrates": "50"
+    },
+    {
+        "name": "Лапша Яичная для Бешбармака [Роллтон]",
+        "calories": "326",
+        "proteins": "10",
+        "fats": "1,1",
+        "carbohydrates": "69,1"
+    },
+    {
+        "name": "Лапша Яичная Классическая [Роллтон]",
+        "calories": "300",
+        "proteins": "10",
+        "fats": "2",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Лапша Яичная Отварная [Роллтон]",
+        "calories": "107",
+        "proteins": "3,5",
+        "fats": "0,4",
+        "carbohydrates": "21,4"
+    },
+    {
+        "name": "Лапша Яичная по-Домашнему [Роллтон]",
+        "calories": "300",
+        "proteins": "10",
+        "fats": "2",
+        "carbohydrates": "60"
+    },
+    {
+        "name": "Макароны [Роллтон]",
+        "calories": "340",
+        "proteins": "11",
+        "fats": "1",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Макароны Гнезда [Роллтон]",
+        "calories": "344",
+        "proteins": "10,4",
+        "fats": "1,1",
+        "carbohydrates": "71,5"
+    },
+    {
+        "name": "Макароны Перья [Роллтон]",
+        "calories": "344",
+        "proteins": "10,4",
+        "fats": "1,1",
+        "carbohydrates": "71,5"
+    },
+    {
+        "name": "Макароны Рожки [Роллтон]",
+        "calories": "344",
+        "proteins": "10,4",
+        "fats": "1,1",
+        "carbohydrates": "71,5"
+    },
+    {
+        "name": "Макароны Спирали [Роллтон]",
+        "calories": "340",
+        "proteins": "11",
+        "fats": "1",
+        "carbohydrates": "72"
+    },
+    {
+        "name": "Перья Из Твёрдых Сортов Пшеницы [Роллтон]",
+        "calories": "340",
+        "proteins": "11",
+        "fats": "1",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Пикантная Заправка [Роллтон]",
+        "calories": "375",
+        "proteins": "6",
+        "fats": "18",
+        "carbohydrates": "47"
+    },
+    {
+        "name": "Постное Меню [Роллтон]",
+        "calories": "420",
+        "proteins": "7",
+        "fats": "21",
+        "carbohydrates": "51"
+    },
+    {
+        "name": "Пюре Быстрого Приготовления [Роллтон]",
+        "calories": "377",
+        "proteins": "10,5",
+        "fats": "3,8",
+        "carbohydrates": "75,3"
+    },
+    {
+        "name": "Пюре Картофельное \"Готовить Легко\" [Роллтон]",
+        "calories": "330",
+        "proteins": "7,9",
+        "fats": "0,3",
+        "carbohydrates": "73,8"
+    },
+    {
+        "name": "Пюре Картофельное Жареные Лисички со Сметаной [Роллтон]",
+        "calories": "370",
+        "proteins": "6",
+        "fats": "8",
+        "carbohydrates": "67"
+    },
+    {
+        "name": "Пюре Картофельное Классическое [Роллтон]",
+        "calories": "320",
+        "proteins": "7",
+        "fats": "0,5",
+        "carbohydrates": "73"
+    },
+    {
+        "name": "Пюре Картофельное с Говядиной [Роллтон]",
+        "calories": "380",
+        "proteins": "10",
+        "fats": "7",
+        "carbohydrates": "69"
+    },
+    {
+        "name": "Пюре Картофельное с Жареным Луком [Роллтон]",
+        "calories": "390",
+        "proteins": "8,5",
+        "fats": "9",
+        "carbohydrates": "69"
+    },
+    {
+        "name": "Пюре Картофельное с Куриным Вкусом [Роллтон]",
+        "calories": "370",
+        "proteins": "6",
+        "fats": "8",
+        "carbohydrates": "67"
+    },
+    {
+        "name": "Пюре Картофельное с Курицей [Роллтон]",
+        "calories": "380",
+        "proteins": "10",
+        "fats": "7",
+        "carbohydrates": "69"
+    },
+    {
+        "name": "Пюре Картофельное с Молоком [Роллтон]",
+        "calories": "350",
+        "proteins": "9",
+        "fats": "4,5",
+        "carbohydrates": "68"
+    },
+    {
+        "name": "Пюре Картофельное с Мясным Вкусом [Роллтон]",
+        "calories": "370",
+        "proteins": "6",
+        "fats": "8",
+        "carbohydrates": "67"
+    },
+    {
+        "name": "Пюре Картофельное с Сухариками [Роллтон]",
+        "calories": "370",
+        "proteins": "6",
+        "fats": "8",
+        "carbohydrates": "67"
+    },
+    {
+        "name": "Пюре Картофельное со Вкусом Ветчины и Сыра [Роллтон]",
+        "calories": "370",
+        "proteins": "9",
+        "fats": "6",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Пюре Картофельное со Вкусом Жареных Лисичек со Сметаной [Роллтон]",
+        "calories": "370",
+        "proteins": "6",
+        "fats": "8",
+        "carbohydrates": "67"
+    },
+    {
+        "name": "Пюре Картофельное со Вкусом Томленой Курочки с Сыром [Роллтон]",
+        "calories": "360",
+        "proteins": "6",
+        "fats": "8",
+        "carbohydrates": "66"
+    },
+    {
+        "name": "Пюре Картофельное со Сливочным Вкусом [Роллтон]",
+        "calories": "360",
+        "proteins": "6",
+        "fats": "6",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Пюре с Мясным Вкусом [Роллтон]",
+        "calories": "377",
+        "proteins": "10,5",
+        "fats": "3,8",
+        "carbohydrates": "75,3"
+    },
+    {
+        "name": "Пюре с Сухариками [Роллтон]",
+        "calories": "377",
+        "proteins": "10,5",
+        "fats": "3,8",
+        "carbohydrates": "75,3"
+    },
+    {
+        "name": "Ракушки [Роллтон]",
+        "calories": "344",
+        "proteins": "10,4",
+        "fats": "1,1",
+        "carbohydrates": "71,5"
+    },
+    {
+        "name": "Ребрышки Барбекю [Роллтон]",
+        "calories": "400",
+        "proteins": "6",
+        "fats": "17",
+        "carbohydrates": "54"
+    },
+    {
+        "name": "Рожки [Роллтон]",
+        "calories": "340",
+        "proteins": "11",
+        "fats": "1",
+        "carbohydrates": "72"
+    },
+    {
+        "name": "Рожки Яичные [Роллтон]",
+        "calories": "340",
+        "proteins": "13",
+        "fats": "1",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Рожки Яичные [Роллтон]",
+        "calories": "340",
+        "proteins": "13",
+        "fats": "1",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Соевый Соус [Роллтон]",
+        "calories": "25",
+        "proteins": "4",
+        "fats": "0",
+        "carbohydrates": "2"
+    },
+    {
+        "name": "Спагетти [Роллтон]",
+        "calories": "340",
+        "proteins": "11",
+        "fats": "1",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Спагетти из Тсп [Роллтон]",
+        "calories": "340",
+        "proteins": "11",
+        "fats": "1",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Спагетти Яичные [Роллтон]",
+        "calories": "340",
+        "proteins": "13",
+        "fats": "1",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Спирали [Роллтон]",
+        "calories": "340",
+        "proteins": "11",
+        "fats": "1",
+        "carbohydrates": "71"
+    },
+    {
+        "name": "Спирали с Томатами и Шпинатом [Роллтон]",
+        "calories": "343",
+        "proteins": "10,4",
+        "fats": "1,1",
+        "carbohydrates": "71,2"
+    },
+    {
+        "name": "Трубки с Томатами и Шпинатом [Роллтон]",
+        "calories": "343",
+        "proteins": "10,4",
+        "fats": "1,1",
+        "carbohydrates": "71,2"
+    }
+]

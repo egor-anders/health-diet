@@ -1,0 +1,254 @@
+﻿[
+    {
+        "name": "Celebrations [Mars]",
+        "calories": "493",
+        "proteins": "5,5",
+        "fats": "24",
+        "carbohydrates": "62"
+    },
+    {
+        "name": "Choc Brownie [Mars]",
+        "calories": "452",
+        "proteins": "4,6",
+        "fats": "18,3",
+        "carbohydrates": "66"
+    },
+    {
+        "name": "Cookies [Mars]",
+        "calories": "454",
+        "proteins": "5,4",
+        "fats": "20,1",
+        "carbohydrates": "61,3"
+    },
+    {
+        "name": "Dessert Sauce [Mars]",
+        "calories": "326",
+        "proteins": "1,3",
+        "fats": "8",
+        "carbohydrates": "62"
+    },
+    {
+        "name": "Hi Protein Salted Caramel [Mars]",
+        "calories": "209",
+        "proteins": "20",
+        "fats": "4,9",
+        "carbohydrates": "23"
+    },
+    {
+        "name": "Ice Cream [Mars]",
+        "calories": "330",
+        "proteins": "3,5",
+        "fats": "17,1",
+        "carbohydrates": "40,3"
+    },
+    {
+        "name": "M&Ms [Mars]",
+        "calories": "481",
+        "proteins": "4,3",
+        "fats": "19,2",
+        "carbohydrates": "71,5"
+    },
+    {
+        "name": "Mars",
+        "calories": "230",
+        "proteins": "2,2",
+        "fats": "9",
+        "carbohydrates": "34"
+    },
+    {
+        "name": "Mars",
+        "calories": "455",
+        "proteins": "3,9",
+        "fats": "17,7",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Mars Max",
+        "calories": "454",
+        "proteins": "4,1",
+        "fats": "17,4",
+        "carbohydrates": "69,6"
+    },
+    {
+        "name": "Mars Milk",
+        "calories": "70",
+        "proteins": "3",
+        "fats": "2,1",
+        "carbohydrates": "9,6"
+    },
+    {
+        "name": "Mars Milk",
+        "calories": "244",
+        "proteins": "10,7",
+        "fats": "7,3",
+        "carbohydrates": "33,6"
+    },
+    {
+        "name": "Mars Mini",
+        "calories": "80",
+        "proteins": "0,6",
+        "fats": "2,8",
+        "carbohydrates": "12,8"
+    },
+    {
+        "name": "Mars Minis",
+        "calories": "59",
+        "proteins": "0,5",
+        "fats": "2,2",
+        "carbohydrates": "9,1"
+    },
+    {
+        "name": "Mars Minis",
+        "calories": "452",
+        "proteins": "3,8",
+        "fats": "17,1",
+        "carbohydrates": "70"
+    },
+    {
+        "name": "Mars Protein",
+        "calories": "351",
+        "proteins": "33",
+        "fats": "8,1",
+        "carbohydrates": "39"
+    },
+    {
+        "name": "Mars Protein",
+        "calories": "200",
+        "proteins": "19",
+        "fats": "4,6",
+        "carbohydrates": "22"
+    },
+    {
+        "name": "Milkyway [Mars]",
+        "calories": "120",
+        "proteins": "0,9",
+        "fats": "4,4",
+        "carbohydrates": "19,3"
+    },
+    {
+        "name": "Milkyway Minis [Mars]",
+        "calories": "448",
+        "proteins": "2,8",
+        "fats": "15,6",
+        "carbohydrates": "73,5"
+    },
+    {
+        "name": "Xtra Choc Protein [Mars]",
+        "calories": "188",
+        "proteins": "18,1",
+        "fats": "4,2",
+        "carbohydrates": "21,8"
+    },
+    {
+        "name": "Горячий Шоколад [Mars]",
+        "calories": "175",
+        "proteins": "7,9",
+        "fats": "4,1",
+        "carbohydrates": "26"
+    },
+    {
+        "name": "Молочное Мороженое [Mars]",
+        "calories": "330",
+        "proteins": "3,5",
+        "fats": "17,1",
+        "carbohydrates": "40,3"
+    },
+    {
+        "name": "Мороженное [Mars]",
+        "calories": "170",
+        "proteins": "2,1",
+        "fats": "9,1",
+        "carbohydrates": "19,9"
+    },
+    {
+        "name": "Мороженное Сникерс [Mars]",
+        "calories": "209",
+        "proteins": "4",
+        "fats": "11,4",
+        "carbohydrates": "22,3"
+    },
+    {
+        "name": "Мороженое [Mars]",
+        "calories": "263",
+        "proteins": "3,5",
+        "fats": "14,2",
+        "carbohydrates": "29,8"
+    },
+    {
+        "name": "Мороженое [Mars]",
+        "calories": "139",
+        "proteins": "1,7",
+        "fats": "7,5",
+        "carbohydrates": "15,8"
+    },
+    {
+        "name": "Мороженое Praline [Mars]",
+        "calories": "339",
+        "proteins": "3,5",
+        "fats": "17,6",
+        "carbohydrates": "41,3"
+    },
+    {
+        "name": "Мороженое Баунти [Mars]",
+        "calories": "348",
+        "proteins": "4",
+        "fats": "21",
+        "carbohydrates": "36"
+    },
+    {
+        "name": "Мороженое Сникерс [Mars]",
+        "calories": "209",
+        "proteins": "4",
+        "fats": "11,4",
+        "carbohydrates": "22,3"
+    },
+    {
+        "name": "Печенье [Mars]",
+        "calories": "435",
+        "proteins": "4,6",
+        "fats": "16,3",
+        "carbohydrates": "66,2"
+    },
+    {
+        "name": "Протеиновый Батончик [Mars]",
+        "calories": "351",
+        "proteins": "33",
+        "fats": "8,1",
+        "carbohydrates": "39"
+    },
+    {
+        "name": "Протеиновый Батончик [Mars]",
+        "calories": "231",
+        "proteins": "22",
+        "fats": "5,3",
+        "carbohydrates": "25,7"
+    },
+    {
+        "name": "Протеиновый Батончик Баунти [Mars]",
+        "calories": "192",
+        "proteins": "18,7",
+        "fats": "5,7",
+        "carbohydrates": "17,3"
+    },
+    {
+        "name": "Сникерс Пломбир [Mars]",
+        "calories": "509",
+        "proteins": "8,2",
+        "fats": "27,5",
+        "carbohydrates": "56,3"
+    },
+    {
+        "name": "Шоколадная Паста [Mars]",
+        "calories": "573",
+        "proteins": "3,1",
+        "fats": "36,4",
+        "carbohydrates": "57,6"
+    },
+    {
+        "name": "Шоколадный Батончик [Mars]",
+        "calories": "454",
+        "proteins": "4,1",
+        "fats": "17,4",
+        "carbohydrates": "69,6"
+    }
+]

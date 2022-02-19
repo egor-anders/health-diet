@@ -1,0 +1,3327 @@
+﻿[
+    {
+        "name": "KRAFT BREAKSTONE'S FREE Обезжиренная сметана",
+        "calories": "91",
+        "proteins": "4,7",
+        "fats": "1,3",
+        "carbohydrates": "15,1"
+    },
+    {
+        "name": "KRAFT BREYERS LIGHT N' LIVELY Клубничний йогурт 1% с низким содержанием жира",
+        "calories": "108",
+        "proteins": "3,2",
+        "fats": "0,8",
+        "carbohydrates": "21,9"
+    },
+    {
+        "name": "KRAFT BREYERS LIGHT Обезжиренный клубничный йогурт (с заменителями сахара аспартам и фруктозой)",
+        "calories": "55",
+        "proteins": "3,4",
+        "fats": "0,2",
+        "carbohydrates": "9,9"
+    },
+    {
+        "name": "KRAFT BREYERS Smooth  Creamy Клубничний йогурт 1% с низким содержанием жира",
+        "calories": "102",
+        "proteins": "3,8",
+        "fats": "0,9",
+        "carbohydrates": "19,9"
+    },
+    {
+        "name": "KRAFT BREYERS Клубничний йогурт 1% с низким содержанием жира",
+        "calories": "96",
+        "proteins": "3,8",
+        "fats": "0,8",
+        "carbohydrates": "18,2"
+    },
+    {
+        "name": "KRAFT CHEEZ WHIZ LIGHT, Пастеризованый плавленый сыр",
+        "calories": "215",
+        "proteins": "16,3",
+        "fats": "9,5",
+        "carbohydrates": "16,2"
+    },
+    {
+        "name": "KRAFT CHEEZ WHIZ, Пастеризованый плавленый сырный соус",
+        "calories": "276",
+        "proteins": "12",
+        "fats": "21",
+        "carbohydrates": "9,2"
+    },
+    {
+        "name": "KRAFT FREE, Обезжиренный пастеризованый плавленый сыр",
+        "calories": "148",
+        "proteins": "22,7",
+        "fats": "1",
+        "carbohydrates": "11,7"
+    },
+    {
+        "name": "KRAFT VELVEETA LIGHT Пастеризованый плавленый сыр с низким модержанием жира",
+        "calories": "222",
+        "proteins": "19,6",
+        "fats": "10,6",
+        "carbohydrates": "11,8"
+    },
+    {
+        "name": "Ацидофилин 1%",
+        "calories": "40",
+        "proteins": "3",
+        "fats": "1",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Ацидофилин 3,2% жирности",
+        "calories": "59",
+        "proteins": "2,9",
+        "fats": "3,2",
+        "carbohydrates": "3,8"
+    },
+    {
+        "name": "Ацидофилин 3,2% жирности сладкий",
+        "calories": "77",
+        "proteins": "2,8",
+        "fats": "3,2",
+        "carbohydrates": "8,6"
+    },
+    {
+        "name": "Ацидофилин обезжиренный",
+        "calories": "31",
+        "proteins": "3",
+        "fats": "0,05",
+        "carbohydrates": "3,9"
+    },
+    {
+        "name": "Белковая добавка, на основе молока, Muscle Milk Light, порошок",
+        "calories": "396",
+        "proteins": "50",
+        "fats": "12",
+        "carbohydrates": "20"
+    },
+    {
+        "name": "Белковая добавка, на основе молока, Muscle Milk, порошок",
+        "calories": "411",
+        "proteins": "45,71",
+        "fats": "17,14",
+        "carbohydrates": "11,4"
+    },
+    {
+        "name": "Брынза из коровьего молока, м.д.ж. 40% в сух. в-ве",
+        "calories": "262",
+        "proteins": "22,1",
+        "fats": "19,2",
+        "carbohydrates": "0,4"
+    },
+    {
+        "name": "Брынза овечья, м.д.ж. 40% в сух. в-ве",
+        "calories": "260",
+        "proteins": "21,1",
+        "fats": "18,8",
+        "carbohydrates": "0,3"
+    },
+    {
+        "name": "Варенец  2,5% жирности",
+        "calories": "53",
+        "proteins": "2,9",
+        "fats": "2,5",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Дульсе де лече, варёное сгущенное молоко (латиноамериканский десерт)",
+        "calories": "315",
+        "proteins": "6,84",
+        "fats": "7,35",
+        "carbohydrates": "55,35"
+    },
+    {
+        "name": "Заменитель взбитых сливок, приготовленный из порошка, 6% жирности",
+        "calories": "100",
+        "proteins": "0,9",
+        "fats": "6",
+        "carbohydrates": "10,6"
+    },
+    {
+        "name": "Заменитель молока с маслами лауриновой кислоты",
+        "calories": "61",
+        "proteins": "1,75",
+        "fats": "3,41",
+        "carbohydrates": "6,16"
+    },
+    {
+        "name": "Заменитель молока, без сои",
+        "calories": "46",
+        "proteins": "1,6",
+        "fats": "2",
+        "carbohydrates": "5,3"
+    },
+    {
+        "name": "Заменитель молока, порошок",
+        "calories": "529",
+        "proteins": "2,48",
+        "fats": "32,92",
+        "carbohydrates": "59,29"
+    },
+    {
+        "name": "Заменитель сливок 10% жирности с гидрогенизированным растительным маслом и протеинами сои",
+        "calories": "136",
+        "proteins": "1",
+        "fats": "9,97",
+        "carbohydrates": "11,38"
+    },
+    {
+        "name": "Заменитель сливок 10% жирности с маслами лауриновой кислоты и казеинатом натрия",
+        "calories": "136",
+        "proteins": "1",
+        "fats": "9,97",
+        "carbohydrates": "11,38"
+    },
+    {
+        "name": "Заменитель сливок 13,5% жирности ароматизированный",
+        "calories": "251",
+        "proteins": "0,69",
+        "fats": "13,5",
+        "carbohydrates": "33,97"
+    },
+    {
+        "name": "Заменитель сливок 3,5% жирности",
+        "calories": "71",
+        "proteins": "0,8",
+        "fats": "3,5",
+        "carbohydrates": "9,1"
+    },
+    {
+        "name": "Заменитель сливок сухой 15,7% жироности",
+        "calories": "431",
+        "proteins": "1,9",
+        "fats": "15,7",
+        "carbohydrates": "73,4"
+    },
+    {
+        "name": "Заменитель сливок сухой 21,5% жироности ароматизированный",
+        "calories": "482",
+        "proteins": "0,68",
+        "fats": "21,47",
+        "carbohydrates": "74,22"
+    },
+    {
+        "name": "Заменитель сливочного масла, обезжиренный, порошок",
+        "calories": "373",
+        "proteins": "2",
+        "fats": "1",
+        "carbohydrates": "89"
+    },
+    {
+        "name": "Заменитель сметаны 19,5% жирности",
+        "calories": "208",
+        "proteins": "2,4",
+        "fats": "19,52",
+        "carbohydrates": "6,63"
+    },
+    {
+        "name": "Заменитель сыра (иммитация), американский или чеддер, с низким содержанием холестерина",
+        "calories": "390",
+        "proteins": "25",
+        "fats": "32",
+        "carbohydrates": "1"
+    },
+    {
+        "name": "Заменитель сыра (иммитация), американский чеддер",
+        "calories": "239",
+        "proteins": "16,7",
+        "fats": "14",
+        "carbohydrates": "11,6"
+    },
+    {
+        "name": "Заменитель сыра, моцарелла",
+        "calories": "248",
+        "proteins": "11,47",
+        "fats": "12,22",
+        "carbohydrates": "23,67"
+    },
+    {
+        "name": "Заправка для десерта, в аэрозольной упаковке",
+        "calories": "264",
+        "proteins": "0,98",
+        "fats": "22,3",
+        "carbohydrates": "16,07"
+    },
+    {
+        "name": "Заправка для десерта, полужидкая, замороженная",
+        "calories": "318",
+        "proteins": "1,25",
+        "fats": "25,31",
+        "carbohydrates": "23,05"
+    },
+    {
+        "name": "Заправка для десерта, порошок",
+        "calories": "577",
+        "proteins": "4,9",
+        "fats": "39,92",
+        "carbohydrates": "52,54"
+    },
+    {
+        "name": "Заправка для десерта, порошок, 1,5 унции приготовлены на пол стакана молока",
+        "calories": "194",
+        "proteins": "3,61",
+        "fats": "12,72",
+        "carbohydrates": "17,13"
+    },
+    {
+        "name": "Йогурт 1,15% жирности, 4% белка, фруктовый",
+        "calories": "99",
+        "proteins": "3,98",
+        "fats": "1,15",
+        "carbohydrates": "18,64"
+    },
+    {
+        "name": "Йогурт 1,15% жирности, 4% белка, фруктовый, с витамином D",
+        "calories": "99",
+        "proteins": "3,98",
+        "fats": "1,15",
+        "carbohydrates": "18,64"
+    },
+    {
+        "name": "Йогурт 1,25% жирности, 5% белка, ванильный",
+        "calories": "85",
+        "proteins": "4,93",
+        "fats": "1,25",
+        "carbohydrates": "13,8"
+    },
+    {
+        "name": "Йогурт 1,25% жирности, 5% белка, с витамином D, ванильный",
+        "calories": "85",
+        "proteins": "4,93",
+        "fats": "1,25",
+        "carbohydrates": "13,8"
+    },
+    {
+        "name": "Йогурт 1,25% жирности, ванильный, с низкокалорийным подсластителем",
+        "calories": "86",
+        "proteins": "4,93",
+        "fats": "1,25",
+        "carbohydrates": "13,8"
+    },
+    {
+        "name": "Йогурт 1,4% жирности, 4,9% белка, фруктовый",
+        "calories": "105",
+        "proteins": "4,86",
+        "fats": "1,41",
+        "carbohydrates": "18,6"
+    },
+    {
+        "name": "Йогурт 1,4% жирности, фруктовый, с низкокалорийным подсластителем",
+        "calories": "105",
+        "proteins": "4,86",
+        "fats": "1,41",
+        "carbohydrates": "18,6"
+    },
+    {
+        "name": "Йогурт 1,4% жирности, фруктовый, с низкокалорийным подсластителем, с витамином D",
+        "calories": "105",
+        "proteins": "4,86",
+        "fats": "1,41",
+        "carbohydrates": "18,6"
+    },
+    {
+        "name": "Йогурт 1,5% жирности, 4,1% белка, натуральный",
+        "calories": "57",
+        "proteins": "4,1",
+        "fats": "1,5",
+        "carbohydrates": "5,9"
+    },
+    {
+        "name": "Йогурт 1,5% жирности, 4% белка, плодово-ягодный",
+        "calories": "90",
+        "proteins": "4",
+        "fats": "1,5",
+        "carbohydrates": "14,3"
+    },
+    {
+        "name": "Йогурт 1,5% жирности, 5,25% белка, натуральный",
+        "calories": "63",
+        "proteins": "5,25",
+        "fats": "1,55",
+        "carbohydrates": "7,04"
+    },
+    {
+        "name": "Йогурт 1,5% жирности, 5% белка, сладкий",
+        "calories": "70",
+        "proteins": "5",
+        "fats": "1,5",
+        "carbohydrates": "8,5"
+    },
+    {
+        "name": "Йогурт 1% жирности, 4,4% белка, фруктовый",
+        "calories": "102",
+        "proteins": "4,37",
+        "fats": "1,08",
+        "carbohydrates": "19,05"
+    },
+    {
+        "name": "Йогурт 1% жирности, 4,4% белка, фруктовый, с витамином D",
+        "calories": "102",
+        "proteins": "4,37",
+        "fats": "1,08",
+        "carbohydrates": "19,05"
+    },
+    {
+        "name": "Йогурт 3,2% жирности, 5% белка, натуральный",
+        "calories": "68",
+        "proteins": "5",
+        "fats": "3,2",
+        "carbohydrates": "3,5"
+    },
+    {
+        "name": "Йогурт 3,2% жирности, 5% белка, сладкий",
+        "calories": "87",
+        "proteins": "5",
+        "fats": "3,2",
+        "carbohydrates": "8,5"
+    },
+    {
+        "name": "Йогурт 3,25% жирности, 3,5% белка, натуральный",
+        "calories": "61",
+        "proteins": "3,47",
+        "fats": "3,25",
+        "carbohydrates": "4,66"
+    },
+    {
+        "name": "Йогурт 6% жирности, 5% белка, натуральный",
+        "calories": "92",
+        "proteins": "5",
+        "fats": "6",
+        "carbohydrates": "3,5"
+    },
+    {
+        "name": "Йогурт 6% жирности, 5% белка, сладкий",
+        "calories": "112",
+        "proteins": "5",
+        "fats": "6",
+        "carbohydrates": "8,5"
+    },
+    {
+        "name": "Йогурт греческий 1,5% жирности, лимонный, CHOBANI",
+        "calories": "92",
+        "proteins": "7,75",
+        "fats": "1,47",
+        "carbohydrates": "11,41"
+    },
+    {
+        "name": "Йогурт греческий 1,7% жирности, клубнично-банановый, CHOBANI",
+        "calories": "88",
+        "proteins": "8",
+        "fats": "1,71",
+        "carbohydrates": "9,54"
+    },
+    {
+        "name": "Йогурт греческий 1,7% жирности, кокосовый, CHOBANI",
+        "calories": "92",
+        "proteins": "8,11",
+        "fats": "1,71",
+        "carbohydrates": "10,54"
+    },
+    {
+        "name": "Йогурт греческий 1,8% жирности, ананасовый, CHOBANI",
+        "calories": "94",
+        "proteins": "7,05",
+        "fats": "1,82",
+        "carbohydrates": "11,57"
+    },
+    {
+        "name": "Йогурт греческий 1,8% жирности, ягодный, CHOBANI",
+        "calories": "93",
+        "proteins": "8,26",
+        "fats": "1,83",
+        "carbohydrates": "10,34"
+    },
+    {
+        "name": "Йогурт греческий 1,9% жирности, натуральный",
+        "calories": "73",
+        "proteins": "9,95",
+        "fats": "1,92",
+        "carbohydrates": "3,94"
+    },
+    {
+        "name": "Йогурт греческий 1.7% жирности, абрикосовый, CHOBANI",
+        "calories": "93",
+        "proteins": "7,22",
+        "fats": "1,71",
+        "carbohydrates": "11,55"
+    },
+    {
+        "name": "Йогурт греческий 2,5% жирности, ванильный",
+        "calories": "95",
+        "proteins": "8,64",
+        "fats": "2,5",
+        "carbohydrates": "9,54"
+    },
+    {
+        "name": "Йогурт греческий 2,6% жирности , клубничный",
+        "calories": "105",
+        "proteins": "8,17",
+        "fats": "2,57",
+        "carbohydrates": "11,29"
+    },
+    {
+        "name": "Йогурт греческий 2,9% жирности, клубничный, DANNON OIKOS",
+        "calories": "106",
+        "proteins": "8,25",
+        "fats": "2,92",
+        "carbohydrates": "10,67"
+    },
+    {
+        "name": "Йогурт греческий 3% жирности, фруктовый",
+        "calories": "106",
+        "proteins": "7,33",
+        "fats": "3",
+        "carbohydrates": "12,29"
+    },
+    {
+        "name": "Йогурт греческий 4% жирности, натуральный, CHOBANI",
+        "calories": "82",
+        "proteins": "8,24",
+        "fats": "4,01",
+        "carbohydrates": "2,44"
+    },
+    {
+        "name": "Йогурт греческий 5% жирности, натуральный",
+        "calories": "97",
+        "proteins": "9",
+        "fats": "5",
+        "carbohydrates": "3,98"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный клубничный",
+        "calories": "82",
+        "proteins": "8,05",
+        "fats": "0,15",
+        "carbohydrates": "11,47"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный малиновый",
+        "calories": "78",
+        "proteins": "8,64",
+        "fats": "0,18",
+        "carbohydrates": "9,87"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный натуральный",
+        "calories": "59",
+        "proteins": "10,19",
+        "fats": "0,39",
+        "carbohydrates": "3,6"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный, ванильный, CHOBANI",
+        "calories": "71",
+        "proteins": "9,07",
+        "fats": "0,22",
+        "carbohydrates": "7,79"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный, ванильный, DANNON OIKOS",
+        "calories": "85",
+        "proteins": "8,12",
+        "fats": "0,14",
+        "carbohydrates": "12,22"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный, клубничный, DANNON OIKOS",
+        "calories": "84",
+        "proteins": "8,03",
+        "fats": "0,22",
+        "carbohydrates": "12,13"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный, лимонный, CHOBANI",
+        "calories": "78",
+        "proteins": "8,62",
+        "fats": "0,15",
+        "carbohydrates": "10,16"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный, малиновый, CHOBANI",
+        "calories": "81",
+        "proteins": "7,65",
+        "fats": "0,22",
+        "carbohydrates": "11,48"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный, натуральный, CHOBANI",
+        "calories": "54",
+        "proteins": "9,53",
+        "fats": "0,24",
+        "carbohydrates": "3,23"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный, персиковый, CHOBANI",
+        "calories": "80",
+        "proteins": "7,76",
+        "fats": "0,11",
+        "carbohydrates": "11,2"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный, с гранатом, CHOBANI",
+        "calories": "80",
+        "proteins": "7,45",
+        "fats": "0,18",
+        "carbohydrates": "11,33"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный, с ежевикой, CHOBANI",
+        "calories": "95",
+        "proteins": "7,54",
+        "fats": "0,37",
+        "carbohydrates": "15,03"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный, с клубникой, CHOBANI",
+        "calories": "79",
+        "proteins": "7,28",
+        "fats": "0,23",
+        "carbohydrates": "11,46"
+    },
+    {
+        "name": "Йогурт греческий обезжиренный, черничный, CHOBANI",
+        "calories": "82",
+        "proteins": "7,23",
+        "fats": "0,24",
+        "carbohydrates": "12,28"
+    },
+    {
+        "name": "Йогурт замороженный, 2,5% жирности (вкусы кроме шоколадного)",
+        "calories": "139",
+        "proteins": "8",
+        "fats": "2,5",
+        "carbohydrates": "21"
+    },
+    {
+        "name": "Йогурт замороженный, обезжиренный, с низкокалорийным подсластителем  (вкусы кроме шоколадного)",
+        "calories": "104",
+        "proteins": "4,4",
+        "fats": "0,8",
+        "carbohydrates": "17,7"
+    },
+    {
+        "name": "Йогурт обезжиренный, 5,7% белка, натуральный",
+        "calories": "56",
+        "proteins": "5,73",
+        "fats": "0,18",
+        "carbohydrates": "7,68"
+    },
+    {
+        "name": "Йогурт обезжиренный, ванильный",
+        "calories": "78",
+        "proteins": "2,94",
+        "fats": "0",
+        "carbohydrates": "17,04"
+    },
+    {
+        "name": "Йогурт обезжиренный, ванильный или лимонный , с низкокалорийным подсластителем, с витамином D",
+        "calories": "43",
+        "proteins": "3,86",
+        "fats": "0,18",
+        "carbohydrates": "7,5"
+    },
+    {
+        "name": "Йогурт обезжиренный, ванильный или лимонный, с низкокалорийным подсластителем",
+        "calories": "43",
+        "proteins": "3,86",
+        "fats": "0,18",
+        "carbohydrates": "7,5"
+    },
+    {
+        "name": "Йогурт обезжиренный, фруктовый",
+        "calories": "95",
+        "proteins": "4,4",
+        "fats": "0,2",
+        "carbohydrates": "19"
+    },
+    {
+        "name": "Йогурт обезжиренный, фруктовый, с витамином D",
+        "calories": "95",
+        "proteins": "4,4",
+        "fats": "0,2",
+        "carbohydrates": "19"
+    },
+    {
+        "name": "Йогурт обезжиренный, шоколадный",
+        "calories": "112",
+        "proteins": "3,53",
+        "fats": "0",
+        "carbohydrates": "22,33"
+    },
+    {
+        "name": "Йогурт обезжиренный, шоколадный, с витамином D",
+        "calories": "112",
+        "proteins": "3,53",
+        "fats": "0",
+        "carbohydrates": "22,33"
+    },
+    {
+        "name": "Йогурт питьевой  2,5% жирности, с фруктовым наполнителем",
+        "calories": "86",
+        "proteins": "2,8",
+        "fats": "2,5",
+        "carbohydrates": "13"
+    },
+    {
+        "name": "Йогурт питьевой 1,5% жирности, с фруктовым наполнителем",
+        "calories": "78",
+        "proteins": "3",
+        "fats": "1,5",
+        "carbohydrates": "13"
+    },
+    {
+        "name": "Йогурт питьевой 1% жирности, с фруктовым наполнителем",
+        "calories": "71",
+        "proteins": "2,7",
+        "fats": "1",
+        "carbohydrates": "12,2"
+    },
+    {
+        "name": "Йогурт питьевой клубничный 0,9% жирности, витаминизированный, LIFEWAY",
+        "calories": "62",
+        "proteins": "3,39",
+        "fats": "0,9",
+        "carbohydrates": "10,2"
+    },
+    {
+        "name": "Йогурт сублимационной сушки",
+        "calories": "534",
+        "proteins": "16",
+        "fats": "36",
+        "carbohydrates": "38,1"
+    },
+    {
+        "name": "Йогурт сублимационной сушки, плодово-ягодный",
+        "calories": "484",
+        "proteins": "16",
+        "fats": "26",
+        "carbohydrates": "48,5"
+    },
+    {
+        "name": "Йогурт сублимационной сушки, сладкий",
+        "calories": "491",
+        "proteins": "16",
+        "fats": "27,5",
+        "carbohydrates": "47,3"
+    },
+    {
+        "name": "Какао с молоком, напиток",
+        "calories": "77",
+        "proteins": "3,52",
+        "fats": "2,34",
+        "carbohydrates": "9,74"
+    },
+    {
+        "name": "Какао со сгущенным молоком и сахаром, консервы",
+        "calories": "321",
+        "proteins": "8,2",
+        "fats": "7,5",
+        "carbohydrates": "51,6"
+    },
+    {
+        "name": "Какао со сгущенными сливками, консервы",
+        "calories": "356",
+        "proteins": "8,2",
+        "fats": "15,5",
+        "carbohydrates": "48,3"
+    },
+    {
+        "name": "Кефир 1% жирности",
+        "calories": "40",
+        "proteins": "3",
+        "fats": "1",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Кефир 1% жирности, витаминизированный, LIFEWAY",
+        "calories": "43",
+        "proteins": "3,79",
+        "fats": "1,02",
+        "carbohydrates": "4,77"
+    },
+    {
+        "name": "Кефир 2,5% жирности",
+        "calories": "53",
+        "proteins": "2,9",
+        "fats": "2,5",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Кефир 3,2% жирности",
+        "calories": "59",
+        "proteins": "2,9",
+        "fats": "3,2",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Кефир обезжиренный",
+        "calories": "31",
+        "proteins": "3",
+        "fats": "0,05",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Кислая сквашенная кремовая заправка, без молочного жира",
+        "calories": "178",
+        "proteins": "3,25",
+        "fats": "16,57",
+        "carbohydrates": "4,68"
+    },
+    {
+        "name": "Кофе натуральный со сгущенным молоком, консервы",
+        "calories": "312",
+        "proteins": "8,4",
+        "fats": "8,6",
+        "carbohydrates": "53"
+    },
+    {
+        "name": "Кумыс из кобыльего молока",
+        "calories": "50",
+        "proteins": "2,1",
+        "fats": "1,9",
+        "carbohydrates": "5"
+    },
+    {
+        "name": "Кумыс коровий, нежирный",
+        "calories": "41",
+        "proteins": "3",
+        "fats": "0,05",
+        "carbohydrates": "6,3"
+    },
+    {
+        "name": "Масло сливочное «Вологодское»",
+        "calories": "748",
+        "proteins": "0,5",
+        "fats": "82,5",
+        "carbohydrates": "0,8"
+    },
+    {
+        "name": "Масло сливочное 55% жирности",
+        "calories": "499",
+        "proteins": "3,3",
+        "fats": "55,1",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Масло сливочное 55% жирности, соленое",
+        "calories": "499",
+        "proteins": "3,3",
+        "fats": "55,1",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Масло сливочное 60% жирности, высокобелковое",
+        "calories": "567",
+        "proteins": "5,1",
+        "fats": "60",
+        "carbohydrates": "1,8"
+    },
+    {
+        "name": "Масло сливочное 61,5% жирности, бутербродное",
+        "calories": "566",
+        "proteins": "1,3",
+        "fats": "61,5",
+        "carbohydrates": "1,7"
+    },
+    {
+        "name": "Масло сливочное 71,5% жирности, крестьянское соленое",
+        "calories": "647",
+        "proteins": "0,8",
+        "fats": "71,5",
+        "carbohydrates": "1,3"
+    },
+    {
+        "name": "Масло сливочное 72,5% жирности, крестьянское",
+        "calories": "661",
+        "proteins": "0,8",
+        "fats": "72,5",
+        "carbohydrates": "1,3"
+    },
+    {
+        "name": "Масло сливочное 75% жирности, обогащённое витамином Е",
+        "calories": "683",
+        "proteins": "0,7",
+        "fats": "75",
+        "carbohydrates": "1,3"
+    },
+    {
+        "name": "Масло сливочное 77% жирности, любительское соленое",
+        "calories": "700",
+        "proteins": "0,7",
+        "fats": "77",
+        "carbohydrates": "1"
+    },
+    {
+        "name": "Масло сливочное 78% жирности, любительское",
+        "calories": "709",
+        "proteins": "0,7",
+        "fats": "78",
+        "carbohydrates": "1"
+    },
+    {
+        "name": "Масло сливочное 81% жирности",
+        "calories": "717",
+        "proteins": "0,85",
+        "fats": "81,11",
+        "carbohydrates": "0,06"
+    },
+    {
+        "name": "Масло сливочное 81% жирности, соленое",
+        "calories": "717",
+        "proteins": "0,85",
+        "fats": "81,11",
+        "carbohydrates": "0,06"
+    },
+    {
+        "name": "Масло сливочное 82,5% жирности, традиционное (в т.ч. Вологодское)",
+        "calories": "748",
+        "proteins": "0,5",
+        "fats": "82,5",
+        "carbohydrates": "0,8"
+    },
+    {
+        "name": "Масло сливочное взбитое 78,3% жирности, соленое",
+        "calories": "731",
+        "proteins": "0,49",
+        "fats": "78,3",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Масло сливочное топлёное",
+        "calories": "900",
+        "proteins": "0",
+        "fats": "100",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Масло сливочное топленое, 99% жирности",
+        "calories": "892",
+        "proteins": "0,2",
+        "fats": "99",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Молоко 1,5% жирности, пастеризованное",
+        "calories": "45",
+        "proteins": "3",
+        "fats": "1,5",
+        "carbohydrates": "4,8"
+    },
+    {
+        "name": "Молоко 1,5% жирности, стерилизованное",
+        "calories": "45",
+        "proteins": "3",
+        "fats": "1,5",
+        "carbohydrates": "4,8"
+    },
+    {
+        "name": "Молоко 1%  жирности, с добавлением сухого обезжиренного молока, с витаминами A и D",
+        "calories": "43",
+        "proteins": "3,48",
+        "fats": "0,97",
+        "carbohydrates": "4,97"
+    },
+    {
+        "name": "Молоко 1% жирности",
+        "calories": "42",
+        "proteins": "3,37",
+        "fats": "0,97",
+        "carbohydrates": "4,99"
+    },
+    {
+        "name": "Молоко 1% жирности высокобелковое",
+        "calories": "52",
+        "proteins": "4,3",
+        "fats": "1",
+        "carbohydrates": "6,4"
+    },
+    {
+        "name": "Молоко 1% жирности высокобелковое, с витаминами A и D",
+        "calories": "48",
+        "proteins": "3,93",
+        "fats": "1,17",
+        "carbohydrates": "5,52"
+    },
+    {
+        "name": "Молоко 1% жирности, с витаминами A и D",
+        "calories": "42",
+        "proteins": "3,37",
+        "fats": "0,97",
+        "carbohydrates": "4,99"
+    },
+    {
+        "name": "Молоко 1% жирности, топленое",
+        "calories": "40",
+        "proteins": "3",
+        "fats": "1",
+        "carbohydrates": "4,8"
+    },
+    {
+        "name": "Молоко 2,5% жирности, пастеризованное",
+        "calories": "54",
+        "proteins": "2,9",
+        "fats": "2,5",
+        "carbohydrates": "4,8"
+    },
+    {
+        "name": "Молоко 2,5% жирности, стерилизованное",
+        "calories": "54",
+        "proteins": "2,9",
+        "fats": "2,5",
+        "carbohydrates": "4,8"
+    },
+    {
+        "name": "Молоко 2% жирности",
+        "calories": "50",
+        "proteins": "3,3",
+        "fats": "1,98",
+        "carbohydrates": "4,8"
+    },
+    {
+        "name": "Молоко 2% жирности, высокобелковое",
+        "calories": "56",
+        "proteins": "3,95",
+        "fats": "1,98",
+        "carbohydrates": "5,49"
+    },
+    {
+        "name": "Молоко 2% жирности, высокобелковое, с витаминами A и D",
+        "calories": "56",
+        "proteins": "3,95",
+        "fats": "1,98",
+        "carbohydrates": "5,49"
+    },
+    {
+        "name": "Молоко 2% жирности, с витаминами A и D",
+        "calories": "50",
+        "proteins": "3,3",
+        "fats": "1,98",
+        "carbohydrates": "4,8"
+    },
+    {
+        "name": "Молоко 2% жирности, с добавлением сухого обезжиренного молока, с витаминами A и D",
+        "calories": "51",
+        "proteins": "3,48",
+        "fats": "1,92",
+        "carbohydrates": "4,97"
+    },
+    {
+        "name": "Молоко 3,2% жирности, пастеризованное",
+        "calories": "60",
+        "proteins": "2,9",
+        "fats": "3,2",
+        "carbohydrates": "4,7"
+    },
+    {
+        "name": "Молоко 3,2% жирности, стерилизованное",
+        "calories": "60",
+        "proteins": "3",
+        "fats": "3,2",
+        "carbohydrates": "4,7"
+    },
+    {
+        "name": "Молоко 3,25% жирности",
+        "calories": "61",
+        "proteins": "3,15",
+        "fats": "3,27",
+        "carbohydrates": "4,78"
+    },
+    {
+        "name": "Молоко 3,25% жирности, с витамином D",
+        "calories": "61",
+        "proteins": "3,15",
+        "fats": "3,25",
+        "carbohydrates": "4,8"
+    },
+    {
+        "name": "Молоко 3,5% жирности, пастеризованное",
+        "calories": "62",
+        "proteins": "2,9",
+        "fats": "3,5",
+        "carbohydrates": "4,7"
+    },
+    {
+        "name": "Молоко 3,5% жирности, со сниженным содержанием натрия",
+        "calories": "61",
+        "proteins": "3,1",
+        "fats": "3,46",
+        "carbohydrates": "4,46"
+    },
+    {
+        "name": "Молоко 3,5% жирности, стерилизованное",
+        "calories": "63",
+        "proteins": "3",
+        "fats": "3,5",
+        "carbohydrates": "4,7"
+    },
+    {
+        "name": "Молоко 3% жирности, стерилизованное",
+        "calories": "58",
+        "proteins": "2,9",
+        "fats": "3",
+        "carbohydrates": "4,7"
+    },
+    {
+        "name": "Молоко 4% жирности, топленое",
+        "calories": "67",
+        "proteins": "2,9",
+        "fats": "4",
+        "carbohydrates": "4,7"
+    },
+    {
+        "name": "Молоко 6% жирности, топленое",
+        "calories": "84",
+        "proteins": "3",
+        "fats": "6",
+        "carbohydrates": "4,7"
+    },
+    {
+        "name": "Молоко буйволиное",
+        "calories": "106",
+        "proteins": "4",
+        "fats": "7,8",
+        "carbohydrates": "4,9"
+    },
+    {
+        "name": "Молоко верблюжье",
+        "calories": "81,5",
+        "proteins": "4",
+        "fats": "5,1",
+        "carbohydrates": "4,9"
+    },
+    {
+        "name": "Молоко грудное",
+        "calories": "70",
+        "proteins": "1,03",
+        "fats": "4,38",
+        "carbohydrates": "6,89"
+    },
+    {
+        "name": "Молоко индийского буйвола",
+        "calories": "97",
+        "proteins": "3,75",
+        "fats": "6,89",
+        "carbohydrates": "5,18"
+    },
+    {
+        "name": "Молоко кобылье",
+        "calories": "41",
+        "proteins": "2,2",
+        "fats": "1",
+        "carbohydrates": "5,8"
+    },
+    {
+        "name": "Молоко козье",
+        "calories": "68",
+        "proteins": "3",
+        "fats": "4,2",
+        "carbohydrates": "4,5"
+    },
+    {
+        "name": "Молоко козье, с витамином D",
+        "calories": "69",
+        "proteins": "3,56",
+        "fats": "4,14",
+        "carbohydrates": "4,45"
+    },
+    {
+        "name": "Молоко коровье сырое 3,6% жирности, фермерское (непастеризованное, нестрерилизованное, некипяченое)",
+        "calories": "65",
+        "proteins": "3,2",
+        "fats": "3,6",
+        "carbohydrates": "4,8"
+    },
+    {
+        "name": "Молоко коровье сырое 3,7% жирности, фермерское",
+        "calories": "64",
+        "proteins": "3,28",
+        "fats": "3,66",
+        "carbohydrates": "4,65"
+    },
+    {
+        "name": "Молоко обезжиренное",
+        "calories": "35",
+        "proteins": "3,37",
+        "fats": "0,18",
+        "carbohydrates": "4,86"
+    },
+    {
+        "name": "Молоко обезжиренное, высокобелковое, с витаминами A и D",
+        "calories": "41",
+        "proteins": "3,96",
+        "fats": "0,25",
+        "carbohydrates": "5,56"
+    },
+    {
+        "name": "Молоко обезжиренное, обогащенное кальцием",
+        "calories": "35",
+        "proteins": "3,4",
+        "fats": "0,18",
+        "carbohydrates": "4,85"
+    },
+    {
+        "name": "Молоко обезжиренное, пастеризованное",
+        "calories": "32",
+        "proteins": "3",
+        "fats": "0,05",
+        "carbohydrates": "4,9"
+    },
+    {
+        "name": "Молоко обезжиренное, с витаминами A и D",
+        "calories": "34",
+        "proteins": "3,37",
+        "fats": "0,08",
+        "carbohydrates": "4,96"
+    },
+    {
+        "name": "Молоко обезжиренное, с добавлением сухого обезжиренного молока, с витаминами A и D",
+        "calories": "37",
+        "proteins": "3,57",
+        "fats": "0,25",
+        "carbohydrates": "5,02"
+    },
+    {
+        "name": "Молоко обезжиренное, топленое",
+        "calories": "32",
+        "proteins": "3",
+        "fats": "0,05",
+        "carbohydrates": "5"
+    },
+    {
+        "name": "Молоко овечье",
+        "calories": "108",
+        "proteins": "5,98",
+        "fats": "7",
+        "carbohydrates": "5,36"
+    },
+    {
+        "name": "Молоко овечье",
+        "calories": "111",
+        "proteins": "5,6",
+        "fats": "7,7",
+        "carbohydrates": "4,8"
+    },
+    {
+        "name": "Молоко с гидрогенизированным растительным маслом",
+        "calories": "63",
+        "proteins": "3,33",
+        "fats": "3,46",
+        "carbohydrates": "4,74"
+    },
+    {
+        "name": "Молоко с маслами лауриновой кислоты",
+        "calories": "63",
+        "proteins": "3,33",
+        "fats": "3,4",
+        "carbohydrates": "4,74"
+    },
+    {
+        "name": "Молоко сгущенное без сахара 2% жирности с витаминами A и D",
+        "calories": "107",
+        "proteins": "6,67",
+        "fats": "2",
+        "carbohydrates": "15,74"
+    },
+    {
+        "name": "Молоко сгущенное без сахара 7,5% жирности, с витамином D",
+        "calories": "134",
+        "proteins": "6,81",
+        "fats": "7,56",
+        "carbohydrates": "10,04"
+    },
+    {
+        "name": "Молоко сгущенное без сахара 7,5% жирности, с витамином А",
+        "calories": "134",
+        "proteins": "6,81",
+        "fats": "7,56",
+        "carbohydrates": "10,04"
+    },
+    {
+        "name": "Молоко сгущенное без сахара 7,8% жирности, стерилизованное",
+        "calories": "138",
+        "proteins": "6,4",
+        "fats": "7,8",
+        "carbohydrates": "10,3"
+    },
+    {
+        "name": "Молоко сгущенное без сахара 8,3% жирности, стерилизованное",
+        "calories": "144",
+        "proteins": "7",
+        "fats": "8,3",
+        "carbohydrates": "9,5"
+    },
+    {
+        "name": "Молоко сгущенное без сахара 9,5% жирности, стерилизованное",
+        "calories": "162",
+        "proteins": "8,3",
+        "fats": "9,5",
+        "carbohydrates": "11,3"
+    },
+    {
+        "name": "Молоко сгущенное без сахара обезжиренное, с витаминами A и D",
+        "calories": "78",
+        "proteins": "7,55",
+        "fats": "0,2",
+        "carbohydrates": "11,35"
+    },
+    {
+        "name": "Молоко сгущенное без сахара обезжиренное, стерилизованное",
+        "calories": "71",
+        "proteins": "6,6",
+        "fats": "0,2",
+        "carbohydrates": "10,8"
+    },
+    {
+        "name": "Молоко сгущенное с сахаром 2,5% жирности",
+        "calories": "271",
+        "proteins": "7,4",
+        "fats": "2,5",
+        "carbohydrates": "54,6"
+    },
+    {
+        "name": "Молоко сгущенное с сахаром 5% жирности",
+        "calories": "295",
+        "proteins": "7,1",
+        "fats": "5",
+        "carbohydrates": "55,2"
+    },
+    {
+        "name": "Молоко сгущенное с сахаром 8,5% жирности, цельное",
+        "calories": "328",
+        "proteins": "7,2",
+        "fats": "8,5",
+        "carbohydrates": "55,5"
+    },
+    {
+        "name": "Молоко сгущенное с сахаром 8,7% жирности",
+        "calories": "321",
+        "proteins": "7,91",
+        "fats": "8,7",
+        "carbohydrates": "54,4"
+    },
+    {
+        "name": "Молоко сгущенное с сахаром, \"Славянское\"",
+        "calories": "261",
+        "proteins": "7,4",
+        "fats": "0,2",
+        "carbohydrates": "57,1"
+    },
+    {
+        "name": "Молоко сгущенное с сахаром, обезжиренное",
+        "calories": "259",
+        "proteins": "7,5",
+        "fats": "0,2",
+        "carbohydrates": "56,8"
+    },
+    {
+        "name": "Молоко сухое 15% жирности, полуобезжиренное",
+        "calories": "432",
+        "proteins": "28,5",
+        "fats": "15",
+        "carbohydrates": "44,7"
+    },
+    {
+        "name": "Молоко сухое 25% жирности, цельное",
+        "calories": "483",
+        "proteins": "24,2",
+        "fats": "25",
+        "carbohydrates": "39,3"
+    },
+    {
+        "name": "Молоко сухое 26,7% жирности, цельное",
+        "calories": "496",
+        "proteins": "26,32",
+        "fats": "26,71",
+        "carbohydrates": "38,42"
+    },
+    {
+        "name": "Молоко сухое 26,7% жирности, цельное, с витамином D",
+        "calories": "496",
+        "proteins": "26,32",
+        "fats": "26,71",
+        "carbohydrates": "38,42"
+    },
+    {
+        "name": "Молоко сухое обезжиренное",
+        "calories": "362",
+        "proteins": "33,2",
+        "fats": "1",
+        "carbohydrates": "52,6"
+    },
+    {
+        "name": "Молоко сухое обезжиренное",
+        "calories": "362",
+        "proteins": "36,16",
+        "fats": "0,77",
+        "carbohydrates": "51,98"
+    },
+    {
+        "name": "Молоко сухое обезжиренное со сниженным содержанием кальцием",
+        "calories": "354",
+        "proteins": "35,5",
+        "fats": "0,2",
+        "carbohydrates": "51,8"
+    },
+    {
+        "name": "Молоко сухое обезжиренное, быстрорастворимое",
+        "calories": "358",
+        "proteins": "35,1",
+        "fats": "0,72",
+        "carbohydrates": "52,19"
+    },
+    {
+        "name": "Молоко сухое обезжиренное, быстрорастворимое, с витаминами A и D",
+        "calories": "358",
+        "proteins": "35,1",
+        "fats": "0,72",
+        "carbohydrates": "52,19"
+    },
+    {
+        "name": "Молоко сухое обезжиренное, с витаминами A и D",
+        "calories": "362",
+        "proteins": "36,16",
+        "fats": "0,77",
+        "carbohydrates": "51,98"
+    },
+    {
+        "name": "Молоко, сгущеное цельное, без доб. витаминов A и D, 8%, консерв.",
+        "calories": "135",
+        "proteins": "6,81",
+        "fats": "7,56",
+        "carbohydrates": "10,04"
+    },
+    {
+        "name": "Молочный батончик 1,5% жирности, сладкий",
+        "calories": "147",
+        "proteins": "4,41",
+        "fats": "1,47",
+        "carbohydrates": "25,4"
+    },
+    {
+        "name": "Молочный коктейль, густой ванильный",
+        "calories": "112",
+        "proteins": "3,86",
+        "fats": "3,03",
+        "carbohydrates": "17,75"
+    },
+    {
+        "name": "Молочный коктейль, густой шоколадный",
+        "calories": "119",
+        "proteins": "3,05",
+        "fats": "2,7",
+        "carbohydrates": "20,85"
+    },
+    {
+        "name": "Молочный напиток шоколадный 1,1% жирности с витаминами A и D",
+        "calories": "64",
+        "proteins": "3,46",
+        "fats": "1,11",
+        "carbohydrates": "10,05"
+    },
+    {
+        "name": "Молочный напиток шоколадный 1,9% жирности, с витаминами A и D",
+        "calories": "76",
+        "proteins": "2,99",
+        "fats": "1,9",
+        "carbohydrates": "11,43"
+    },
+    {
+        "name": "Молочный напиток шоколадный 1% жирности, со сниженным содержанием сахара",
+        "calories": "57",
+        "proteins": "3,43",
+        "fats": "1,04",
+        "carbohydrates": "7,68"
+    },
+    {
+        "name": "Молочный напиток шоколадный 3,4% жирности, с витаминами A и D",
+        "calories": "83",
+        "proteins": "3,17",
+        "fats": "3,39",
+        "carbohydrates": "9,54"
+    },
+    {
+        "name": "Молочный напиток шоколадный обезжиренный, с витаминами A и D",
+        "calories": "67",
+        "proteins": "3,39",
+        "fats": "0",
+        "carbohydrates": "13,46"
+    },
+    {
+        "name": "Молочный напиток шоколадный обезжиренный, с добавлением кальция",
+        "calories": "78",
+        "proteins": "2,99",
+        "fats": "1,9",
+        "carbohydrates": "11,43"
+    },
+    {
+        "name": "Мороженое в вафельном рожке покрытое шоколадом с орехами, 22% жирности",
+        "calories": "354",
+        "proteins": "5,21",
+        "fats": "21,88",
+        "carbohydrates": "33,38"
+    },
+    {
+        "name": "Мороженое в вафельном рожке с арахисом и шоколадным соусом, 9,3% жирности",
+        "calories": "265",
+        "proteins": "5,33",
+        "fats": "9,33",
+        "carbohydrates": "30,71"
+    },
+    {
+        "name": "Мороженое в шоколадной глазури с орехами, 25,8% жирности",
+        "calories": "303",
+        "proteins": "5,62",
+        "fats": "25,84",
+        "carbohydrates": "10,79"
+    },
+    {
+        "name": "Мороженое лёгкое 3% жирности, с сорбетом",
+        "calories": "165",
+        "proteins": "1,54",
+        "fats": "3,08",
+        "carbohydrates": "32,75"
+    },
+    {
+        "name": "Мороженое молочное",
+        "calories": "132",
+        "proteins": "3,7",
+        "fats": "3,5",
+        "carbohydrates": "21,3"
+    },
+    {
+        "name": "Мороженое молочное клубничное",
+        "calories": "123",
+        "proteins": "3,8",
+        "fats": "2,8",
+        "carbohydrates": "21,6"
+    },
+    {
+        "name": "Мороженое молочное крем-брюле",
+        "calories": "138",
+        "proteins": "3,7",
+        "fats": "3,5",
+        "carbohydrates": "22,9"
+    },
+    {
+        "name": "Мороженое молочное ореховое",
+        "calories": "157",
+        "proteins": "5,4",
+        "fats": "6,5",
+        "carbohydrates": "20,1"
+    },
+    {
+        "name": "Мороженое молочное с плодами и ягодами",
+        "calories": "124",
+        "proteins": "3,2",
+        "fats": "2,8",
+        "carbohydrates": "21,2"
+    },
+    {
+        "name": "Мороженое молочное с шоколадной глазурью",
+        "calories": "231",
+        "proteins": "3,2",
+        "fats": "15",
+        "carbohydrates": "20,6"
+    },
+    {
+        "name": "Мороженое молочное шоколадное",
+        "calories": "133",
+        "proteins": "3,6",
+        "fats": "3,7",
+        "carbohydrates": "21,2"
+    },
+    {
+        "name": "Мороженое мягкое,  шоколадное 13% жирности,",
+        "calories": "222",
+        "proteins": "4,1",
+        "fats": "13",
+        "carbohydrates": "21,5"
+    },
+    {
+        "name": "Мороженое мягкое, шоколадное, лёгкое 3,7% жирности",
+        "calories": "141",
+        "proteins": "3,36",
+        "fats": "3,69",
+        "carbohydrates": "23,15"
+    },
+    {
+        "name": "Мороженое на палочке с хрустящей глазурью, 25% жирности",
+        "calories": "358",
+        "proteins": "2,11",
+        "fats": "25,26",
+        "carbohydrates": "36,02"
+    },
+    {
+        "name": "Мороженое на палочке с шоколадной глазурью, 24% жирности",
+        "calories": "331",
+        "proteins": "4,1",
+        "fats": "24,1",
+        "carbohydrates": "23,7"
+    },
+    {
+        "name": "Мороженое обезжиренное без сахара",
+        "calories": "133",
+        "proteins": "4,41",
+        "fats": "0",
+        "carbohydrates": "21,46"
+    },
+    {
+        "name": "Мороженое пломбир",
+        "calories": "232",
+        "proteins": "3,7",
+        "fats": "15",
+        "carbohydrates": "20,4"
+    },
+    {
+        "name": "Мороженое пломбир в вафельном рожке",
+        "calories": "254",
+        "proteins": "3",
+        "fats": "14",
+        "carbohydrates": "27,89"
+    },
+    {
+        "name": "Мороженое пломбир в шоколадной глазури",
+        "calories": "310",
+        "proteins": "3,2",
+        "fats": "24",
+        "carbohydrates": "20,1"
+    },
+    {
+        "name": "Мороженое пломбир клубничный",
+        "calories": "206",
+        "proteins": "3,2",
+        "fats": "12",
+        "carbohydrates": "21,1"
+    },
+    {
+        "name": "Мороженое пломбир крем-брюле",
+        "calories": "240",
+        "proteins": "3,7",
+        "fats": "15",
+        "carbohydrates": "22,4"
+    },
+    {
+        "name": "Мороженое пломбир ореховый",
+        "calories": "259",
+        "proteins": "5,2",
+        "fats": "18",
+        "carbohydrates": "19,9"
+    },
+    {
+        "name": "Мороженое пломбир, шоколадный",
+        "calories": "231",
+        "proteins": "3,6",
+        "fats": "15",
+        "carbohydrates": "20,4"
+    },
+    {
+        "name": "Мороженое сливочное",
+        "calories": "183",
+        "proteins": "3,7",
+        "fats": "10",
+        "carbohydrates": "19,4"
+    },
+    {
+        "name": "Мороженое сливочное клубничное",
+        "calories": "165",
+        "proteins": "3,8",
+        "fats": "8",
+        "carbohydrates": "20,3"
+    },
+    {
+        "name": "Мороженое сливочное крем-брюле",
+        "calories": "191",
+        "proteins": "3,7",
+        "fats": "10",
+        "carbohydrates": "21,4"
+    },
+    {
+        "name": "Мороженое сливочное ореховое",
+        "calories": "210",
+        "proteins": "5,5",
+        "fats": "13",
+        "carbohydrates": "17,6"
+    },
+    {
+        "name": "Мороженое сливочное с плодами и ягодами",
+        "calories": "166",
+        "proteins": "3,2",
+        "fats": "8",
+        "carbohydrates": "20,1"
+    },
+    {
+        "name": "Мороженое сливочное с шоколадной глазурью",
+        "calories": "271",
+        "proteins": "3,2",
+        "fats": "20",
+        "carbohydrates": "19,4"
+    },
+    {
+        "name": "Мороженое сливочное шоколадное",
+        "calories": "185",
+        "proteins": "3,6",
+        "fats": "10",
+        "carbohydrates": "20"
+    },
+    {
+        "name": "Мороженое сэндвич",
+        "calories": "237",
+        "proteins": "4,29",
+        "fats": "8,57",
+        "carbohydrates": "37,14"
+    },
+    {
+        "name": "Мороженое сэндвич с печеньем",
+        "calories": "240",
+        "proteins": "3,7",
+        "fats": "7,4",
+        "carbohydrates": "38,4"
+    },
+    {
+        "name": "Мороженое сэндвич, лёгкое ванильное 3% жирности",
+        "calories": "186",
+        "proteins": "4,29",
+        "fats": "3,04",
+        "carbohydrates": "39,64"
+    },
+    {
+        "name": "Мороженое сэндвич, лёгкое ванильное 3% жирности без сахара",
+        "calories": "200",
+        "proteins": "5,71",
+        "fats": "2,86",
+        "carbohydrates": "35,76"
+    },
+    {
+        "name": "Напиток кисломолочный  2,5% жирности «Юбилейный»",
+        "calories": "53",
+        "proteins": "2,9",
+        "fats": "2,5",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Напиток кисломолочный  2,5% жирности «Юбилейный», плодово-ягодный",
+        "calories": "84",
+        "proteins": "2,6",
+        "fats": "2,5",
+        "carbohydrates": "12,2"
+    },
+    {
+        "name": "Напиток кисломолочный  2,5% жирности, «Бифидин»",
+        "calories": "61",
+        "proteins": "3,4",
+        "fats": "2,5",
+        "carbohydrates": "5,5"
+    },
+    {
+        "name": "Напиток кисломолочный «Снежок» 2,5% жирности",
+        "calories": "79",
+        "proteins": "2,7",
+        "fats": "2,5",
+        "carbohydrates": "10,8"
+    },
+    {
+        "name": "Напиток кисломолочный «Тонус» 2,5% жирности",
+        "calories": "53",
+        "proteins": "2,9",
+        "fats": "2,5",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Напиток кисломолочный 1% жирности, плодово-ягодный",
+        "calories": "71",
+        "proteins": "2,7",
+        "fats": "1",
+        "carbohydrates": "12,2"
+    },
+    {
+        "name": "Напиток кисломолочный 3,2% жирности, \"Южный\"",
+        "calories": "58",
+        "proteins": "2,8",
+        "fats": "3,2",
+        "carbohydrates": "3,9"
+    },
+    {
+        "name": "Оттопки масла, сухие",
+        "calories": "876",
+        "proteins": "0,28",
+        "fats": "99,48",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Паста ацидофильная 4,0% жирности",
+        "calories": "143",
+        "proteins": "5,5",
+        "fats": "4",
+        "carbohydrates": "20,5"
+    },
+    {
+        "name": "Паста ацидофильная, сладкая 8,0% жирности",
+        "calories": "203",
+        "proteins": "6,6",
+        "fats": "8",
+        "carbohydrates": "25,5"
+    },
+    {
+        "name": "Паста молочная, ацидофильная сладкая нежирная",
+        "calories": "81",
+        "proteins": "5,5",
+        "fats": "0,2",
+        "carbohydrates": "13,5"
+    },
+    {
+        "name": "Пахта 1% жирности",
+        "calories": "40",
+        "proteins": "3,31",
+        "fats": "1,07",
+        "carbohydrates": "4,79"
+    },
+    {
+        "name": "Пахта 1% жирности, пастеризованная",
+        "calories": "41",
+        "proteins": "3,3",
+        "fats": "1",
+        "carbohydrates": "4,7"
+    },
+    {
+        "name": "Пахта 1% жирности, сквашенная",
+        "calories": "40",
+        "proteins": "3,3",
+        "fats": "1",
+        "carbohydrates": "3,8"
+    },
+    {
+        "name": "Пахта 2% жирности",
+        "calories": "56",
+        "proteins": "4,1",
+        "fats": "2",
+        "carbohydrates": "5,3"
+    },
+    {
+        "name": "Пахта 3,3% жирности",
+        "calories": "62",
+        "proteins": "3,21",
+        "fats": "3,31",
+        "carbohydrates": "4,88"
+    },
+    {
+        "name": "Пахта сухая",
+        "calories": "387",
+        "proteins": "34,3",
+        "fats": "5,78",
+        "carbohydrates": "49"
+    },
+    {
+        "name": "Пищевая добавка для больных диабетом,  жидкая",
+        "calories": "88",
+        "proteins": "4,4",
+        "fats": "3,08",
+        "carbohydrates": "9,68"
+    },
+    {
+        "name": "Простокваша 1%",
+        "calories": "40",
+        "proteins": "3",
+        "fats": "1",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Простокваша 2,5% жирности",
+        "calories": "53",
+        "proteins": "2,9",
+        "fats": "2,5",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Простокваша 2,5% жирности, «Цитрусовая»",
+        "calories": "76",
+        "proteins": "2,6",
+        "fats": "2,5",
+        "carbohydrates": "10,1"
+    },
+    {
+        "name": "Простокваша 3,2% жирности",
+        "calories": "59",
+        "proteins": "2,9",
+        "fats": "3,2",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Простокваша 4,0% жирности «Мечниковская»",
+        "calories": "66",
+        "proteins": "2,8",
+        "fats": "4",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Простокваша обезжиренная",
+        "calories": "30",
+        "proteins": "3",
+        "fats": "0,05",
+        "carbohydrates": "3,8"
+    },
+    {
+        "name": "Простокваша цитрусовая 1%",
+        "calories": "63",
+        "proteins": "2,7",
+        "fats": "1",
+        "carbohydrates": "10,1"
+    },
+    {
+        "name": "Пудинг из творога 9%-ного, по 1-334",
+        "calories": "224",
+        "proteins": "13,9",
+        "fats": "9,6",
+        "carbohydrates": "20,1"
+    },
+    {
+        "name": "Ряженка 2,5% жирности",
+        "calories": "54",
+        "proteins": "2,9",
+        "fats": "2,5",
+        "carbohydrates": "4,2"
+    },
+    {
+        "name": "Ряженка 4,0% жирности",
+        "calories": "67",
+        "proteins": "2,8",
+        "fats": "4",
+        "carbohydrates": "4,2"
+    },
+    {
+        "name": "Ряженка 6,0% жирности",
+        "calories": "85",
+        "proteins": "3",
+        "fats": "6",
+        "carbohydrates": "4,1"
+    },
+    {
+        "name": "Ряженка, 1%",
+        "calories": "40",
+        "proteins": "3",
+        "fats": "1",
+        "carbohydrates": "4,2"
+    },
+    {
+        "name": "Сливки 1,4% жирности, с молоком",
+        "calories": "59",
+        "proteins": "2,6",
+        "fats": "1,4",
+        "carbohydrates": "9"
+    },
+    {
+        "name": "Сливки 10% жирности, пастеризованные",
+        "calories": "119",
+        "proteins": "2,7",
+        "fats": "10",
+        "carbohydrates": "4,5"
+    },
+    {
+        "name": "Сливки 10% жирности. стерилизованные",
+        "calories": "119",
+        "proteins": "2,7",
+        "fats": "10",
+        "carbohydrates": "4,4"
+    },
+    {
+        "name": "Сливки 11,5% жирности, с молоком",
+        "calories": "131",
+        "proteins": "3,13",
+        "fats": "11,5",
+        "carbohydrates": "4,3"
+    },
+    {
+        "name": "Сливки 19% жирности",
+        "calories": "195",
+        "proteins": "2,96",
+        "fats": "19,1",
+        "carbohydrates": "3,66"
+    },
+    {
+        "name": "Сливки 20% жирности, пастеризованные",
+        "calories": "207",
+        "proteins": "2,5",
+        "fats": "20",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Сливки 25% жирности, стерилизованные",
+        "calories": "251",
+        "proteins": "2,4",
+        "fats": "25",
+        "carbohydrates": "3,9"
+    },
+    {
+        "name": "Сливки 31% жирности",
+        "calories": "292",
+        "proteins": "2,17",
+        "fats": "30,91",
+        "carbohydrates": "2,96"
+    },
+    {
+        "name": "Сливки 35% жирности, пастеризованные",
+        "calories": "337",
+        "proteins": "2,2",
+        "fats": "35",
+        "carbohydrates": "3,2"
+    },
+    {
+        "name": "Сливки 36% жирности",
+        "calories": "340",
+        "proteins": "2,84",
+        "fats": "36,08",
+        "carbohydrates": "2,84"
+    },
+    {
+        "name": "Сливки 5% жирности, с молоком",
+        "calories": "72",
+        "proteins": "3,33",
+        "fats": "5",
+        "carbohydrates": "3,33"
+    },
+    {
+        "name": "Сливки 8% жирности, пастеризованные",
+        "calories": "102",
+        "proteins": "2,8",
+        "fats": "8",
+        "carbohydrates": "4,5"
+    },
+    {
+        "name": "Сливки взбитые 13% жирности, замороженные",
+        "calories": "224",
+        "proteins": "3",
+        "fats": "13,1",
+        "carbohydrates": "23,6"
+    },
+    {
+        "name": "Сливки взбитые 22% жирности в аэрозольном балончике",
+        "calories": "257",
+        "proteins": "3,2",
+        "fats": "22,22",
+        "carbohydrates": "12,49"
+    },
+    {
+        "name": "Сливки взбитые 27% жирности,  плодово-ягодные",
+        "calories": "344",
+        "proteins": "2,8",
+        "fats": "27",
+        "carbohydrates": "23,6"
+    },
+    {
+        "name": "Сливки взбитые 27% жирности, шоколадные",
+        "calories": "337",
+        "proteins": "2,8",
+        "fats": "27",
+        "carbohydrates": "21,6"
+    },
+    {
+        "name": "Сливки взбитые 28% жирности, ванильные",
+        "calories": "346",
+        "proteins": "2,8",
+        "fats": "28",
+        "carbohydrates": "21,6"
+    },
+    {
+        "name": "Сливки взбитые обезжиренные 5% жирности Reddi Wip",
+        "calories": "149",
+        "proteins": "3",
+        "fats": "5",
+        "carbohydrates": "24,6"
+    },
+    {
+        "name": "Сливки сгущенные с сахаром, 19% жирности",
+        "calories": "392",
+        "proteins": "8",
+        "fats": "19",
+        "carbohydrates": "47"
+    },
+    {
+        "name": "Сливки сухие 42,0% жирности",
+        "calories": "577",
+        "proteins": "19",
+        "fats": "42",
+        "carbohydrates": "30,2"
+    },
+    {
+        "name": "Сметана 10,6% жирности",
+        "calories": "136",
+        "proteins": "3,5",
+        "fats": "10,6",
+        "carbohydrates": "7,1"
+    },
+    {
+        "name": "Сметана 10% жирности",
+        "calories": "119",
+        "proteins": "2,7",
+        "fats": "10",
+        "carbohydrates": "3,9"
+    },
+    {
+        "name": "Сметана 10% жирности «Домашняя»",
+        "calories": "130",
+        "proteins": "3,8",
+        "fats": "10",
+        "carbohydrates": "5,6"
+    },
+    {
+        "name": "Сметана 12% жирности",
+        "calories": "135",
+        "proteins": "2,94",
+        "fats": "12",
+        "carbohydrates": "4,26"
+    },
+    {
+        "name": "Сметана 12% жирности KRAFT BREAKSTONE'S",
+        "calories": "152",
+        "proteins": "4,5",
+        "fats": "12",
+        "carbohydrates": "6,4"
+    },
+    {
+        "name": "Сметана 14,1% жирности",
+        "calories": "181",
+        "proteins": "7",
+        "fats": "14,1",
+        "carbohydrates": "7"
+    },
+    {
+        "name": "Сметана 15% жирности",
+        "calories": "162",
+        "proteins": "2,6",
+        "fats": "15",
+        "carbohydrates": "3,6"
+    },
+    {
+        "name": "Сметана 19,35% жирности",
+        "calories": "198",
+        "proteins": "2,44",
+        "fats": "19,35",
+        "carbohydrates": "4,63"
+    },
+    {
+        "name": "Сметана 20% жирности",
+        "calories": "206",
+        "proteins": "2,5",
+        "fats": "20",
+        "carbohydrates": "3,4"
+    },
+    {
+        "name": "Сметана 25% жирности",
+        "calories": "250",
+        "proteins": "2,4",
+        "fats": "25",
+        "carbohydrates": "3,2"
+    },
+    {
+        "name": "Сметана 30% жирности",
+        "calories": "293",
+        "proteins": "2,3",
+        "fats": "30",
+        "carbohydrates": "3,1"
+    },
+    {
+        "name": "Сметана 36% жирности",
+        "calories": "346",
+        "proteins": "2,4",
+        "fats": "36",
+        "carbohydrates": "2,6"
+    },
+    {
+        "name": "Сметана 40% жирности",
+        "calories": "381",
+        "proteins": "2,4",
+        "fats": "40",
+        "carbohydrates": "2,6"
+    },
+    {
+        "name": "Сметана обезжиренная",
+        "calories": "74",
+        "proteins": "3,1",
+        "fats": "0",
+        "carbohydrates": "15,6"
+    },
+    {
+        "name": "Сулугуни, м.д.ж. 46% в сух. в-ве",
+        "calories": "286",
+        "proteins": "20,5",
+        "fats": "22",
+        "carbohydrates": "0,4"
+    },
+    {
+        "name": "Сыворотка кислая",
+        "calories": "24",
+        "proteins": "0,76",
+        "fats": "0,09",
+        "carbohydrates": "5,12"
+    },
+    {
+        "name": "Сыворотка кислая, сухая",
+        "calories": "339",
+        "proteins": "11,73",
+        "fats": "0,54",
+        "carbohydrates": "73,45"
+    },
+    {
+        "name": "Сыворотка подсырная",
+        "calories": "21",
+        "proteins": "1",
+        "fats": "0,1",
+        "carbohydrates": "4"
+    },
+    {
+        "name": "Сыворотка сладкая",
+        "calories": "27",
+        "proteins": "0,85",
+        "fats": "0,36",
+        "carbohydrates": "5,14"
+    },
+    {
+        "name": "Сыворотка сладкая, сухая",
+        "calories": "353",
+        "proteins": "12,93",
+        "fats": "1,07",
+        "carbohydrates": "74,46"
+    },
+    {
+        "name": "Сыворотка творожная",
+        "calories": "20",
+        "proteins": "0,8",
+        "fats": "0,2",
+        "carbohydrates": "3,5"
+    },
+    {
+        "name": "Сыр адыгейский, м.д.ж. 45% в сух. в-ве",
+        "calories": "264",
+        "proteins": "19,8",
+        "fats": "19,8",
+        "carbohydrates": "1,5"
+    },
+    {
+        "name": "Сыр американский, обезжиренный",
+        "calories": "126",
+        "proteins": "21,05",
+        "fats": "0",
+        "carbohydrates": "10,53"
+    },
+    {
+        "name": "Сыр бийский, м.д.ж. 50% в сух. в-ве",
+        "calories": "371",
+        "proteins": "24,2",
+        "fats": "29,9",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр бри, м.д.ж. 54% в сух. в-ве",
+        "calories": "334",
+        "proteins": "20,75",
+        "fats": "27,68",
+        "carbohydrates": "0,45"
+    },
+    {
+        "name": "Сыр брик дю Форез, французский мягкий белый сыр, м.д.ж. 50% в сух. в-ве",
+        "calories": "371",
+        "proteins": "23,24",
+        "fats": "29,68",
+        "carbohydrates": "2,79"
+    },
+    {
+        "name": "Сыр выруский, м.д.ж. 30% в сух. в-ве",
+        "calories": "258",
+        "proteins": "29",
+        "fats": "15",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр гауда, твёрдый голландский сыр, м.д.ж. 47% в сух. в-ве",
+        "calories": "356",
+        "proteins": "24,94",
+        "fats": "27,44",
+        "carbohydrates": "2,22"
+    },
+    {
+        "name": "Сыр гейтуст, норвежский полутвёрдый коричневый сыр, м.д.ж. 34% в сух. в-ве",
+        "calories": "466",
+        "proteins": "9,65",
+        "fats": "29,51",
+        "carbohydrates": "42,65"
+    },
+    {
+        "name": "Сыр голландский, брусковый, м.д.ж. 45% в сух. в-ве",
+        "calories": "350",
+        "proteins": "26,3",
+        "fats": "26,6",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр голландский, круглый, м.д.ж. 50% в сух. в-ве",
+        "calories": "375",
+        "proteins": "23,7",
+        "fats": "30,4",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр голубой с плесенью, м.д.ж. 50% в сух. в-ве",
+        "calories": "353",
+        "proteins": "21,4",
+        "fats": "28,74",
+        "carbohydrates": "2,34"
+    },
+    {
+        "name": "Сыр грюйер, швейцарский твёрдый жёлтый сыр, м.д.ж. 48% в сух. в-ве",
+        "calories": "413",
+        "proteins": "29,81",
+        "fats": "32,34",
+        "carbohydrates": "0,36"
+    },
+    {
+        "name": "Сыр жемайчу, м.д.ж. 34% в сух. в-ве",
+        "calories": "262",
+        "proteins": "26",
+        "fats": "16,7",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр земгальский, м.д.ж. 50% в сух. в-ве",
+        "calories": "309",
+        "proteins": "19",
+        "fats": "25",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр и творог домашний 4% жирности, несолёный, м.д.ж. 16% в сух. в-ве",
+        "calories": "113",
+        "proteins": "17",
+        "fats": "4",
+        "carbohydrates": "1,5"
+    },
+    {
+        "name": "Сыр и творог домашний нежирный, несолёный, м.д.ж. 3% в сух. в-ве",
+        "calories": "86",
+        "proteins": "18",
+        "fats": "0,6",
+        "carbohydrates": "1,5"
+    },
+    {
+        "name": "Сыр из козьего молока мягкий, м.д.ж. 54% в сух. в-ве",
+        "calories": "264",
+        "proteins": "18,52",
+        "fats": "21,08",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр из козьего молока полутвердый, м.д.ж. 55% в сух. в-ве",
+        "calories": "364",
+        "proteins": "21,58",
+        "fats": "29,84",
+        "carbohydrates": "0,12"
+    },
+    {
+        "name": "Сыр из козьего молока твердый, м.д.ж. 50% в сух. в-ве",
+        "calories": "452",
+        "proteins": "30,52",
+        "fats": "35,59",
+        "carbohydrates": "2,17"
+    },
+    {
+        "name": "Сыр камамбер, м.д.ж. 50% в сух. в-ве",
+        "calories": "300",
+        "proteins": "19,8",
+        "fats": "24,26",
+        "carbohydrates": "0,46"
+    },
+    {
+        "name": "Сыр камамбер, м.д.ж. 60% в сух. в-ве",
+        "calories": "324",
+        "proteins": "15,3",
+        "fats": "28,8",
+        "carbohydrates": "0,1"
+    },
+    {
+        "name": "Сыр каунасский, м.д.ж. 30% в сух. в-ве",
+        "calories": "253",
+        "proteins": "28,3",
+        "fats": "14,7",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр Кесо Бланко, мягкий белый сыр, м.д.ж. 47% в сух. в-ве",
+        "calories": "310",
+        "proteins": "20,38",
+        "fats": "24,31",
+        "carbohydrates": "2,53"
+    },
+    {
+        "name": "Сыр Кесо Котиха, мексиканский твёрдый сыр, м.д.ж. 48% в сух. в-ве",
+        "calories": "366",
+        "proteins": "20",
+        "fats": "30",
+        "carbohydrates": "3,97"
+    },
+    {
+        "name": "Сыр Кесо Секо, мягкий белый сыр, отжатый, м.д.ж. 42% в сух. в-ве",
+        "calories": "325",
+        "proteins": "24,51",
+        "fats": "24,35",
+        "carbohydrates": "2,04"
+    },
+    {
+        "name": "Сыр Кесо Фреско, мягкий белый сыр, свежий, м.д.ж. 49% в сух. в-ве",
+        "calories": "299",
+        "proteins": "18,09",
+        "fats": "23,82",
+        "carbohydrates": "2,98"
+    },
+    {
+        "name": "Сыр колби, м.д.ж. 52% в сух. в-ве",
+        "calories": "394",
+        "proteins": "23,76",
+        "fats": "32,11",
+        "carbohydrates": "2,57"
+    },
+    {
+        "name": "Сыр костромской, м.д.ж. 45% в сух. в-ве",
+        "calories": "343",
+        "proteins": "25,6",
+        "fats": "26,1",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр латвийский, м.д.ж. 45% в сух. в-ве",
+        "calories": "316",
+        "proteins": "23,3",
+        "fats": "24,1",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр лимбургер, мягкий бельгийский сыр, м.д.ж. 53% в сух. в-ве",
+        "calories": "327",
+        "proteins": "20,05",
+        "fats": "27,25",
+        "carbohydrates": "0,49"
+    },
+    {
+        "name": "Сыр литовский, м.д.ж. 30% в сух. в-ве",
+        "calories": "250",
+        "proteins": "27,9",
+        "fats": "14,7",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр мексиканский, кесо анежо, м.д.ж. 48% в сух. в-ве",
+        "calories": "373",
+        "proteins": "21,44",
+        "fats": "29,98",
+        "carbohydrates": "4,63"
+    },
+    {
+        "name": "Сыр мексиканский, кесо асадеро, м.д.ж. 45% в сух. в-ве",
+        "calories": "356",
+        "proteins": "22,6",
+        "fats": "25",
+        "carbohydrates": "4,13"
+    },
+    {
+        "name": "Сыр мексиканский, кесо чихуа-хуа, м.д.ж. 49% в сух. в-ве",
+        "calories": "374",
+        "proteins": "21,56",
+        "fats": "29,68",
+        "carbohydrates": "5,56"
+    },
+    {
+        "name": "Сыр мексиканский, м.д.ж. 37% в сух. в-ве",
+        "calories": "282",
+        "proteins": "24,69",
+        "fats": "19,4",
+        "carbohydrates": "3,41"
+    },
+    {
+        "name": "Сыр мексиканский, м.д.ж. 54% в сух. в-ве",
+        "calories": "384",
+        "proteins": "23,54",
+        "fats": "32,14",
+        "carbohydrates": "0,13"
+    },
+    {
+        "name": "Сыр монтерей, м.д.ж. 40% в сух. в-ве",
+        "calories": "313",
+        "proteins": "28,2",
+        "fats": "21,6",
+        "carbohydrates": "0,7"
+    },
+    {
+        "name": "Сыр монтерей, м.д.ж. 51% в сух. в-ве",
+        "calories": "373",
+        "proteins": "24,48",
+        "fats": "30,28",
+        "carbohydrates": "0,68"
+    },
+    {
+        "name": "Сыр моцарелла, м.д.ж. 34% в сух. в-ве",
+        "calories": "254",
+        "proteins": "24,26",
+        "fats": "15,92",
+        "carbohydrates": "2,77"
+    },
+    {
+        "name": "Сыр моцарелла, м.д.ж. 44% в сух. в-ве",
+        "calories": "299",
+        "proteins": "22,17",
+        "fats": "22,14",
+        "carbohydrates": "2,4"
+    },
+    {
+        "name": "Сыр моцарелла, низкой влажности, м.д.ж. 37% в сух. в-ве",
+        "calories": "295",
+        "proteins": "23,75",
+        "fats": "19,78",
+        "carbohydrates": "5,58"
+    },
+    {
+        "name": "Сыр моцарелла, низкой влажности, м.д.ж. 48% в сух. в-ве",
+        "calories": "318",
+        "proteins": "21,6",
+        "fats": "24,64",
+        "carbohydrates": "2,47"
+    },
+    {
+        "name": "Сыр моцарелла, низкой влажности, тёртый, м.д.ж. 36% в сух. в-ве",
+        "calories": "304",
+        "proteins": "23,63",
+        "fats": "19,72",
+        "carbohydrates": "8,06"
+    },
+    {
+        "name": "Сыр моцарелла, обезжиренный",
+        "calories": "141",
+        "proteins": "31,7",
+        "fats": "0",
+        "carbohydrates": "1,7"
+    },
+    {
+        "name": "Сыр моцарелла, с низким содержанием соли, м.д.ж. 34% в сух. в-ве",
+        "calories": "280",
+        "proteins": "27,5",
+        "fats": "17,1",
+        "carbohydrates": "3,1"
+    },
+    {
+        "name": "Сыр мюнстер, м.д.ж. 36% в сух. в-ве",
+        "calories": "271",
+        "proteins": "24,7",
+        "fats": "17,6",
+        "carbohydrates": "3,5"
+    },
+    {
+        "name": "Сыр мюнстер, м.д.ж. 52% в сух. в-ве",
+        "calories": "368",
+        "proteins": "23,41",
+        "fats": "30,04",
+        "carbohydrates": "1,12"
+    },
+    {
+        "name": "Сыр нешатель, м.д.ж. 62% в сух. в-ве",
+        "calories": "253",
+        "proteins": "9,15",
+        "fats": "22,78",
+        "carbohydrates": "3,59"
+    },
+    {
+        "name": "Сыр нямунас, м.д.ж. 50% в сух. в-ве",
+        "calories": "334",
+        "proteins": "21",
+        "fats": "27",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр пармезан, 20% жира, 20% белка, крошеный, м.д.ж. 40% в сух. в-ве",
+        "calories": "265",
+        "proteins": "20",
+        "fats": "20",
+        "carbohydrates": "1,37"
+    },
+    {
+        "name": "Сыр пармезан, 28,4% белка, крошеный, м.д.ж. 36% в сух. в-ве",
+        "calories": "420",
+        "proteins": "28,42",
+        "fats": "27,84",
+        "carbohydrates": "13,91"
+    },
+    {
+        "name": "Сыр пармезан, 36% белка, твердый, м.д.ж. 36% в сух. в-ве",
+        "calories": "392",
+        "proteins": "35,75",
+        "fats": "25",
+        "carbohydrates": "3,22"
+    },
+    {
+        "name": "Сыр пармезан, 38% белка, тертый, м.д.ж. 36% в сух. в-ве",
+        "calories": "415",
+        "proteins": "37,86",
+        "fats": "27,34",
+        "carbohydrates": "3,41"
+    },
+    {
+        "name": "Сыр пармезан, 41,6% белка, с низким содержанием соли, м.д.ж. 39% в сух. в-ве",
+        "calories": "451",
+        "proteins": "41,6",
+        "fats": "29,99",
+        "carbohydrates": "3,7"
+    },
+    {
+        "name": "Сыр пармезан, крошка для посыпки, обезжиренный, м.д.ж. 5% в сух. в-ве",
+        "calories": "370",
+        "proteins": "40",
+        "fats": "5",
+        "carbohydrates": "40"
+    },
+    {
+        "name": "Сыр пименто, острый плавленный сыр с перцем, м.д.ж. 51% в сух. в-ве",
+        "calories": "375",
+        "proteins": "22,13",
+        "fats": "31,2",
+        "carbohydrates": "1,63"
+    },
+    {
+        "name": "Сыр плавленный (мягкий спред) 22% жирности KRAFT VELVEETA, м.д.ж. 41% в сух. в-ве",
+        "calories": "303",
+        "proteins": "16,3",
+        "fats": "22",
+        "carbohydrates": "9,8"
+    },
+    {
+        "name": "Сыр плавленный (мягкий спред) американский, 21,2% жирности, м.д.ж. 41% в сух. в-ве",
+        "calories": "290",
+        "proteins": "16,41",
+        "fats": "21,23",
+        "carbohydrates": "8,73"
+    },
+    {
+        "name": "Сыр плавленный американский 31% жирности, с витамином D, м.д.ж. 51% в сух. в-ве",
+        "calories": "366",
+        "proteins": "18,13",
+        "fats": "30,71",
+        "carbohydrates": "4,78"
+    },
+    {
+        "name": "Сыр плавленный американский 32% жирности, м.д.ж. 53% в сух. в-ве",
+        "calories": "371",
+        "proteins": "18,13",
+        "fats": "31,79",
+        "carbohydrates": "3,7"
+    },
+    {
+        "name": "Сыр плавленный американский 7% жирности, м.д.ж. 17% в сух. в-ве",
+        "calories": "180",
+        "proteins": "24,6",
+        "fats": "7",
+        "carbohydrates": "3,5"
+    },
+    {
+        "name": "Сыр плавленный американский или чеддер, полужирный, 9% жирности, м.д.ж. 23% в сух. в-ве",
+        "calories": "176",
+        "proteins": "13,41",
+        "fats": "8,88",
+        "carbohydrates": "10,71"
+    },
+    {
+        "name": "Сыр плавленный сливочный (спред), 28,6% жирности, м.д.ж. 69% в сух. в-ве",
+        "calories": "295",
+        "proteins": "7,1",
+        "fats": "28,6",
+        "carbohydrates": "3,5"
+    },
+    {
+        "name": "Сыр плавленный чеддер или американский, с пониженным содержанием соли, м.д.ж. 55% в сух. в-ве",
+        "calories": "376",
+        "proteins": "22,2",
+        "fats": "31,19",
+        "carbohydrates": "1,6"
+    },
+    {
+        "name": "Сыр плавленный швейцарский 25% жирности, пастеризированный, м.д.ж. 43% в сух. в-ве",
+        "calories": "334",
+        "proteins": "24,73",
+        "fats": "25,01",
+        "carbohydrates": "2,1"
+    },
+    {
+        "name": "Сыр плавленый \"белоснежка\", м.д.ж. 50% в сух. в-ве",
+        "calories": "258",
+        "proteins": "15,3",
+        "fats": "21",
+        "carbohydrates": "2"
+    },
+    {
+        "name": "Сыр плавленый \"золушка\", м.д.ж. 20% в сух. в-ве",
+        "calories": "254",
+        "proteins": "15,2",
+        "fats": "10,8",
+        "carbohydrates": "23,8"
+    },
+    {
+        "name": "Сыр плавленый \"медовый\", м.д.ж. 30% в сух. в-ве",
+        "calories": "291",
+        "proteins": "6,1",
+        "fats": "16,5",
+        "carbohydrates": "29,4"
+    },
+    {
+        "name": "Сыр плавленый \"мятный\", м.д.ж. 30% в сух. в-ве",
+        "calories": "335",
+        "proteins": "7,9",
+        "fats": "19,1",
+        "carbohydrates": "32,7"
+    },
+    {
+        "name": "Сыр плавленый \"сказка\", м.д.ж. 30% в сух. в-ве",
+        "calories": "316",
+        "proteins": "12,2",
+        "fats": "18",
+        "carbohydrates": "26,1"
+    },
+    {
+        "name": "Сыр плавленый \"сластена\", м.д.ж. 20% в сух. в-ве",
+        "calories": "269",
+        "proteins": "13",
+        "fats": "11,4",
+        "carbohydrates": "28,4"
+    },
+    {
+        "name": "Сыр плавленый \"чебурашка\", м.д.ж. 50% в сух. в-ве",
+        "calories": "309",
+        "proteins": "10,7",
+        "fats": "25",
+        "carbohydrates": "10,7"
+    },
+    {
+        "name": "Сыр плавленый, колбасный копченый, м.д.ж. 40% в сух. в-ве",
+        "calories": "275",
+        "proteins": "21,2",
+        "fats": "19,4",
+        "carbohydrates": "3,7"
+    },
+    {
+        "name": "Сыр плавленый, костромской, м.д.ж. 40% в сух. в-ве",
+        "calories": "269",
+        "proteins": "21,4",
+        "fats": "19,2",
+        "carbohydrates": "2,3"
+    },
+    {
+        "name": "Сыр плавленый, латвийский, м.д.ж. 40% в сух. в-ве",
+        "calories": "271",
+        "proteins": "20,5",
+        "fats": "20",
+        "carbohydrates": "2,5"
+    },
+    {
+        "name": "Сыр плавленый, российский, м.д.ж. 45% в сух. в-ве",
+        "calories": "300",
+        "proteins": "20,5",
+        "fats": "23",
+        "carbohydrates": "2,5"
+    },
+    {
+        "name": "Сыр плавленый, советский, м.д.ж. 44% в сух. в-ве",
+        "calories": "302",
+        "proteins": "23",
+        "fats": "22,5",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр пор-салю, французский неварёно-прессованный сыр, м.д.ж. 52% в сух. в-ве",
+        "calories": "352",
+        "proteins": "23,78",
+        "fats": "28,2",
+        "carbohydrates": "0,57"
+    },
+    {
+        "name": "Сыр пошехонский, м.д.ж. 45% в сух. в-ве",
+        "calories": "344",
+        "proteins": "26",
+        "fats": "26,1",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр прибалтийский, м.д.ж. 20% в сух. в-ве",
+        "calories": "207",
+        "proteins": "29,8",
+        "fats": "9",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр проволоне, м.д.ж. 36% в сух. в-ве",
+        "calories": "274",
+        "proteins": "24,7",
+        "fats": "17,6",
+        "carbohydrates": "3,5"
+    },
+    {
+        "name": "Сыр проволоне, м.д.ж. 45% в сух. в-ве",
+        "calories": "351",
+        "proteins": "25,58",
+        "fats": "26,62",
+        "carbohydrates": "2,14"
+    },
+    {
+        "name": "Сыр рикотта 10,2% жирности, из цельного молока, м.д.ж. 39% в сух. в-ве",
+        "calories": "150",
+        "proteins": "7,54",
+        "fats": "10,18",
+        "carbohydrates": "7,27"
+    },
+    {
+        "name": "Сыр рикотта 7,9% жирности, из частично обезжиренного молока, м.д.ж. 31% в сух. в-ве",
+        "calories": "138",
+        "proteins": "11,39",
+        "fats": "7,91",
+        "carbohydrates": "5,14"
+    },
+    {
+        "name": "Сыр рокфор 27,5% жирности, м.д.ж. 50% в сух. в-ве",
+        "calories": "335",
+        "proteins": "20,5",
+        "fats": "27,5",
+        "carbohydrates": "2"
+    },
+    {
+        "name": "Сыр рокфор 30,6% жирности, м.д.ж. 51% в сух. в-ве",
+        "calories": "369",
+        "proteins": "21,54",
+        "fats": "30,64",
+        "carbohydrates": "2"
+    },
+    {
+        "name": "Сыр романо, твердый итальянский сыр из овечьего молока, м.д.ж. 39% в сух. в-ве",
+        "calories": "387",
+        "proteins": "31,8",
+        "fats": "26,94",
+        "carbohydrates": "3,63"
+    },
+    {
+        "name": "Сыр российский, м.д.ж. 50% в сух. в-ве",
+        "calories": "364",
+        "proteins": "23,2",
+        "fats": "29,5",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр салдусский, м.д.ж. 20% в сух. в-ве",
+        "calories": "208",
+        "proteins": "30",
+        "fats": "9",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр сливочный 16,8% жирности, м.д.ж. 50% в сух. в-ве",
+        "calories": "208",
+        "proteins": "7,85",
+        "fats": "16,67",
+        "carbohydrates": "6,73"
+    },
+    {
+        "name": "Сыр сливочный 34,4% жирности, м.д.ж. 73% в сух. в-ве",
+        "calories": "350",
+        "proteins": "6,15",
+        "fats": "34,44",
+        "carbohydrates": "5,52"
+    },
+    {
+        "name": "Сыр сливочный, обезжиренный, м.д.ж. 4% в сух. в-ве",
+        "calories": "105",
+        "proteins": "15,69",
+        "fats": "1",
+        "carbohydrates": "7,66"
+    },
+    {
+        "name": "Сыр советский, м.д.ж. 50% в сух. в-ве",
+        "calories": "385",
+        "proteins": "24,4",
+        "fats": "31,1",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр сусанинский, м.д.ж. 46% в сух. в-ве",
+        "calories": "315",
+        "proteins": "23,8",
+        "fats": "23,9",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр тартуский, м.д.ж. 29% в сух. в-ве",
+        "calories": "268",
+        "proteins": "31",
+        "fats": "15,2",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр тильзитер, м.д.ж. 45% в сух. в-ве",
+        "calories": "340",
+        "proteins": "24,41",
+        "fats": "25,98",
+        "carbohydrates": "1,88"
+    },
+    {
+        "name": "Сыр тминнный, латышский сыр с тмином, м.д.ж. 48% в сух. в-ве",
+        "calories": "376",
+        "proteins": "25,18",
+        "fats": "29,2",
+        "carbohydrates": "3,06"
+    },
+    {
+        "name": "Сыр угличский, м.д.ж. 45% в сух. в-ве",
+        "calories": "347",
+        "proteins": "25,8",
+        "fats": "26,3",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр фета, м.д.ж. 48% в сух. в-ве",
+        "calories": "265",
+        "proteins": "14,21",
+        "fats": "21,49",
+        "carbohydrates": "3,88"
+    },
+    {
+        "name": "Сыр фонтина, итальянский полутвёрдый сыр, м.д.ж. 50% в сух. в-ве",
+        "calories": "389",
+        "proteins": "25,6",
+        "fats": "31,14",
+        "carbohydrates": "1,55"
+    },
+    {
+        "name": "Сыр чеддер 20,4% жирности, м.д.ж. 37% в сух. в-ве",
+        "calories": "316",
+        "proteins": "27,35",
+        "fats": "20,41",
+        "carbohydrates": "2,67"
+    },
+    {
+        "name": "Сыр чеддер 31% жирности, м.д.ж. 50% в сух. в-ве",
+        "calories": "380",
+        "proteins": "23,5",
+        "fats": "30,8",
+        "carbohydrates": "3,37"
+    },
+    {
+        "name": "Сыр чеддер 33,3% жирности, м.д.ж. 53% в сух. в-ве",
+        "calories": "403",
+        "proteins": "22,87",
+        "fats": "33,31",
+        "carbohydrates": "3,37"
+    },
+    {
+        "name": "Сыр чеддер или колби 8% жирности , м.д.ж. 19% в сух. в-ве",
+        "calories": "173",
+        "proteins": "24,35",
+        "fats": "7",
+        "carbohydrates": "1,91"
+    },
+    {
+        "name": "Сыр чеддер или колби, с низким содержанием соли, м.д.ж. 53% в сух. в-ве",
+        "calories": "398",
+        "proteins": "24,35",
+        "fats": "32,62",
+        "carbohydrates": "1,91"
+    },
+    {
+        "name": "Сыр чеддер обезжиренный",
+        "calories": "157",
+        "proteins": "32,14",
+        "fats": "0",
+        "carbohydrates": "7,14"
+    },
+    {
+        "name": "Сыр чеддер острый, порезанный на ломтики, м.д.ж. 53% в сух. в-ве",
+        "calories": "410",
+        "proteins": "24,25",
+        "fats": "33,82",
+        "carbohydrates": "2,13"
+    },
+    {
+        "name": "Сыр чешир, твердый английский сыр, м.д.ж. 49% в сух. в-ве",
+        "calories": "387",
+        "proteins": "23,37",
+        "fats": "30,6",
+        "carbohydrates": "4,78"
+    },
+    {
+        "name": "Сыр швейцарский 31% жирности, м.д.ж. 50% в сух. в-ве",
+        "calories": "393",
+        "proteins": "26,96",
+        "fats": "30,99",
+        "carbohydrates": "1,44"
+    },
+    {
+        "name": "Сыр швейцарский 5% жирности, м.д.ж. 13% в сух. в-ве",
+        "calories": "179",
+        "proteins": "28,4",
+        "fats": "5,1",
+        "carbohydrates": "3,4"
+    },
+    {
+        "name": "Сыр швейцарский обезжиренный",
+        "calories": "127",
+        "proteins": "28,4",
+        "fats": "0",
+        "carbohydrates": "3,4"
+    },
+    {
+        "name": "Сыр швейцарский, м.д.ж. 50% в сух. в-ве",
+        "calories": "391",
+        "proteins": "24,6",
+        "fats": "31,6",
+        "carbohydrates": "1,44"
+    },
+    {
+        "name": "Сыр швейцарский, с низким содержанием соли, м.д.ж. 44% в сух. в-ве",
+        "calories": "374",
+        "proteins": "28,4",
+        "fats": "27,4",
+        "carbohydrates": "3,4"
+    },
+    {
+        "name": "Сыр шетский, м.д.ж. 30% в сух. в-ве",
+        "calories": "246",
+        "proteins": "27,3",
+        "fats": "14,4",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр эдам, м.д.ж. 48% в сух. в-ве",
+        "calories": "357",
+        "proteins": "24,99",
+        "fats": "28,57",
+        "carbohydrates": "1,43"
+    },
+    {
+        "name": "Сыр эмментальский, м.д.ж. 44% в сух. в-ве",
+        "calories": "373",
+        "proteins": "28,2",
+        "fats": "28",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр эстонский, м.д.ж. 45% в сух. в-ве",
+        "calories": "350",
+        "proteins": "26",
+        "fats": "26,4",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр ярославский, м.д.ж. 45% в сух. в-ве",
+        "calories": "350",
+        "proteins": "26,2",
+        "fats": "26,6",
+        "carbohydrates": "0"
+    },
+    {
+        "name": "Сыр, чеддар, с низким содержанием жира",
+        "calories": "282",
+        "proteins": "27,2",
+        "fats": "18,3",
+        "carbohydrates": "2"
+    },
+    {
+        "name": "Сырники, из творога (творог нежирный), по 1-330",
+        "calories": "183",
+        "proteins": "18,6",
+        "fats": "3,6",
+        "carbohydrates": "18,2"
+    },
+    {
+        "name": "Сырники, с морковью, по 1-332",
+        "calories": "232",
+        "proteins": "12,9",
+        "fats": "11,5",
+        "carbohydrates": "18,8"
+    },
+    {
+        "name": "Сырное фондю",
+        "calories": "229",
+        "proteins": "14,23",
+        "fats": "13,47",
+        "carbohydrates": "3,77"
+    },
+    {
+        "name": "Сырные изделия, заменитель",
+        "calories": "257",
+        "proteins": "4,08",
+        "fats": "19,5",
+        "carbohydrates": "16,18"
+    },
+    {
+        "name": "Сырные изделия, консервированные путем пастеризациИ",
+        "calories": "331",
+        "proteins": "19,66",
+        "fats": "24,46",
+        "carbohydrates": "8,32"
+    },
+    {
+        "name": "Сырные изделия, пастеризиованные, чеддер или американский, обезжиренные",
+        "calories": "240",
+        "proteins": "17,6",
+        "fats": "14,1",
+        "carbohydrates": "10,6"
+    },
+    {
+        "name": "Сырные изделия, пастеризованные, американскик, не содержщий двунатриевого фосфата",
+        "calories": "330",
+        "proteins": "16,86",
+        "fats": "25,63",
+        "carbohydrates": "8,56"
+    },
+    {
+        "name": "Сырный продукт, сыр плавленный швейцарский",
+        "calories": "323",
+        "proteins": "21,92",
+        "fats": "24,14",
+        "carbohydrates": "4,5"
+    },
+    {
+        "name": "Сырный соус",
+        "calories": "197",
+        "proteins": "10,33",
+        "fats": "14,92",
+        "carbohydrates": "5,38"
+    },
+    {
+        "name": "Сырок творожный глазированный 10,9% жирности, с ванилином",
+        "calories": "270",
+        "proteins": "9,4",
+        "fats": "10,9",
+        "carbohydrates": "33,1"
+    },
+    {
+        "name": "Сырок творожный глазированный 27,7% жирности, с ванилином",
+        "calories": "413",
+        "proteins": "7,9",
+        "fats": "27,7",
+        "carbohydrates": "32,6"
+    },
+    {
+        "name": "Сырок творожный детский 23% жирности, неглазированный",
+        "calories": "319",
+        "proteins": "9,1",
+        "fats": "23",
+        "carbohydrates": "18,5"
+    },
+    {
+        "name": "Сырок творожный сладкий 16,5% жирности, ванильный, неглазированный",
+        "calories": "238",
+        "proteins": "12",
+        "fats": "16,5",
+        "carbohydrates": "9,5"
+    },
+    {
+        "name": "Сырок творожный сладкий 23% жирности, неглазированный",
+        "calories": "341",
+        "proteins": "7,1",
+        "fats": "23",
+        "carbohydrates": "27,5"
+    },
+    {
+        "name": "Сырок творожный сладкий 26% жирности, неглазированный",
+        "calories": "376",
+        "proteins": "9,1",
+        "fats": "26",
+        "carbohydrates": "27,5"
+    },
+    {
+        "name": "Сырок творожный сладкий 8% жирности, неглазированный",
+        "calories": "181",
+        "proteins": "15",
+        "fats": "8",
+        "carbohydrates": "11,5"
+    },
+    {
+        "name": "Творог 11% жирности",
+        "calories": "178",
+        "proteins": "16",
+        "fats": "11",
+        "carbohydrates": "3"
+    },
+    {
+        "name": "Творог 18% жирности",
+        "calories": "236",
+        "proteins": "15",
+        "fats": "18",
+        "carbohydrates": "2,8"
+    },
+    {
+        "name": "Творог 2% жирности",
+        "calories": "114",
+        "proteins": "20",
+        "fats": "2",
+        "carbohydrates": "3"
+    },
+    {
+        "name": "Творог 4% жирности",
+        "calories": "136",
+        "proteins": "21",
+        "fats": "4",
+        "carbohydrates": "3"
+    },
+    {
+        "name": "Творог 4% жирности, плодово-ягодный",
+        "calories": "164",
+        "proteins": "17,3",
+        "fats": "4",
+        "carbohydrates": "13,7"
+    },
+    {
+        "name": "Творог 5% жирности",
+        "calories": "145",
+        "proteins": "21",
+        "fats": "5",
+        "carbohydrates": "3"
+    },
+    {
+        "name": "Творог 6% жирности, зерненый со сливками",
+        "calories": "113",
+        "proteins": "13",
+        "fats": "6",
+        "carbohydrates": "1"
+    },
+    {
+        "name": "Творог 9% жирности",
+        "calories": "169",
+        "proteins": "18",
+        "fats": "9",
+        "carbohydrates": "3"
+    },
+    {
+        "name": "Творог влажный 1% жирности",
+        "calories": "72",
+        "proteins": "12,39",
+        "fats": "1,02",
+        "carbohydrates": "2,72"
+    },
+    {
+        "name": "Творог влажный 1% жирности, без добавления соли",
+        "calories": "72",
+        "proteins": "12,4",
+        "fats": "1",
+        "carbohydrates": "2,7"
+    },
+    {
+        "name": "Творог влажный 1% жирности, без лактозы",
+        "calories": "74",
+        "proteins": "12,4",
+        "fats": "1",
+        "carbohydrates": "2,6"
+    },
+    {
+        "name": "Творог влажный 1% жирности, с овощами",
+        "calories": "67",
+        "proteins": "10,9",
+        "fats": "1",
+        "carbohydrates": "3"
+    },
+    {
+        "name": "Творог влажный 2% жирности",
+        "calories": "81",
+        "proteins": "10,45",
+        "fats": "2,27",
+        "carbohydrates": "4,76"
+    },
+    {
+        "name": "Творог влажный 3,85% жирности, с фруктами",
+        "calories": "97",
+        "proteins": "10,69",
+        "fats": "3,85",
+        "carbohydrates": "4,41"
+    },
+    {
+        "name": "Творог влажный 4,2% жирности, с овощами",
+        "calories": "95",
+        "proteins": "10,9",
+        "fats": "4,2",
+        "carbohydrates": "2,9"
+    },
+    {
+        "name": "Творог влажный 4,3% жирности",
+        "calories": "98",
+        "proteins": "11,12",
+        "fats": "4,3",
+        "carbohydrates": "3,38"
+    },
+    {
+        "name": "Творог влажный обезжиренный",
+        "calories": "72",
+        "proteins": "10,34",
+        "fats": "0,29",
+        "carbohydrates": "6,66"
+    },
+    {
+        "name": "Творог обезжиренный, 0,5% жирности, плодово-ягодный сладкий",
+        "calories": "138",
+        "proteins": "18,2",
+        "fats": "0,5",
+        "carbohydrates": "14"
+    },
+    {
+        "name": "Творог обезжиренный, 0,6% жирности",
+        "calories": "110",
+        "proteins": "22",
+        "fats": "0,6",
+        "carbohydrates": "3,3"
+    },
+    {
+        "name": "Творожная масса сладкая 8% жирности",
+        "calories": "181",
+        "proteins": "15",
+        "fats": "8",
+        "carbohydrates": "11,5"
+    },
+    {
+        "name": "Творожная масса сладкая с ванилином 20,0% жирности",
+        "calories": "287",
+        "proteins": "11,5",
+        "fats": "20",
+        "carbohydrates": "14,5"
+    },
+    {
+        "name": "Творожная масса сладкая с ванилином, 16,5% жирности",
+        "calories": "238",
+        "proteins": "12",
+        "fats": "16,5",
+        "carbohydrates": "9,5"
+    },
+    {
+        "name": "Творожная масса сладкая с изюмом, 23,0% жирности",
+        "calories": "345",
+        "proteins": "7,1",
+        "fats": "23",
+        "carbohydrates": "27,1"
+    },
+    {
+        "name": "Творожная масса, с изюмом, по 1-332",
+        "calories": "343",
+        "proteins": "6,8",
+        "fats": "21,6",
+        "carbohydrates": "29,9"
+    },
+    {
+        "name": "Творожный крем с ванилином 5,0% жирности",
+        "calories": "167",
+        "proteins": "11",
+        "fats": "5",
+        "carbohydrates": "19,2"
+    },
+    {
+        "name": "Шоколадный напиток растворимый без сахара, сухой",
+        "calories": "358",
+        "proteins": "35,8",
+        "fats": "5,1",
+        "carbohydrates": "39"
+    },
+    {
+        "name": "Шоколадный напиток растворимый, сухой",
+        "calories": "353",
+        "proteins": "19,9",
+        "fats": "1,4",
+        "carbohydrates": "65,8"
+    }
+]
